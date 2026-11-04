@@ -71,3 +71,15 @@ git checkout <commit-hash> -- .
 - Beoordeling-knoppen: kleurcodering (rood/groen)
 - NL↔IT richtingkiezer: segmented control stijl
 - Dark mode: aangepast aan het warme kleurenpalet
+
+---
+
+## Stap 5 – Woorden-tab (2026-11-04)
+
+**Wat:** Een zesde tab "Woorden" toegevoegd met een zoekbare woordenlijst.
+
+**Gewijzigde bestanden:**
+- `src/App.tsx` – Woorden-tab en component toegevoegd (zoekbalk, kaartjes per woord met woordsoort-label en voorbeeldzin)
+- `src/styles.css` – Styling voor woordenlijst (zoekbalk, woord-kaartjes, woordsoort-labels)
+
+**Resultaat:** De tab "Woorden" toont alle 30 woorden van hoofdstuk 1 als overzichtelijke kaartjes. Je kunt zoeken op Italiaans of Nederlands. Elk woord toont: Italiaans woord, woordsoort, Nederlandse vertaling en een voorbeeldzin.

@@ -66,6 +66,7 @@ export default function App() {
     <div className="app">
       <header>
         <h1>Italiano oefenen</h1>
+        <p className="subtitel">Oefen de stof van Dieci lezioni di italiano</p>
         <label className="lesKeuze">
           Les{" "}
           <select

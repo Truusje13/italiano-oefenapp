@@ -94,3 +94,15 @@ git checkout <commit-hash> -- .
 - `src/styles.css` – Radial gradients op de body (oranje linksboven, groen rechtsonder), gloed-variabelen voor light en dark mode
 
 **Resultaat:** De achtergrond heeft een warme, subtiele gloed in oranje en groen — een knipoog naar de Italiaanse vlag. Werkt in zowel light als dark mode.
+
+---
+
+## Stap 7 – Hoofdstukken als startpagina (2026-11-04)
+
+**Wat:** De lay-out geherstructureerd zodat hoofdstukken als knoppen op de startpagina verschijnen, in plaats van een dropdown.
+
+**Gewijzigde bestanden:**
+- `src/App.tsx` – Dropdown-selector vervangen door hoofdstuk-knoppen op de startpagina. Klik op een hoofdstuk → oefentabs verschijnen. "← Hoofdstukken" terugknop om terug te gaan naar het overzicht.
+- `src/styles.css` – Styling voor hoofdstuk-knoppen (nummer, titel, info), terugknop en lestitel.
+
+**Resultaat:** De startpagina toont elk hoofdstuk als een grote, klikbare kaart met het hoofdstuknummer, de titel en het aantal woorden/vragen. Na het klikken verschijnen de oefentabs (Woorden, Flashcards, Meerkeuze, Invullen, Vertalen, Grammatica) met een terugknop naar het overzicht.

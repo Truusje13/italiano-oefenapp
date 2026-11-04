@@ -271,6 +271,75 @@ form input {
   padding: 4px 8px;
 }
 
+/* Hoofdstukken */
+
+.hoofdstukken {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+.hoofdstuk-knop {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  padding: 20px 24px;
+  border-radius: 16px;
+  background: var(--kaart);
+  border: none;
+  box-shadow: var(--schaduw);
+  transition: all 0.2s ease;
+}
+
+.hoofdstuk-knop:hover {
+  box-shadow: var(--schaduw-hover);
+  transform: translateY(-2px);
+}
+
+.hoofdstuk-nummer {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.hoofdstuk-titel {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-top: 4px;
+}
+
+.hoofdstuk-info {
+  font-size: 0.85rem;
+  color: var(--gedempt);
+  margin-top: 6px;
+}
+
+.terug-knop {
+  border: none;
+  background: none;
+  box-shadow: none;
+  color: var(--accent);
+  font-weight: 600;
+  padding: 8px 0;
+  font-size: 0.95rem;
+}
+
+.terug-knop:hover {
+  box-shadow: none;
+  transform: none;
+  text-decoration: underline;
+}
+
+.les-titel {
+  font-size: 1.3rem;
+  margin: 0 0 4px;
+  text-align: center;
+}
+
 /* Woorden */
 
 .woorden-sectie {

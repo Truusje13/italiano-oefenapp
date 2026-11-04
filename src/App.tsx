@@ -52,56 +52,26 @@ function bewaarVoortgang(voortgang: Record<string, KaartVoortgang>): void {
 }
 
 type Tab = "woorden" | "flashcards" | "meerkeuze" | "invul" | "vertalen" | "grammatica";
-type LesKeuze = number | "alle";
 
 export default function App() {
   const { lessen, fouten } = useMemo(laadLessen, []);
+  const [gekozenLes, setGekozenLes] = useState<Les | null>(null);
   const [tab, setTab] = useState<Tab>("woorden");
-  const [lesKeuze, setLesKeuze] = useState<LesKeuze>("alle");
   const [voortgang, setVoortgang] = useState(laadVoortgang);
 
-  const gekozen = lessen.filter((l) => lesKeuze === "alle" || l.id === lesKeuze);
+  function openLes(les: Les) {
+    setGekozenLes(les);
+    setTab("woorden");
+  }
+
+  function terug() {
+    setGekozenLes(null);
+  }
 
   return (
     <div className="app">
       <header>
         <h1>Italiano oefenen</h1>
-        <label className="lesKeuze">
-          Les{" "}
-          <select
-            value={String(lesKeuze)}
-            onChange={(e) =>
-              setLesKeuze(e.target.value === "alle" ? "alle" : Number(e.target.value))
-            }
-          >
-            <option value="alle">Alle lessen</option>
-            {lessen.map((l) => (
-              <option key={l.id} value={l.id}>
-                {l.titel}
-              </option>
-            ))}
-          </select>
-        </label>
-        <nav>
-          <button className={tab === "woorden" ? "actief" : ""} onClick={() => setTab("woorden")}>
-            Woorden
-          </button>
-          <button className={tab === "flashcards" ? "actief" : ""} onClick={() => setTab("flashcards")}>
-            Flashcards
-          </button>
-          <button className={tab === "meerkeuze" ? "actief" : ""} onClick={() => setTab("meerkeuze")}>
-            Meerkeuze
-          </button>
-          <button className={tab === "invul" ? "actief" : ""} onClick={() => setTab("invul")}>
-            Invullen
-          </button>
-          <button className={tab === "vertalen" ? "actief" : ""} onClick={() => setTab("vertalen")}>
-            Vertalen
-          </button>
-          <button className={tab === "grammatica" ? "actief" : ""} onClick={() => setTab("grammatica")}>
-            Grammatica
-          </button>
-        </nav>
       </header>
 
       {fouten.length > 0 && (
@@ -115,16 +85,56 @@ export default function App() {
         </div>
       )}
 
-      {lessen.length === 0 && <p>Nog geen geldige lessen gevonden in src/data/.</p>}
+      {!gekozenLes ? (
+        <section className="hoofdstukken">
+          {lessen.length === 0 && <p>Nog geen lessen gevonden.</p>}
+          {lessen.map((l) => (
+            <button key={l.id} className="hoofdstuk-knop" onClick={() => openLes(l)}>
+              <span className="hoofdstuk-nummer">Hoofdstuk {l.id}</span>
+              <span className="hoofdstuk-titel">{l.titel.replace(/^Hoofdstuk \d+ – /, "")}</span>
+              <span className="hoofdstuk-info">
+                {l.woorden.length} woorden · {l.meerkeuzevragen.length} vragen
+              </span>
+            </button>
+          ))}
+        </section>
+      ) : (
+        <>
+          <button className="terug-knop" onClick={terug}>
+            ← Hoofdstukken
+          </button>
+          <h2 className="les-titel">{gekozenLes.titel}</h2>
+          <nav>
+            <button className={tab === "woorden" ? "actief" : ""} onClick={() => setTab("woorden")}>
+              Woorden
+            </button>
+            <button className={tab === "flashcards" ? "actief" : ""} onClick={() => setTab("flashcards")}>
+              Flashcards
+            </button>
+            <button className={tab === "meerkeuze" ? "actief" : ""} onClick={() => setTab("meerkeuze")}>
+              Meerkeuze
+            </button>
+            <button className={tab === "invul" ? "actief" : ""} onClick={() => setTab("invul")}>
+              Invullen
+            </button>
+            <button className={tab === "vertalen" ? "actief" : ""} onClick={() => setTab("vertalen")}>
+              Vertalen
+            </button>
+            <button className={tab === "grammatica" ? "actief" : ""} onClick={() => setTab("grammatica")}>
+              Grammatica
+            </button>
+          </nav>
 
-      {tab === "woorden" && <Woorden lessen={gekozen} />}
-      {tab === "flashcards" && (
-        <Flashcards lessen={gekozen} voortgang={voortgang} setVoortgang={setVoortgang} />
+          {tab === "woorden" && <Woorden lessen={[gekozenLes]} />}
+          {tab === "flashcards" && (
+            <Flashcards lessen={[gekozenLes]} voortgang={voortgang} setVoortgang={setVoortgang} />
+          )}
+          {tab === "meerkeuze" && <Meerkeuze lessen={[gekozenLes]} />}
+          {tab === "invul" && <Invullen lessen={[gekozenLes]} />}
+          {tab === "vertalen" && <Vertalen lessen={[gekozenLes]} />}
+          {tab === "grammatica" && <Grammatica lessen={[gekozenLes]} />}
+        </>
       )}
-      {tab === "meerkeuze" && <Meerkeuze lessen={gekozen} />}
-      {tab === "invul" && <Invullen lessen={gekozen} />}
-      {tab === "vertalen" && <Vertalen lessen={gekozen} />}
-      {tab === "grammatica" && <Grammatica lessen={gekozen} />}
     </div>
   );
 }

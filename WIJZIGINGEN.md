@@ -32,8 +32,10 @@ git checkout <commit-hash> -- .
 - `vite.config.ts` – base path ingesteld voor GitHub Pages
 - `index.html` – PWA-icoon link toegevoegd
 - PWA-iconen gegenereerd (192x192 en 512x512)
-- `.github/workflows/deploy.yml` – Automatische deployment bij elke push
+- `public/icon.svg` – App-icoon
 - GitHub repository aangemaakt en code gepusht
+
+**Deployment:** Via `npm run deploy` (bouwt de app en pusht naar de `gh-pages` branch).
 
 **Resultaat:** De app is bereikbaar op je telefoon via https://truusje13.github.io/italiano-oefenapp/ en kan als app op je homescreen worden geinstalleerd.
 

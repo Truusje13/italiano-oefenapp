@@ -50,3 +50,24 @@ git checkout <commit-hash> -- .
 - `src/styles.css` – Styling voor grammatica-kaarten (uitklapbaar, accent-pijltje, uitleg)
 
 **Resultaat:** Onder de tab "Grammatica" staan 8 uitklapbare kaarten met uitleg over de grammatica van hoofdstuk 1: superlativo, prima di + infinito, da/per, passato prossimo, sapere + infinito, mai/sempre/ancora, sia...che...
+
+---
+
+## Stap 4 – Speelse look-and-feel (2026-11-04)
+
+**Wat:** De hele app een nieuwe, warmere en speelsere uitstraling gegeven.
+
+**Gewijzigde bestanden:**
+- `src/styles.css` – Volledig vernieuwd kleurenpalet (warm oranje accent), rondere knoppen met schaduw, hover-animaties, betere typografie, Italiaanse vlag-emoji in de titel
+- `src/App.tsx` – Subtitel toegevoegd onder de titel
+
+**Wijzigingen:**
+- Kleurenpalet: van koel blauw naar warm oranje/terracotta (#e85d26), met crèmekleurige achtergrond
+- Knoppen: pill-shaped (border-radius: 20px) met schaduw en hover-effecten
+- Kaarten: grotere padding, geen rand maar schaduw, rondere hoeken
+- Feedback: goed/fout-meldingen met gekleurde achtergrond-pills
+- Meerkeuze-uitleg: zachtoranje achtergrondblok
+- Input: dikkere rand die oranje kleurt bij focus
+- Beoordeling-knoppen: kleurcodering (rood/groen)
+- NL↔IT richtingkiezer: segmented control stijl
+- Dark mode: aangepast aan het warme kleurenpalet

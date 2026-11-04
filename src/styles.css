@@ -12,6 +12,8 @@
   --rand: #e8dfd4;
   --schaduw: 0 2px 12px rgba(44, 24, 16, 0.08);
   --schaduw-hover: 0 4px 20px rgba(44, 24, 16, 0.12);
+  --gloed-1: rgba(232, 93, 38, 0.08);
+  --gloed-2: rgba(45, 138, 78, 0.06);
   color-scheme: light dark;
 }
 
@@ -30,6 +32,8 @@
     --rand: #3d312a;
     --schaduw: 0 2px 12px rgba(0, 0, 0, 0.3);
     --schaduw-hover: 0 4px 20px rgba(0, 0, 0, 0.4);
+    --gloed-1: rgba(255, 122, 69, 0.1);
+    --gloed-2: rgba(74, 194, 107, 0.07);
   }
 }
 
@@ -47,6 +51,8 @@
   --rand: #3d312a;
   --schaduw: 0 2px 12px rgba(0, 0, 0, 0.3);
   --schaduw-hover: 0 4px 20px rgba(0, 0, 0, 0.4);
+  --gloed-1: rgba(255, 122, 69, 0.1);
+  --gloed-2: rgba(74, 194, 107, 0.07);
 }
 
 * {
@@ -56,6 +62,11 @@
 body {
   margin: 0;
   background: var(--achtergrond);
+  background-image:
+    radial-gradient(ellipse at 20% 0%, var(--gloed-1) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 100%, var(--gloed-2) 0%, transparent 50%);
+  background-attachment: fixed;
+  min-height: 100vh;
   color: var(--tekst);
   font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
   line-height: 1.6;

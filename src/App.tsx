@@ -51,7 +51,7 @@ function bewaarVoortgang(voortgang: Record<string, KaartVoortgang>): void {
   }
 }
 
-type Tab = "flashcards" | "meerkeuze" | "invul" | "vertalen";
+type Tab = "flashcards" | "meerkeuze" | "invul" | "vertalen" | "grammatica";
 type LesKeuze = number | "alle";
 
 export default function App() {
@@ -95,6 +95,9 @@ export default function App() {
           <button className={tab === "vertalen" ? "actief" : ""} onClick={() => setTab("vertalen")}>
             Vertalen
           </button>
+          <button className={tab === "grammatica" ? "actief" : ""} onClick={() => setTab("grammatica")}>
+            Grammatica
+          </button>
         </nav>
       </header>
 
@@ -117,6 +120,7 @@ export default function App() {
       {tab === "meerkeuze" && <Meerkeuze lessen={gekozen} />}
       {tab === "invul" && <Invullen lessen={gekozen} />}
       {tab === "vertalen" && <Vertalen lessen={gekozen} />}
+      {tab === "grammatica" && <Grammatica lessen={gekozen} />}
     </div>
   );
 }
@@ -433,6 +437,28 @@ function Vertalen({ lessen }: { lessen: Les[] }) {
           </p>
         )}
       </div>
+    </section>
+  );
+}
+
+// ---------- Grammatica ----------
+
+function Grammatica({ lessen }: { lessen: Les[] }) {
+  const regels = useMemo(
+    () => lessen.flatMap((l) => l.grammatica ?? []),
+    [lessen]
+  );
+
+  if (regels.length === 0) return <p>Geen grammatica-uitleg in deze selectie.</p>;
+
+  return (
+    <section className="grammatica-sectie">
+      {regels.map((r, i) => (
+        <details key={i} className="grammatica-kaart">
+          <summary className="grammatica-titel">{r.titel}</summary>
+          <p className="grammatica-uitleg">{r.uitleg}</p>
+        </details>
+      ))}
     </section>
   );
 }

@@ -35,4 +35,16 @@ git checkout <commit-hash> -- .
 - `.github/workflows/deploy.yml` – Automatische deployment bij elke push
 - GitHub repository aangemaakt en code gepusht
 
-**Resultaat:** De app is bereikbaar op je telefoon via de GitHub Pages URL en kan als app op je homescreen worden geinstalleerd.
+**Resultaat:** De app is bereikbaar op je telefoon via https://truusje13.github.io/italiano-oefenapp/ en kan als app op je homescreen worden geinstalleerd.
+
+---
+
+## Stap 3 – Grammatica-tab (2026-11-04)
+
+**Wat:** Een vijfde tab "Grammatica" toegevoegd met uitklapbare kaarten per grammaticaregel.
+
+**Gewijzigde bestanden:**
+- `src/App.tsx` – Grammatica-tab en component toegevoegd (uitklapbare `<details>` kaarten)
+- `src/styles.css` – Styling voor grammatica-kaarten (uitklapbaar, accent-pijltje, uitleg)
+
+**Resultaat:** Onder de tab "Grammatica" staan 8 uitklapbare kaarten met uitleg over de grammatica van hoofdstuk 1: superlativo, prima di + infinito, da/per, passato prossimo, sapere + infinito, mai/sempre/ancora, sia...che...

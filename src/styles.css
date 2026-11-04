@@ -212,3 +212,44 @@ form input {
   margin: 8px 0 16px;
   text-align: left;
 }
+
+.grammatica-sectie {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.grammatica-kaart {
+  background: var(--kaart);
+  border: 1px solid var(--rand);
+  border-radius: 12px;
+  padding: 0;
+}
+
+.grammatica-titel {
+  padding: 16px 20px;
+  font-weight: 600;
+  font-size: 1.05rem;
+  cursor: pointer;
+  list-style: none;
+}
+
+.grammatica-titel::before {
+  content: "▸ ";
+  color: var(--accent);
+}
+
+.grammatica-kaart[open] .grammatica-titel::before {
+  content: "▾ ";
+}
+
+.grammatica-titel::-webkit-details-marker {
+  display: none;
+}
+
+.grammatica-uitleg {
+  padding: 0 20px 16px;
+  margin: 0;
+  color: var(--gedempt);
+  line-height: 1.7;
+}

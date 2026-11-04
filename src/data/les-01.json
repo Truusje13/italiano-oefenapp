@@ -1,0 +1,204 @@
+{
+  "id": 1,
+  "titel": "Hoofdstuk 1 – Imparare",
+  "woorden": [
+    { "it": "imparare", "nl": "leren", "voorbeeld": "Voglio imparare l'italiano.", "woordsoort": "werkwoord" },
+    { "it": "studiare", "nl": "studeren", "voorbeeld": "Studio italiano da due anni.", "woordsoort": "werkwoord" },
+    { "it": "iscriversi", "nl": "zich inschrijven", "voorbeeld": "Mi sono iscritto a un corso.", "woordsoort": "werkwoord" },
+    { "it": "sapere", "nl": "weten, kunnen", "voorbeeld": "So parlare tre lingue.", "woordsoort": "werkwoord" },
+    { "it": "suonare", "nl": "bespelen (instrument)", "voorbeeld": "Suono la chitarra.", "woordsoort": "werkwoord" },
+    { "it": "giocare", "nl": "spelen (spel/sport)", "voorbeeld": "Gioco a tennis.", "woordsoort": "werkwoord" },
+    { "it": "cominciare", "nl": "beginnen", "voorbeeld": "Ho cominciato a studiare.", "woordsoort": "werkwoord" },
+    { "it": "finire", "nl": "eindigen, afmaken", "voorbeeld": "Ho finito il corso.", "woordsoort": "werkwoord" },
+    { "it": "nuotare", "nl": "zwemmen", "voorbeeld": "So nuotare molto bene.", "woordsoort": "werkwoord" },
+    { "it": "cucinare", "nl": "koken", "voorbeeld": "Mi piace cucinare.", "woordsoort": "werkwoord" },
+    { "it": "viaggiare", "nl": "reizen", "voorbeeld": "Viaggio per lavoro.", "woordsoort": "werkwoord" },
+    { "it": "leggere", "nl": "lezen", "voorbeeld": "Leggo un libro ogni settimana.", "woordsoort": "werkwoord" },
+    { "it": "il corso", "nl": "de cursus", "voorbeeld": "Frequento un corso di italiano.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la laurea", "nl": "het (universitair) diploma", "voorbeeld": "Ho una laurea in economia.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il diploma", "nl": "het diploma", "voorbeeld": "Ho il diploma di scuola superiore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'università", "nl": "de universiteit", "voorbeeld": "Studio all'università di Bologna.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'esame", "nl": "het examen", "voorbeeld": "Domani ho un esame.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la lingua", "nl": "de taal", "voorbeeld": "Parlo tre lingue.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il tempo libero", "nl": "de vrije tijd", "voorbeeld": "Nel tempo libero leggo.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'istruzione", "nl": "het onderwijs", "voorbeeld": "L'istruzione è importante.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "per interesse", "nl": "uit interesse", "voorbeeld": "Studio italiano per interesse.", "woordsoort": "uitdrukking" },
+    { "it": "per piacere", "nl": "voor het plezier", "voorbeeld": "Leggo per piacere.", "woordsoort": "uitdrukking" },
+    { "it": "per lavoro", "nl": "voor het werk", "voorbeeld": "Viaggio per lavoro.", "woordsoort": "uitdrukking" },
+    { "it": "per motivi familiari", "nl": "om familieredenen", "voorbeeld": "Studio italiano per motivi familiari.", "woordsoort": "uitdrukking" },
+    { "it": "circa", "nl": "ongeveer", "voorbeeld": "Studio da circa tre anni.", "woordsoort": "bijwoord" },
+    { "it": "anni fa", "nl": "jaar geleden", "voorbeeld": "Ho cominciato due anni fa.", "woordsoort": "uitdrukking" },
+    { "it": "mai", "nl": "nooit", "voorbeeld": "Non ho mai studiato il francese.", "woordsoort": "bijwoord" },
+    { "it": "sempre", "nl": "altijd", "voorbeeld": "Ho sempre voluto imparare l'italiano.", "woordsoort": "bijwoord" },
+    { "it": "ancora", "nl": "nog", "voorbeeld": "Non ho ancora finito.", "woordsoort": "bijwoord" },
+    { "it": "bellissimo", "nl": "heel mooi", "voorbeeld": "Il corso è bellissimo.", "woordsoort": "bijvoeglijk naamwoord" }
+  ],
+  "zinnen": [
+    { "nl": "Ik studeer Italiaans sinds twee jaar.", "it": "Studio italiano da due anni." },
+    { "nl": "Ik ben begonnen met studeren twee jaar geleden.", "it": "Ho cominciato a studiare due anni fa." },
+    { "nl": "Ik kan drie talen spreken.", "it": "So parlare tre lingue." },
+    { "nl": "Ik heb me ingeschreven voor een cursus.", "it": "Mi sono iscritto a un corso." },
+    { "nl": "Ik heb nooit Frans gestudeerd.", "it": "Non ho mai studiato il francese." },
+    { "nl": "Ik heb het examen nog niet gedaan.", "it": "Non ho ancora fatto l'esame." },
+    { "nl": "Ik studeer Italiaans voor het werk.", "it": "Studio italiano per lavoro." },
+    { "nl": "Ik studeer Italiaans uit interesse.", "it": "Studio italiano per interesse." },
+    { "nl": "In mijn vrije tijd speel ik gitaar.", "it": "Nel tempo libero suono la chitarra." },
+    { "nl": "Ik speel tennis op zaterdag.", "it": "Gioco a tennis il sabato." },
+    { "nl": "De cursus was heel mooi.", "it": "Il corso è stato bellissimo." },
+    { "nl": "Ik heb altijd willen reizen.", "it": "Ho sempre voluto viaggiare." },
+    { "nl": "Ik leer zowel Italiaans als Spaans.", "it": "Imparo sia l'italiano che lo spagnolo." },
+    { "nl": "Voordat ik naar Italië ga, wil ik de taal leren.", "it": "Prima di andare in Italia, voglio imparare la lingua." },
+    { "nl": "Hoe lang studeer je al Italiaans?", "it": "Da quanto tempo studi italiano?" }
+  ],
+  "invuloefeningen": [
+    { "zin": "Studio italiano ___ due anni.", "antwoord": "da" },
+    { "zin": "Ho cominciato a studiare due anni ___.", "antwoord": "fa" },
+    { "zin": "Non ho ___ studiato il francese.", "antwoord": "mai" },
+    { "zin": "Non ho ___ finito il corso.", "antwoord": "ancora" },
+    { "zin": "___ parlare tre lingue.", "antwoord": "So" },
+    { "zin": "Mi sono ___ a un corso di italiano.", "antwoord": "iscritto" },
+    { "zin": "Il corso è stato ___.", "antwoord": "bellissimo" },
+    { "zin": "Studio italiano per ___.", "antwoord": "lavoro" },
+    { "zin": "___ di andare in Italia, voglio studiare.", "antwoord": "Prima" },
+    { "zin": "Ho ___ voluto imparare l'italiano.", "antwoord": "sempre" },
+    { "zin": "Imparo sia l'italiano ___ lo spagnolo.", "antwoord": "che" },
+    { "zin": "Nel tempo libero ___ la chitarra.", "antwoord": "suono" },
+    { "zin": "___ a tennis il sabato.", "antwoord": "Gioco" },
+    { "zin": "Da ___ tempo studi italiano?", "antwoord": "quanto" },
+    { "zin": "Ho ___ a studiare l'anno scorso.", "antwoord": "cominciato" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Wat is de superlativo assoluto van 'bello'?",
+      "opties": ["bellissimo", "più bello", "bellismo", "il più bello"],
+      "antwoord": "bellissimo",
+      "uitleg": "De superlativo assoluto wordt gevormd door -issimo aan de stam toe te voegen: bell- + -issimo = bellissimo."
+    },
+    {
+      "vraag": "Wat is de onregelmatige superlativo van 'buono'?",
+      "opties": ["ottimo", "buonissimo", "migliore", "benissimo"],
+      "antwoord": "ottimo",
+      "uitleg": "De onregelmatige superlativo assoluto van 'buono' is 'ottimo'. 'Buonissimo' wordt ook gebruikt maar is de regelmatige vorm."
+    },
+    {
+      "vraag": "Wat is de onregelmatige superlativo van 'cattivo'?",
+      "opties": ["pessimo", "cattivissimo", "peggiore", "malissimo"],
+      "antwoord": "pessimo",
+      "uitleg": "De onregelmatige superlativo assoluto van 'cattivo' is 'pessimo'."
+    },
+    {
+      "vraag": "Wat is de onregelmatige superlativo van 'grande'?",
+      "opties": ["massimo", "grandissimo", "maggiore", "il più grande"],
+      "antwoord": "massimo",
+      "uitleg": "De onregelmatige superlativo assoluto van 'grande' is 'massimo'."
+    },
+    {
+      "vraag": "Wat is de onregelmatige superlativo van 'piccolo'?",
+      "opties": ["minimo", "piccolissimo", "minore", "il più piccolo"],
+      "antwoord": "minimo",
+      "uitleg": "De onregelmatige superlativo assoluto van 'piccolo' is 'minimo'."
+    },
+    {
+      "vraag": "Welke voorzetsels gebruik je om tijdsduur aan te geven?",
+      "opties": ["da en per", "di en a", "in en con", "a en da"],
+      "antwoord": "da en per",
+      "uitleg": "'Da' geeft aan sinds wanneer iets gaande is, 'per' geeft aan hoe lang iets duurde."
+    },
+    {
+      "vraag": "'Studio italiano ___ due anni.' Welk voorzetsel past hier?",
+      "opties": ["da", "per", "di", "a"],
+      "antwoord": "da",
+      "uitleg": "'Da' gebruik je als de handeling nog steeds gaande is: ik studeer al twee jaar (en doe dat nog steeds)."
+    },
+    {
+      "vraag": "'Ho studiato italiano ___ tre mesi.' Welk voorzetsel past hier?",
+      "opties": ["per", "da", "di", "in"],
+      "antwoord": "per",
+      "uitleg": "'Per' gebruik je als de handeling afgelopen is: ik heb drie maanden gestudeerd (en ben gestopt)."
+    },
+    {
+      "vraag": "Hoe zeg je 'voordat ik vertrek' in het Italiaans?",
+      "opties": ["prima di partire", "dopo partire", "prima partire", "per partire"],
+      "antwoord": "prima di partire",
+      "uitleg": "'Prima di' + infinito is de constructie voor 'voordat': prima di partire, prima di mangiare, etc."
+    },
+    {
+      "vraag": "Wat is de passato prossimo van 'mi sono alzato'?",
+      "opties": ["een wederkerend werkwoord met essere", "een wederkerend werkwoord met avere", "een regelmatig werkwoord met avere", "een onregelmatig werkwoord"],
+      "antwoord": "een wederkerend werkwoord met essere",
+      "uitleg": "Wederkerende werkwoorden (verbi riflessivi) gebruiken altijd 'essere' in de passato prossimo."
+    },
+    {
+      "vraag": "'Ho dovuto studiare molto.' Welk hulpwerkwoord wordt hier gebruikt?",
+      "opties": ["avere", "essere", "stare", "fare"],
+      "antwoord": "avere",
+      "uitleg": "Bij modale werkwoorden (dovere, potere, volere) gebruik je het hulpwerkwoord van het hoofdwerkwoord. 'Studiare' gebruikt 'avere', dus: ho dovuto studiare."
+    },
+    {
+      "vraag": "Welke zin is correct?",
+      "opties": ["So nuotare.", "Conosco nuotare.", "Posso sapere nuotare.", "So di nuotare."],
+      "antwoord": "So nuotare.",
+      "uitleg": "'Sapere' + infinito betekent 'iets kunnen' (een vaardigheid hebben). Zonder voorzetsel: so nuotare, so cucinare, so parlare."
+    },
+    {
+      "vraag": "Wat betekent 'Non ho mai studiato il tedesco'?",
+      "opties": ["Ik heb nooit Duits gestudeerd.", "Ik heb niet meer Duits gestudeerd.", "Ik studeer nooit Duits.", "Ik heb altijd Duits gestudeerd."],
+      "antwoord": "Ik heb nooit Duits gestudeerd.",
+      "uitleg": "'Non ho mai' + participio = 'ik heb nooit'. 'Mai' staat tussen het hulpwerkwoord en het voltooid deelwoord."
+    },
+    {
+      "vraag": "Waar staat 'ancora' in de zin 'Ik heb het nog niet gedaan'?",
+      "opties": ["Non ho ancora fatto.", "Non ancora ho fatto.", "Non ho fatto ancora.", "Ancora non ho fatto."],
+      "antwoord": "Non ho ancora fatto.",
+      "uitleg": "'Ancora' staat tussen het hulpwerkwoord en het voltooid deelwoord, net als 'mai' en 'sempre'."
+    },
+    {
+      "vraag": "Hoe vertaal je 'zowel ... als ...' naar het Italiaans?",
+      "opties": ["sia ... che ...", "e ... e ...", "o ... o ...", "né ... né ..."],
+      "antwoord": "sia ... che ...",
+      "uitleg": "'Sia ... che ...' is de Italiaanse constructie voor 'zowel ... als ...'. Bijvoorbeeld: sia l'italiano che lo spagnolo."
+    },
+    {
+      "vraag": "Welk werkwoord gebruik je voor het bespelen van een muziekinstrument?",
+      "opties": ["suonare", "giocare", "fare", "praticare"],
+      "antwoord": "suonare",
+      "uitleg": "'Suonare' is voor muziekinstrumenten (suonare la chitarra). 'Giocare' is voor sport en spellen (giocare a tennis)."
+    },
+    {
+      "vraag": "Welk werkwoord gebruik je voor 'voetbal spelen'?",
+      "opties": ["giocare a calcio", "suonare il calcio", "fare il calcio", "praticare calcio"],
+      "antwoord": "giocare a calcio",
+      "uitleg": "'Giocare a' + sport voor sportactiviteiten. 'Suonare' is alleen voor muziekinstrumenten."
+    },
+    {
+      "vraag": "Waarom studeer je Italiaans? Welk antwoord past bij 'voor het werk'?",
+      "opties": ["per lavoro", "per interesse", "per piacere", "per motivi familiari"],
+      "antwoord": "per lavoro",
+      "uitleg": "'Per lavoro' = voor het werk. 'Per interesse' = uit interesse. 'Per piacere' = voor het plezier. 'Per motivi familiari' = om familieredenen."
+    },
+    {
+      "vraag": "Hoe vraag je 'Hoe lang (al)?' in het Italiaans?",
+      "opties": ["Da quanto tempo?", "Per quanto tempo?", "Quanto tempo?", "Da quando?"],
+      "antwoord": "Da quanto tempo?",
+      "uitleg": "'Da quanto tempo?' vraag je als de handeling nog gaande is. 'Per quanto tempo?' als de handeling is afgelopen."
+    },
+    {
+      "vraag": "Welke zin klopt? 'Ik ben om 7 uur opgestaan.'",
+      "opties": ["Mi sono alzato alle 7.", "Mi ho alzato alle 7.", "Ho alzato me alle 7.", "Sono alzato alle 7."],
+      "antwoord": "Mi sono alzato alle 7.",
+      "uitleg": "Wederkerende werkwoorden gebruiken 'essere' in de passato prossimo: mi sono alzato/a, ti sei alzato/a, etc."
+    }
+  ],
+  "grammatica": [
+    { "titel": "Superlativo assoluto (-issimo)", "uitleg": "Stam + -issimo/-issima/-issimi/-issime. Bijv.: bello → bellissimo, grande → grandissimo. Onregelmatig: buono → ottimo, cattivo → pessimo, grande → massimo, piccolo → minimo." },
+    { "titel": "Prima di + infinito", "uitleg": "'Prima di' + infinito = 'voordat'. Bijv.: Prima di partire, mangio. (Voordat ik vertrek, eet ik.)" },
+    { "titel": "Da en per voor tijdsduur", "uitleg": "'Da' = sinds (handeling duurt voort): Studio da 2 anni. 'Per' = gedurende (handeling is afgelopen): Ho studiato per 3 mesi." },
+    { "titel": "Passato prossimo: verbi riflessivi", "uitleg": "Wederkerende werkwoorden gebruiken altijd 'essere': Mi sono alzato, ti sei lavato, si è vestita. Let op: voltooid deelwoord past zich aan aan het onderwerp." },
+    { "titel": "Passato prossimo: verbi modali", "uitleg": "Het hulpwerkwoord volgt het hoofdwerkwoord: Ho dovuto studiare (studiare → avere). Sono dovuto andare (andare → essere)." },
+    { "titel": "Sapere + infinito", "uitleg": "'Sapere' + infinito = een vaardigheid hebben. So nuotare (ik kan zwemmen), so cucinare (ik kan koken). Zonder voorzetsel!" },
+    { "titel": "Mai, sempre, non...ancora", "uitleg": "Deze bijwoorden staan tussen hulpwerkwoord en voltooid deelwoord: Non ho MAI studiato. Ho SEMPRE voluto. Non ho ANCORA finito." },
+    { "titel": "Sia ... che ...", "uitleg": "Betekent 'zowel ... als ...'. Bijv.: Parlo sia l'italiano che lo spagnolo." }
+  ],
+  "luisteroefeningen": [],
+  "schrijfopdrachten": []
+}

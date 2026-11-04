@@ -83,3 +83,14 @@ git checkout <commit-hash> -- .
 - `src/styles.css` – Styling voor woordenlijst (zoekbalk, woord-kaartjes, woordsoort-labels)
 
 **Resultaat:** De tab "Woorden" toont alle 30 woorden van hoofdstuk 1 als overzichtelijke kaartjes. Je kunt zoeken op Italiaans of Nederlands. Elk woord toont: Italiaans woord, woordsoort, Nederlandse vertaling en een voorbeeldzin.
+
+---
+
+## Stap 6 – Achtergrondgloed (2026-11-04)
+
+**Wat:** Subtiele achtergrondgloed in Italiaanse kleuren toegevoegd.
+
+**Gewijzigde bestanden:**
+- `src/styles.css` – Radial gradients op de body (oranje linksboven, groen rechtsonder), gloed-variabelen voor light en dark mode
+
+**Resultaat:** De achtergrond heeft een warme, subtiele gloed in oranje en groen — een knipoog naar de Italiaanse vlag. Werkt in zowel light als dark mode.

@@ -260,6 +260,66 @@ form input {
   padding: 4px 8px;
 }
 
+/* Woorden */
+
+.woorden-sectie {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.woorden-zoek {
+  border-radius: 20px;
+  padding: 12px 20px;
+  border: 2px solid var(--rand);
+  box-shadow: var(--schaduw);
+}
+
+.woorden-lijst {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.woord-kaart {
+  background: var(--kaart);
+  border-radius: 14px;
+  padding: 14px 18px;
+  box-shadow: var(--schaduw);
+}
+
+.woord-kop {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.woord-it {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.woord-soort {
+  font-size: 0.75rem;
+  color: var(--gedempt);
+  background: var(--accent-zacht);
+  padding: 2px 8px;
+  border-radius: 10px;
+}
+
+.woord-nl {
+  color: var(--tekst);
+  margin-top: 2px;
+}
+
+.woord-voorbeeld {
+  color: var(--gedempt);
+  font-style: italic;
+  font-size: 0.9rem;
+  margin-top: 4px;
+}
+
 /* Meerkeuze */
 
 .mk-opties {

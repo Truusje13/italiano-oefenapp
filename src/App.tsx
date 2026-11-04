@@ -51,12 +51,12 @@ function bewaarVoortgang(voortgang: Record<string, KaartVoortgang>): void {
   }
 }
 
-type Tab = "flashcards" | "meerkeuze" | "invul" | "vertalen" | "grammatica";
+type Tab = "woorden" | "flashcards" | "meerkeuze" | "invul" | "vertalen" | "grammatica";
 type LesKeuze = number | "alle";
 
 export default function App() {
   const { lessen, fouten } = useMemo(laadLessen, []);
-  const [tab, setTab] = useState<Tab>("flashcards");
+  const [tab, setTab] = useState<Tab>("woorden");
   const [lesKeuze, setLesKeuze] = useState<LesKeuze>("alle");
   const [voortgang, setVoortgang] = useState(laadVoortgang);
 
@@ -83,6 +83,9 @@ export default function App() {
           </select>
         </label>
         <nav>
+          <button className={tab === "woorden" ? "actief" : ""} onClick={() => setTab("woorden")}>
+            Woorden
+          </button>
           <button className={tab === "flashcards" ? "actief" : ""} onClick={() => setTab("flashcards")}>
             Flashcards
           </button>
@@ -114,6 +117,7 @@ export default function App() {
 
       {lessen.length === 0 && <p>Nog geen geldige lessen gevonden in src/data/.</p>}
 
+      {tab === "woorden" && <Woorden lessen={gekozen} />}
       {tab === "flashcards" && (
         <Flashcards lessen={gekozen} voortgang={voortgang} setVoortgang={setVoortgang} />
       )}
@@ -122,6 +126,50 @@ export default function App() {
       {tab === "vertalen" && <Vertalen lessen={gekozen} />}
       {tab === "grammatica" && <Grammatica lessen={gekozen} />}
     </div>
+  );
+}
+
+// ---------- Woorden ----------
+
+function Woorden({ lessen }: { lessen: Les[] }) {
+  const woorden = useMemo(
+    () => lessen.flatMap((l) => l.woorden),
+    [lessen]
+  );
+  const [zoek, setZoek] = useState("");
+
+  const gefilterd = zoek.trim()
+    ? woorden.filter(
+        (w) =>
+          w.it.toLowerCase().includes(zoek.toLowerCase()) ||
+          w.nl.toLowerCase().includes(zoek.toLowerCase())
+      )
+    : woorden;
+
+  if (woorden.length === 0) return <p>Geen woorden in deze selectie.</p>;
+
+  return (
+    <section className="woorden-sectie">
+      <input
+        className="woorden-zoek"
+        value={zoek}
+        onChange={(e) => setZoek(e.target.value)}
+        placeholder="Zoek een woord..."
+      />
+      <p className="teller">{gefilterd.length} woorden</p>
+      <div className="woorden-lijst">
+        {gefilterd.map((w, i) => (
+          <div key={i} className="woord-kaart">
+            <div className="woord-kop">
+              <span className="woord-it">{w.it}</span>
+              {w.woordsoort && <span className="woord-soort">{w.woordsoort}</span>}
+            </div>
+            <div className="woord-nl">{w.nl}</div>
+            {w.voorbeeld && <div className="woord-voorbeeld">{w.voorbeeld}</div>}
+          </div>
+        ))}
+      </div>
+    </section>
   );
 }
 

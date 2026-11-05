@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { Fragment, useMemo, useState } from "react";
 import { lesSchema, type Les } from "./schema/les";
 import { isJuist } from "./lib/normaliseer";
 import {
@@ -86,17 +86,57 @@ export default function App() {
       )}
 
       {!gekozenLes ? (
-        <section className="hoofdstukken">
+        <section className="leerpad">
           {lessen.length === 0 && <p>Nog geen lessen gevonden.</p>}
-          {lessen.map((l) => (
-            <button key={l.id} className="hoofdstuk-knop" onClick={() => openLes(l)}>
-              <span className="hoofdstuk-nummer">Hoofdstuk {l.id}</span>
-              <span className="hoofdstuk-titel">{l.titel.replace(/^Hoofdstuk \d+ – /, "")}</span>
-              <span className="hoofdstuk-info">
-                {l.woorden.length} woorden · {l.meerkeuzevragen.length} vragen
-              </span>
-            </button>
+          {lessen.map((l, i) => (
+            <Fragment key={l.id}>
+              {i > 0 && (
+                <svg className="pad-connector" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d={i % 2 === 1
+                      ? "M 60 0 C 60 30, 140 30, 140 60"
+                      : "M 140 0 C 140 30, 60 30, 60 60"}
+                    stroke="var(--accent)"
+                    strokeWidth="3"
+                    fill="none"
+                    strokeDasharray="8 6"
+                    opacity="0.4"
+                    strokeLinecap="round"
+                  />
+                </svg>
+              )}
+              <div className={`pad-stap ${i % 2 === 0 ? "pad-links" : "pad-rechts"}`}>
+                <button className="pad-bolletje" onClick={() => openLes(l)}>
+                  {l.id}
+                </button>
+                <span className="pad-titel">{l.titel.replace(/^Hoofdstuk \d+ – /, "")}</span>
+                <span className="pad-detail">
+                  {l.woorden.length} woorden · {l.meerkeuzevragen.length} vragen
+                </span>
+              </div>
+            </Fragment>
           ))}
+          {lessen.length > 0 && (
+            <>
+              <svg className="pad-connector" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+                <path
+                  d={lessen.length % 2 === 1
+                    ? "M 60 0 C 60 30, 140 30, 140 60"
+                    : "M 140 0 C 140 30, 60 30, 60 60"}
+                  stroke="var(--accent)"
+                  strokeWidth="3"
+                  fill="none"
+                  strokeDasharray="8 6"
+                  opacity="0.2"
+                  strokeLinecap="round"
+                />
+              </svg>
+              <div className={`pad-stap ${lessen.length % 2 === 0 ? "pad-links" : "pad-rechts"}`}>
+                <div className="pad-bolletje pad-vergrendeld">?</div>
+                <span className="pad-titel pad-gedempt">Binnenkort...</span>
+              </div>
+            </>
+          )}
         </section>
       ) : (
         <>

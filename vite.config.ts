@@ -13,8 +13,8 @@ export default defineConfig({
         short_name: "Italiano",
         description: "Oefen en herhaal de lessen van Dieci lezioni di italiano",
         lang: "nl",
-        theme_color: "#1f6feb",
-        background_color: "#13171f",
+        theme_color: "#009246",
+        background_color: "#1a1412",
         display: "standalone",
         start_url: "./",
         icons: [

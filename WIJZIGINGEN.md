@@ -106,3 +106,15 @@ git checkout <commit-hash> -- .
 - `src/styles.css` – Styling voor hoofdstuk-knoppen (nummer, titel, info), terugknop en lestitel.
 
 **Resultaat:** De startpagina toont elk hoofdstuk als een grote, klikbare kaart met het hoofdstuknummer, de titel en het aantal woorden/vragen. Na het klikken verschijnen de oefentabs (Woorden, Flashcards, Meerkeuze, Invullen, Vertalen, Grammatica) met een terugknop naar het overzicht.
+
+---
+
+## Stap 8 – Leerpad-layout (2026-11-05)
+
+**Wat:** De rechthoekige hoofdstukkaarten vervangen door een game-achtig leerpad met bolletjes op een slingerende weg.
+
+**Gewijzigde bestanden:**
+- `src/App.tsx` – Hoofdstukken worden nu als cirkels (bolletjes) getoond die zigzaggen over het scherm. SVG-connectoren tekenen gebogen stippellijnen tussen de bolletjes. Een vervaagd vraagteken-bolletje ("Binnenkort...") hint naar toekomstige hoofdstukken.
+- `src/styles.css` – Nieuwe leerpad-styling: ronde bolletjes met gloed-effect, hover-animatie (schaalvergroting), zigzag-positionering (links/rechts), vergrendeld-stijl voor toekomstige hoofdstukken.
+
+**Resultaat:** De startpagina ziet eruit als een leerpad uit een game. Hoofdstuk 1 is een oranje bolletje met het nummer "1", verbonden via een gebogen stippellijn naar een grijs vraagteken dat aangeeft dat er meer hoofdstukken komen. Bij het toevoegen van meer hoofdstukken slingert het pad automatisch heen en weer.

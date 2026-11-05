@@ -118,3 +118,15 @@ git checkout <commit-hash> -- .
 - `src/styles.css` – Nieuwe leerpad-styling: ronde bolletjes met gloed-effect, hover-animatie (schaalvergroting), zigzag-positionering (links/rechts), vergrendeld-stijl voor toekomstige hoofdstukken.
 
 **Resultaat:** De startpagina ziet eruit als een leerpad uit een game. Hoofdstuk 1 is een oranje bolletje met het nummer "1", verbonden via een gebogen stippellijn naar een grijs vraagteken dat aangeeft dat er meer hoofdstukken komen. Bij het toevoegen van meer hoofdstukken slingert het pad automatisch heen en weer.
+
+---
+
+## Stap 9 – Italiaanse vlag als app-icoon (2026-11-05)
+
+**Wat:** Het PWA-icoon gewijzigd van een blauw "IT"-blok naar de Italiaanse vlag.
+
+**Gewijzigde bestanden:**
+- `public/icon.svg` – Nieuw icoon: Italiaanse driekleur (groen-wit-rood) met afgeronde hoeken en "IT" tekst in het midden.
+- `vite.config.ts` – Theme-kleur aangepast van blauw (#1f6feb) naar Italiaans groen (#009246), achtergrondkleur naar warm donker (#1a1412).
+
+**Resultaat:** Op het homescreen van je telefoon verschijnt nu de Italiaanse vlag als app-icoon. Na het opnieuw installeren van de PWA is het nieuwe icoon zichtbaar.

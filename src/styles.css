@@ -286,7 +286,8 @@ form input {
   color: var(--accent);
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  margin: 0 0 8px;
+  margin: 0 0 4px;
+  transform: translateX(-40px);
 }
 
 .pad-connector {

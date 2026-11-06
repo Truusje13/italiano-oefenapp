@@ -274,3 +274,17 @@ git checkout <commit-hash> -- .
 - Communicatie: smaken beschrijven, bestellen in een restaurant, ijs bestellen, voorkeuren en afkeer uitdrukken (Non sopporto..., Per me non ha senso), Italiaanse voedingsregels
 
 **Resultaat:** Het leerpad bevat nu alle 10 hoofdstukken van het boek "Dieci lezioni di italiano". Elk hoofdstuk heeft 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 10 grammatica-uitleg.
+
+---
+
+## Stap 19 – Leerpad naam "Dieci" en deploy-fix (2026-11-06)
+
+**Wat:** Het leerpad heeft een naam gekregen ("Dieci"), als voorbereiding op meerdere leerpaden. Daarnaast een deploy-fix voor GitHub Pages.
+
+**Gewijzigde bestanden:**
+- `src/App.tsx` – `<h2 className="leerpad-naam">Dieci</h2>` toegevoegd boven het leerpad
+- `src/styles.css` – Styling voor `.leerpad-naam` (oranje, uppercase, letter-spacing)
+- `public/.nojekyll` – Voorkomt dat GitHub's Jekyll-processor de deploy laat falen
+- `package.json` – `--dotfiles` flag toegevoegd aan het deploy-script zodat `.nojekyll` altijd wordt meegenomen
+
+**Resultaat:** Boven het leerpad staat nu "DIECI" als naam. De app is voorbereid op meerdere leerpaden in de toekomst.

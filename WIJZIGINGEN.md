@@ -283,7 +283,7 @@ git checkout <commit-hash> -- .
 
 **Gewijzigde bestanden:**
 - `src/App.tsx` – `<h2 className="leerpad-naam">Dieci</h2>` toegevoegd boven het leerpad
-- `src/styles.css` – Styling voor `.leerpad-naam` (oranje, uppercase, letter-spacing)
+- `src/styles.css` – Styling voor `.leerpad-naam` (oranje, uppercase, letter-spacing, gecentreerd boven het eerste bolletje met `translateX(-40px)`)
 - `public/.nojekyll` – Voorkomt dat GitHub's Jekyll-processor de deploy laat falen
 - `package.json` – `--dotfiles` flag toegevoegd aan het deploy-script zodat `.nojekyll` altijd wordt meegenomen
 

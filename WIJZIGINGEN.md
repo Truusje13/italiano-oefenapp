@@ -162,3 +162,67 @@ git checkout <commit-hash> -- .
 - Communicatie: gewoontes en gebeurtenissen in het verleden vertellen, gevoelens uitdrukken, feliciteren, verbazing en teleurstelling uitdrukken
 
 **Resultaat:** Het leerpad slingert nu met drie hoofdstukken. Hoofdstuk 3 bevat alle zes oefenvormen.
+
+---
+
+## Stap 12 – Hoofdstuk 4 "Stare bene" (2026-11-06)
+
+**Wat:** Hoofdstuk 4 toegevoegd met oefenstof over gezondheid, lichaam, sport en de formele gebiedende wijs.
+
+**Gewijzigde bestanden:**
+- `src/data/les-04.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 10 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: plurali irregolari (lichaamsdelen: il braccio → le braccia), imperativo con Lei (regelmatig en onregelmatig), imperativo con noi/voi, troppo/tanto (bijvoeglijk naamwoord vs. bijwoord), ne partitivo, indefinito nessuno, non...più, partitivo singolare/plurale, numeri ordinali na decimo
+- Woordenschat: lichaamsdelen (testa, schiena, gola, stomaco, braccio, gamba, ginocchio, dito), apotheek en gezondheid (farmacia, ricetta, pastiglia, sciroppo, febbre, tosse, dolore), sport en beweging
+- Communicatie: symptomen beschrijven, formele instructies geven (prenda, vada, faccia), hoeveelheden aangeven, naar de eerste hulp gaan
+
+**Resultaat:** Het leerpad slingert nu met vier hoofdstukken. Hoofdstuk 4 bevat alle zes oefenvormen.
+
+---
+
+## Stap 13 – Hoofdstuk 5 "Servizi" (2026-11-06)
+
+**Wat:** Hoofdstuk 5 toegevoegd met oefenstof over winkelen, kleding, postkantoor en politiebureau.
+
+**Gewijzigde bestanden:**
+- `src/data/les-05.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 10 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: stare + gerundio (progressive vorm), imperativo con tu e pronomi (prendilo!, dimmi!, fallo!), imperativo con Lei/voi/noi e pronomi (lo prenda!), verbo pronominale averci, gerundio onregelmatig (facendo, bevendo, dicendo)
+- Woordenschat: markt en kleding (sconto, saldi, taglia, tessuto, cotone, lana, seta), patronen (a righe, a quadri, a tinta unita), postkantoor (pacco, francobollo, raccomandata, spedire), politiebureau (commissariato, furto, denunciare, rubare), accessoires (borsa, portafoglio, occhiali, orologio, cintura)
+- Communicatie: korting vragen, kleding passen, aangifte doen van diefstal, pakket versturen
+
+**Resultaat:** Het leerpad slingert nu met vijf hoofdstukken. Hoofdstuk 5 bevat alle zes oefenvormen.
+
+---
+
+## Stap 14 – Hoofdstuk 6 "Ci andiamo?" (2026-11-06)
+
+**Wat:** Hoofdstuk 6 toegevoegd met oefenstof over film, bioscoop, voorstellen doen en gecombineerde voornaamwoorden.
+
+**Gewijzigde bestanden:**
+- `src/data/les-06.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 10 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: ne di argomento, da + infinito (passieve waarde), bisogna (onpersoonlijk werkwoord), pronomi combinati (me lo, glielo, etc.), già/non ancora + passato prossimo, pronome diretto + participio passato, infinito per ordini e istruzioni
+- Woordenschat: film en bioscoop (regista, attore, commedia, film d'azione, documentario, schermo, biglietto), culturele evenementen (festival, concerto, mostra, spettacolo, rassegna), voorstellen en reageren (Ti va di...?, Che ne dici di...?, D'accordo!)
+- Communicatie: voorstellen doen en reageren, films bespreken, culturele meningen geven, openbare instructies begrijpen
+
+**Resultaat:** Het leerpad slingert nu met zes hoofdstukken. Hoofdstuk 6 bevat alle zes oefenvormen.
+
+---
+
+## Stap 15 – Hoofdstuk 7 "Vita e lavoro" (2026-11-06)
+
+**Wat:** Hoofdstuk 7 toegevoegd met oefenstof over werk, beroepen, toekomstplannen en de futuro semplice.
+
+**Gewijzigde bestanden:**
+- `src/data/les-07.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 10 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: pronome relativo che, verbo pronominale metterci, futuro semplice (regelmatig, onregelmatig en ingekort), tra/fra (voorzetsels), connettivi (cioè, siccome, insomma, perché), forme difettive beroepen, futuro epistemico
+- Woordenschat: beroepen (avvocato, ingegnere, medico, impiegato), werkomgeving (collega, stipendio, riunione, curriculum, colloquio), e-mail/telefoon (Gentile, Cordiali saluti, Distinti saluti, Pronto?), verandering (cambiare, licenziarsi, cambiamento)
+- Communicatie: werkdag beschrijven, toekomstplannen maken, formeel telefoneren, formele e-mails schrijven, oorzaken en gevolgen uitdrukken
+
+**Resultaat:** Het leerpad slingert nu met zeven hoofdstukken. Alle hoofdstukken 1 t/m 7 bevatten elk 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 10 grammatica-uitleg.

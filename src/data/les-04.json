@@ -1,0 +1,259 @@
+{
+  "id": 4,
+  "titel": "Hoofdstuk 4 – Stare bene",
+  "woorden": [
+    { "it": "il corpo", "nl": "het lichaam", "voorbeeld": "Il corpo umano è complesso.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la testa", "nl": "het hoofd", "voorbeeld": "Mi fa male la testa.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la schiena", "nl": "de rug", "voorbeeld": "Ho mal di schiena.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la gola", "nl": "de keel", "voorbeeld": "Mi fa male la gola.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "lo stomaco", "nl": "de maag", "voorbeeld": "Ho mal di stomaco.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il braccio", "nl": "de arm", "voorbeeld": "Mi sono rotto il braccio. Plurale: le braccia.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la gamba", "nl": "het been", "voorbeeld": "Mi fa male la gamba.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il ginocchio", "nl": "de knie", "voorbeeld": "Ho mal di ginocchio. Plurale: le ginocchia.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il dito", "nl": "de vinger", "voorbeeld": "Mi sono tagliato un dito. Plurale: le dita.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la farmacia", "nl": "de apotheek", "voorbeeld": "Vado in farmacia.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il pronto soccorso", "nl": "de eerste hulp", "voorbeeld": "Devo andare al pronto soccorso.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la ricetta", "nl": "het recept (medisch)", "voorbeeld": "Il medico mi ha dato una ricetta.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la pastiglia", "nl": "de pil, het tablet", "voorbeeld": "Prenda una pastiglia tre volte al giorno.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "lo sciroppo", "nl": "de siroop, het drankje", "voorbeeld": "Prenda lo sciroppo per la tosse.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la febbre", "nl": "de koorts", "voorbeeld": "Ho la febbre alta.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la tosse", "nl": "de hoest", "voorbeeld": "Ho una brutta tosse.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il dolore", "nl": "de pijn", "voorbeeld": "Ho un forte dolore alla schiena.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "muoversi", "nl": "bewegen", "voorbeeld": "È importante muoversi ogni giorno.", "woordsoort": "werkwoord" },
+    { "it": "sentirsi", "nl": "zich voelen", "voorbeeld": "Mi sento bene oggi.", "woordsoort": "werkwoord" },
+    { "it": "riuscire a", "nl": "erin slagen, lukken", "voorbeeld": "Non riesco a dormire.", "woordsoort": "werkwoord" },
+    { "it": "avere paura di", "nl": "bang zijn voor", "voorbeeld": "Ho paura di volare.", "woordsoort": "uitdrukking" },
+    { "it": "troppo", "nl": "te veel", "voorbeeld": "Lavoro troppo.", "woordsoort": "bijwoord" },
+    { "it": "tanto", "nl": "veel, erg", "voorbeeld": "Mi piace tanto nuotare.", "woordsoort": "bijwoord" },
+    { "it": "nessuno", "nl": "niemand, geen enkel", "voorbeeld": "Non c'è nessuno.", "woordsoort": "onbepaald voornaamwoord" },
+    { "it": "non ... più", "nl": "niet meer", "voorbeeld": "Non ho più mal di testa.", "woordsoort": "uitdrukking" },
+    { "it": "fare male", "nl": "pijn doen", "voorbeeld": "Mi fa male la testa.", "woordsoort": "uitdrukking" },
+    { "it": "avere mal di", "nl": "pijn hebben aan", "voorbeeld": "Ho mal di stomaco.", "woordsoort": "uitdrukking" },
+    { "it": "lo sport", "nl": "de sport", "voorbeeld": "Fare sport fa bene alla salute.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la salute", "nl": "de gezondheid", "voorbeeld": "La salute è importante.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il vantaggio", "nl": "het voordeel", "voorbeeld": "Fare sport ha molti vantaggi.", "woordsoort": "zelfstandig naamwoord" }
+  ],
+  "zinnen": [
+    { "nl": "Ik heb hoofdpijn.", "it": "Ho mal di testa." },
+    { "nl": "Mijn rug doet pijn.", "it": "Mi fa male la schiena." },
+    { "nl": "Ik heb koorts en hoest.", "it": "Ho la febbre e la tosse." },
+    { "nl": "Neem een pil drie keer per dag.", "it": "Prenda una pastiglia tre volte al giorno." },
+    { "nl": "Ik voel me niet lekker vandaag.", "it": "Non mi sento bene oggi." },
+    { "nl": "Ik werk te veel.", "it": "Lavoro troppo." },
+    { "nl": "Er is niemand thuis.", "it": "Non c'è nessuno a casa." },
+    { "nl": "Ik heb geen hoofdpijn meer.", "it": "Non ho più mal di testa." },
+    { "nl": "Ik kan niet slapen.", "it": "Non riesco a dormire." },
+    { "nl": "Ik ben bang om te vliegen.", "it": "Ho paura di volare." },
+    { "nl": "Het is belangrijk om elke dag te bewegen.", "it": "È importante muoversi ogni giorno." },
+    { "nl": "Ga naar de eerste hulp!", "it": "Vada al pronto soccorso!" },
+    { "nl": "De dokter heeft me een recept gegeven.", "it": "Il medico mi ha dato una ricetta." },
+    { "nl": "Sporten is goed voor de gezondheid.", "it": "Fare sport fa bene alla salute." },
+    { "nl": "Ik heb me een vinger gebroken.", "it": "Mi sono rotto un dito." }
+  ],
+  "invuloefeningen": [
+    { "zin": "Ho mal di ___. (hoofd)", "antwoord": "testa" },
+    { "zin": "Mi fa ___ la schiena.", "antwoord": "male" },
+    { "zin": "___ una pastiglia tre volte al giorno. (formeel)", "antwoord": "Prenda" },
+    { "zin": "Non mi ___ bene oggi.", "antwoord": "sento" },
+    { "zin": "Lavoro ___. Devo riposare.", "antwoord": "troppo" },
+    { "zin": "Non c'è ___ a casa.", "antwoord": "nessuno" },
+    { "zin": "Non ho ___ mal di testa.", "antwoord": "più" },
+    { "zin": "Non ___ a dormire.", "antwoord": "riesco" },
+    { "zin": "Ho ___ di volare.", "antwoord": "paura" },
+    { "zin": "___ al pronto soccorso! (formeel: ga)", "antwoord": "Vada" },
+    { "zin": "Ho la ___ alta.", "antwoord": "febbre" },
+    { "zin": "Il medico mi ha dato una ___.", "antwoord": "ricetta" },
+    { "zin": "Fare sport fa bene alla ___.", "antwoord": "salute" },
+    { "zin": "Mi sono rotto il ___. (arm)", "antwoord": "braccio" },
+    { "zin": "Ho un forte ___ alla schiena.", "antwoord": "dolore" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Wat is het meervoud van 'il braccio'?",
+      "opties": ["le braccia", "i bracci", "le bracci", "i braccia"],
+      "antwoord": "le braccia",
+      "uitleg": "Sommige lichaamsdelen hebben een onregelmatig meervoud dat vrouwelijk wordt: il braccio → le braccia, il dito → le dita, il ginocchio → le ginocchia."
+    },
+    {
+      "vraag": "Hoe maak je de imperativo met 'Lei' van 'prendere'?",
+      "opties": ["prenda", "prende", "prendi", "prendete"],
+      "antwoord": "prenda",
+      "uitleg": "De formele gebiedende wijs (Lei) van -ere werkwoorden eindigt op -a: prendere → prenda."
+    },
+    {
+      "vraag": "Hoe maak je de imperativo met 'Lei' van 'andare'?",
+      "opties": ["vada", "anda", "va", "andate"],
+      "antwoord": "vada",
+      "uitleg": "Andare heeft een onregelmatige Lei-imperativo: vada. Andere onregelmatige: fare → faccia, essere → sia, avere → abbia."
+    },
+    {
+      "vraag": "Wat is de imperativo van 'noi' bij 'mangiare'?",
+      "opties": ["mangiamo", "mangiato", "mangia", "mangiate"],
+      "antwoord": "mangiamo",
+      "uitleg": "De noi-imperativo is gelijk aan de gewone noi-vorm: mangiamo! (laten we eten!)"
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'troppo' als bijvoeglijk naamwoord en als bijwoord?",
+      "opties": [
+        "Als bijvoeglijk naamwoord past het aan (troppo/a/i/e), als bijwoord niet",
+        "Er is geen verschil",
+        "Als bijwoord past het aan, als bijvoeglijk naamwoord niet",
+        "Troppo is altijd een bijwoord"
+      ],
+      "antwoord": "Als bijvoeglijk naamwoord past het aan (troppo/a/i/e), als bijwoord niet",
+      "uitleg": "Bijvoeglijk naamwoord: 'Mangio troppi dolci.' Bijwoord: 'Lavoro troppo.'"
+    },
+    {
+      "vraag": "Hoe zeg je 'ik heb keelpijn' in het Italiaans?",
+      "opties": ["Ho mal di gola.", "Ho male la gola.", "Ho la gola male.", "Mi male gola."],
+      "antwoord": "Ho mal di gola.",
+      "uitleg": "De vaste uitdrukking is: avere mal di + lichaamsdeel. Ho mal di testa/gola/stomaco/schiena."
+    },
+    {
+      "vraag": "Wat betekent 'non c'è nessuno'?",
+      "opties": ["Er is niemand", "Er is iemand", "Er is niets", "Er is iedereen"],
+      "antwoord": "Er is niemand",
+      "uitleg": "Nessuno = niemand. Let op de dubbele ontkenning in het Italiaans: non ... nessuno."
+    },
+    {
+      "vraag": "Wat is 'ne' in de zin 'Ne prenda due al giorno'?",
+      "opties": [
+        "Een partitief voornaamwoord (ervan)",
+        "Een ontkenning",
+        "Een voegwoord",
+        "Een voorzetsel"
+      ],
+      "antwoord": "Een partitief voornaamwoord (ervan)",
+      "uitleg": "Ne = ervan, daarvan. 'Ne prenda due al giorno' = Neem er twee per dag (van de pillen)."
+    },
+    {
+      "vraag": "Wat is de formele imperativo van 'fare'?",
+      "opties": ["faccia", "fa", "fai", "fate"],
+      "antwoord": "faccia",
+      "uitleg": "Fare heeft een onregelmatige Lei-imperativo: faccia. 'Faccia attenzione!' (Let op!)"
+    },
+    {
+      "vraag": "Wat betekent 'riuscire a'?",
+      "opties": ["Erin slagen, lukken", "Proberen", "Willen", "Moeten"],
+      "antwoord": "Erin slagen, lukken",
+      "uitleg": "Riuscire a + infinito: 'Non riesco a dormire.' (Het lukt me niet om te slapen.)"
+    },
+    {
+      "vraag": "Welke zin is correct?",
+      "opties": [
+        "Mi fa male la testa.",
+        "Mi fa male il testa.",
+        "Mi fai male la testa.",
+        "Mi fa male di testa."
+      ],
+      "antwoord": "Mi fa male la testa.",
+      "uitleg": "Fare male + lidwoord + lichaamsdeel: 'Mi fa male la testa/la schiena/lo stomaco.'"
+    },
+    {
+      "vraag": "Wat betekent 'non ... più'?",
+      "opties": ["niet meer", "niet nog", "nooit meer", "niet eerder"],
+      "antwoord": "niet meer",
+      "uitleg": "Non ... più = niet meer. 'Non ho più fame.' (Ik heb geen honger meer.)"
+    },
+    {
+      "vraag": "Wat is het meervoud van 'il dito'?",
+      "opties": ["le dita", "i diti", "le diti", "i dita"],
+      "antwoord": "le dita",
+      "uitleg": "Onregelmatig meervoud: il dito → le dita (vrouwelijk). Net als il braccio → le braccia."
+    },
+    {
+      "vraag": "Hoe zeg je formeel 'ga zitten' (Lei)?",
+      "opties": ["Si sieda.", "Si siede.", "Siediti.", "Sedetevi."],
+      "antwoord": "Si sieda.",
+      "uitleg": "Sedersi in de Lei-imperativo: si sieda. Informeel (tu): siediti. Formeel voi: sedetevi."
+    },
+    {
+      "vraag": "Wat is 'tanto' in 'Ho tanto mal di testa'?",
+      "opties": ["Een bijwoord (erg, heel veel)", "Een bijvoeglijk naamwoord", "Een zelfstandig naamwoord", "Een werkwoord"],
+      "antwoord": "Een bijwoord (erg, heel veel)",
+      "uitleg": "Tanto als bijwoord = erg, veel. Als bijvoeglijk naamwoord past het aan: 'Ho tanti amici.'"
+    },
+    {
+      "vraag": "Wat is de imperativo van 'voi' bij 'prendere'?",
+      "opties": ["prendete", "prenda", "prendi", "prendiamo"],
+      "antwoord": "prendete",
+      "uitleg": "De voi-imperativo is gelijk aan de gewone voi-vorm: prendete!"
+    },
+    {
+      "vraag": "Wat zijn de voordelen van sport volgens de Italiaanse woordenschat?",
+      "opties": ["i vantaggi", "i svantaggi", "i problemi", "i dolori"],
+      "antwoord": "i vantaggi",
+      "uitleg": "Il vantaggio (het voordeel) → i vantaggi (de voordelen). Het tegenovergestelde: lo svantaggio (het nadeel)."
+    },
+    {
+      "vraag": "Welke zin gebruikt 'ne' partitief correct?",
+      "opties": [
+        "Quante pastiglie? Ne prenda due.",
+        "Quante pastiglie? Le prenda due.",
+        "Quante pastiglie? Prenda ne due.",
+        "Quante pastiglie? Ne prendo due a."
+      ],
+      "antwoord": "Quante pastiglie? Ne prenda due.",
+      "uitleg": "Ne (ervan) vervangt de hoeveelheid: 'Ne prenda due' = neem er twee (van de pillen)."
+    },
+    {
+      "vraag": "Hoe zeg je 'ik ben bang voor de dokter'?",
+      "opties": [
+        "Ho paura del dottore.",
+        "Sono paura del dottore.",
+        "Faccio paura del dottore.",
+        "Ho paura al dottore."
+      ],
+      "antwoord": "Ho paura del dottore.",
+      "uitleg": "Avere paura di + zelfstandig naamwoord. Del = di + il (samentrekking)."
+    },
+    {
+      "vraag": "Welk getal is 'undicesimo'?",
+      "opties": ["elfde", "tiende", "twaalfde", "negende"],
+      "antwoord": "elfde",
+      "uitleg": "Rangtelwoorden na 10: undicesimo (11e), dodicesimo (12e), tredicesimo (13e), etc. Gevormd met het hoofdtelwoord + -esimo."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Plurali irregolari: lichaamsdelen",
+      "uitleg": "Sommige lichaamsdelen hebben een onregelmatig meervoud en worden vrouwelijk: il braccio → le braccia, il dito → le dita, il ginocchio → le ginocchia, l'osso → le ossa, il labbro → le labbra. Andere lichaamsdelen zijn regelmatig: la gamba → le gambe, la mano → le mani."
+    },
+    {
+      "titel": "Imperativo con Lei (formele gebiedende wijs)",
+      "uitleg": "Regelmatig: -are → -i (parli!), -ere → -a (prenda!), -ire → -a (senta!). Onregelmatig: andare → vada, fare → faccia, essere → sia, avere → abbia, dare → dia, stare → stia, dire → dica, venire → venga. Gebruikt om beleefd instructies te geven: 'Prenda questa medicina.'"
+    },
+    {
+      "titel": "Imperativo con noi e voi",
+      "uitleg": "De gebiedende wijs van noi en voi is gelijk aan de gewone tegenwoordige-tijdvormen. Noi: 'Andiamo!' (Laten we gaan!) Voi: 'Mangiate!' (Eet!) Gebruikt voor voorstellen (noi) en groepsinstructies (voi)."
+    },
+    {
+      "titel": "Troppo: bijvoeglijk naamwoord en bijwoord",
+      "uitleg": "Als bijvoeglijk naamwoord past troppo aan in geslacht en getal: troppo lavoro, troppa acqua, troppi dolci, troppe persone. Als bijwoord is troppo onveranderlijk: 'Lavoro troppo.' 'Mangio troppo.'"
+    },
+    {
+      "titel": "Il ne partitivo",
+      "uitleg": "Ne vervangt een deel van een hoeveelheid (= ervan, daarvan). 'Quante pastiglie devo prendere? Ne prenda due.' (Neem er twee.) 'Vuoi del caffè? Sì, ne voglio un po'.' Ne staat vóór het werkwoord, maar na de imperativo tu: 'Prendine due!'"
+    },
+    {
+      "titel": "Tanto: bijvoeglijk naamwoord en bijwoord",
+      "uitleg": "Als bijvoeglijk naamwoord past tanto aan: tanto tempo, tanta pazienza, tanti amici, tante persone. Als bijwoord is het onveranderlijk: 'Mi piace tanto.' 'Ho tanto mal di testa.'"
+    },
+    {
+      "titel": "L'indefinito nessuno",
+      "uitleg": "Nessuno = niemand (zelfstandig) of geen enkel (bijvoeglijk). Altijd met non: 'Non c'è nessuno.' (Er is niemand.) 'Non ho nessun problema.' (Ik heb geen enkel probleem.) Als bijvoeglijk naamwoord volgt nessuno de vormen van het onbepaald lidwoord: nessun, nessuno, nessuna."
+    },
+    {
+      "titel": "Non ... più",
+      "uitleg": "Non ... più = niet meer. 'Non fumo più.' (Ik rook niet meer.) 'Non ho più mal di testa.' (Ik heb geen hoofdpijn meer.) Vergelijk met non ... ancora (nog niet), non ... mai (nooit), non ... nessuno (niemand)."
+    },
+    {
+      "titel": "Il partitivo singolare e plurale",
+      "uitleg": "Het partitief lidwoord drukt 'een beetje' of 'enkele' uit: del pane (wat brood), della frutta (wat fruit), dei biscotti (enkele koekjes), delle mele (enkele appels). Wordt gevormd met di + bepaald lidwoord. In ontkenningen: 'Non ho pane' (zonder partitief)."
+    },
+    {
+      "titel": "Numeri ordinali dopo decimo",
+      "uitleg": "Na 10e worden rangtelwoorden gevormd met het hoofdtelwoord + -esimo: undicesimo (11e), dodicesimo (12e), tredicesimo (13e), quattordicesimo (14e), ventesimo (20e). Bij getallen die eindigen op een klinker valt de klinker weg: venti → ventesimo, trenta → trentesimo."
+    }
+  ]
+}

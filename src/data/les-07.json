@@ -1,0 +1,274 @@
+{
+  "id": 7,
+  "titel": "Hoofdstuk 7 – Vita e lavoro",
+  "woorden": [
+    { "it": "il lavoro", "nl": "het werk", "voorbeeld": "Mi piace il mio lavoro.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il mestiere", "nl": "het beroep, het vak", "voorbeeld": "Che mestiere fai?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la professione", "nl": "het beroep (formeel)", "voorbeeld": "Di professione sono avvocato.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'avvocato", "nl": "de advocaat", "voorbeeld": "Mia sorella è avvocato.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'ingegnere", "nl": "de ingenieur", "voorbeeld": "Lavora come ingegnere.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il medico", "nl": "de arts", "voorbeeld": "Il medico mi ha visitato.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'impiegato/a", "nl": "de kantoormedewerker", "voorbeeld": "Sono impiegata in banca.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il collega", "nl": "de collega", "voorbeeld": "I miei colleghi sono simpatici.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "lo stipendio", "nl": "het salaris", "voorbeeld": "Lo stipendio non è molto alto.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il futuro", "nl": "de toekomst", "voorbeeld": "Come immagini il tuo futuro?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il cambiamento", "nl": "de verandering", "voorbeeld": "È stato un grande cambiamento.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la riunione", "nl": "de vergadering", "voorbeeld": "Ho una riunione alle 10.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il curriculum", "nl": "het cv", "voorbeeld": "Ho mandato il mio curriculum.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il colloquio", "nl": "het sollicitatiegesprek", "voorbeeld": "Ho un colloquio domani.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "cambiare", "nl": "veranderen, wisselen", "voorbeeld": "Voglio cambiare lavoro.", "woordsoort": "werkwoord" },
+    { "it": "metterci", "nl": "erover doen (tijd)", "voorbeeld": "Ci metto un'ora per arrivare.", "woordsoort": "werkwoord" },
+    { "it": "tra / fra", "nl": "over (tijd), tussen", "voorbeeld": "Parto tra due settimane.", "woordsoort": "voorzetsel" },
+    { "it": "cioè", "nl": "dat wil zeggen, oftewel", "voorbeeld": "Lavoro part-time, cioè 4 ore al giorno.", "woordsoort": "voegwoord" },
+    { "it": "siccome", "nl": "aangezien, omdat", "voorbeeld": "Siccome piove, resto a casa.", "woordsoort": "voegwoord" },
+    { "it": "insomma", "nl": "kortom, al met al", "voorbeeld": "Insomma, è andata bene.", "woordsoort": "bijwoord" },
+    { "it": "perché", "nl": "omdat, waarom", "voorbeeld": "Studio italiano perché mi piace.", "woordsoort": "voegwoord" },
+    { "it": "che (relativo)", "nl": "die, dat (betrekkelijk)", "voorbeeld": "Il lavoro che faccio mi piace.", "woordsoort": "betrekkelijk voornaamwoord" },
+    { "it": "la mail", "nl": "de e-mail", "voorbeeld": "Ti mando una mail.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il Dottore / la Dottoressa", "nl": "de doctor (aanspreektitel)", "voorbeeld": "Buongiorno, Dottoressa Bianchi.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "Gentile", "nl": "Geachte", "voorbeeld": "Gentile Dottoressa Bianchi, ...", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "Cordiali saluti", "nl": "Met vriendelijke groeten", "voorbeeld": "Cordiali saluti, Marco Rossi.", "woordsoort": "uitdrukking" },
+    { "it": "Distinti saluti", "nl": "Hoogachtend", "voorbeeld": "Distinti saluti, Dott. Bianchi.", "woordsoort": "uitdrukking" },
+    { "it": "Pronto?", "nl": "Hallo? (aan de telefoon)", "voorbeeld": "Pronto? Chi parla?", "woordsoort": "uitdrukking" },
+    { "it": "guadagnare", "nl": "verdienen", "voorbeeld": "Quanto guadagni al mese?", "woordsoort": "werkwoord" },
+    { "it": "licenziarsi", "nl": "ontslag nemen", "voorbeeld": "Mi sono licenziato il mese scorso.", "woordsoort": "werkwoord" }
+  ],
+  "zinnen": [
+    { "nl": "Ik doe er een uur over om aan te komen.", "it": "Ci metto un'ora per arrivare." },
+    { "nl": "Ik vertrek over twee weken.", "it": "Parto tra due settimane." },
+    { "nl": "Het werk dat ik doe bevalt me.", "it": "Il lavoro che faccio mi piace." },
+    { "nl": "Aangezien het regent, blijf ik thuis.", "it": "Siccome piove, resto a casa." },
+    { "nl": "Kortom, het ging goed.", "it": "Insomma, è andata bene." },
+    { "nl": "Ik wil van baan veranderen.", "it": "Voglio cambiare lavoro." },
+    { "nl": "Ik heb morgen een sollicitatiegesprek.", "it": "Ho un colloquio domani." },
+    { "nl": "Ik heb mijn cv gestuurd.", "it": "Ho mandato il mio curriculum." },
+    { "nl": "Hoeveel verdien je per maand?", "it": "Quanto guadagni al mese?" },
+    { "nl": "Ik heb vorige maand ontslag genomen.", "it": "Mi sono licenziato il mese scorso." },
+    { "nl": "Geachte dokter Bianchi, ...", "it": "Gentile Dottoressa Bianchi, ..." },
+    { "nl": "Met vriendelijke groeten.", "it": "Cordiali saluti." },
+    { "nl": "Hallo? Wie spreekt er?", "it": "Pronto? Chi parla?" },
+    { "nl": "Ik werk parttime, dat wil zeggen vier uur per dag.", "it": "Lavoro part-time, cioè quattro ore al giorno." },
+    { "nl": "Hoe stel je je je toekomst voor?", "it": "Come immagini il tuo futuro?" }
+  ],
+  "invuloefeningen": [
+    { "zin": "Ci ___ un'ora per arrivare. (erover doen)", "antwoord": "metto" },
+    { "zin": "Parto ___ due settimane. (over)", "antwoord": "tra" },
+    { "zin": "Il lavoro ___ faccio mi piace. (dat/die)", "antwoord": "che" },
+    { "zin": "___ piove, resto a casa. (aangezien)", "antwoord": "Siccome" },
+    { "zin": "Voglio ___ lavoro. (veranderen)", "antwoord": "cambiare" },
+    { "zin": "Ho un ___ domani. (sollicitatiegesprek)", "antwoord": "colloquio" },
+    { "zin": "Ho mandato il mio ___. (cv)", "antwoord": "curriculum" },
+    { "zin": "Quanto ___ al mese? (verdienen)", "antwoord": "guadagni" },
+    { "zin": "___, è andata bene. (kortom)", "antwoord": "Insomma" },
+    { "zin": "Lavoro part-time, ___ quattro ore al giorno. (dat wil zeggen)", "antwoord": "cioè" },
+    { "zin": "Studio italiano ___ mi piace. (omdat)", "antwoord": "perché" },
+    { "zin": "Di ___ sono avvocato. (beroep)", "antwoord": "professione" },
+    { "zin": "Ho una ___ alle dieci. (vergadering)", "antwoord": "riunione" },
+    { "zin": "___? Chi parla? (hallo, telefoon)", "antwoord": "Pronto" },
+    { "zin": "___ saluti. (met vriendelijke groeten)", "antwoord": "Cordiali" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Wat is het futuro semplice van 'io parlare'?",
+      "opties": ["parlerò", "parlero", "parlarò", "parlirò"],
+      "antwoord": "parlerò",
+      "uitleg": "Futuro semplice van -are: parlerò, parlerai, parlerà, parleremo, parlerete, parleranno. De -a- van -are wordt een -e-."
+    },
+    {
+      "vraag": "Wat is het futuro semplice van 'io avere'?",
+      "opties": ["avrò", "averò", "avrerò", "arò"],
+      "antwoord": "avrò",
+      "uitleg": "Avere is onregelmatig in het futuro: avrò, avrai, avrà, avremo, avrete, avranno. De stam wordt ingekort: avere → avr-."
+    },
+    {
+      "vraag": "Wat is het futuro semplice van 'io essere'?",
+      "opties": ["sarò", "serò", "esserò", "starò"],
+      "antwoord": "sarò",
+      "uitleg": "Essere is onregelmatig: sarò, sarai, sarà, saremo, sarete, saranno. Stam: sar-. Vergelijk met stare: starò (ik zal zijn/blijven)."
+    },
+    {
+      "vraag": "Wat betekent 'metterci' in 'Ci metto un'ora'?",
+      "opties": [
+        "Erover doen (qua tijd)",
+        "Iets neerzetten",
+        "Iets inzetten",
+        "Eraan beginnen"
+      ],
+      "antwoord": "Erover doen (qua tijd)",
+      "uitleg": "Metterci = erover doen. 'Ci metto un'ora per arrivare.' (Ik doe er een uur over.) Het partikel ci verwijst naar de tijd/moeite. Vervoeg: ci metto, ci metti, ci mette..."
+    },
+    {
+      "vraag": "Wat is de functie van 'che' in 'Il lavoro che faccio'?",
+      "opties": [
+        "Betrekkelijk voornaamwoord (die/dat)",
+        "Voegwoord (dat/omdat)",
+        "Vraagwoord (wat)",
+        "Aanwijzend voornaamwoord"
+      ],
+      "antwoord": "Betrekkelijk voornaamwoord (die/dat)",
+      "uitleg": "Il pronome relativo che = die/dat. Het vervangt een eerder genoemd woord: 'Il lavoro che faccio' (het werk dat ik doe). Che kan zowel personen als dingen vervangen en is altijd onveranderlijk."
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'tra' en 'fra'?",
+      "opties": [
+        "Er is geen verschil, ze zijn uitwisselbaar",
+        "Tra is voor tijd, fra is voor plaats",
+        "Tra is formeel, fra is informeel",
+        "Tra is voor enkelvoud, fra voor meervoud"
+      ],
+      "antwoord": "Er is geen verschil, ze zijn uitwisselbaar",
+      "uitleg": "Tra en fra zijn volledig uitwisselbaar. Soms kiest men op klank: 'tra tre giorni' klinkt minder goed dan 'fra tre giorni'. Beide betekenen 'over' (tijd) of 'tussen' (plaats)."
+    },
+    {
+      "vraag": "Wat is het futuro semplice van 'io fare'?",
+      "opties": ["farò", "facerò", "ferò", "faccerò"],
+      "antwoord": "farò",
+      "uitleg": "Fare is onregelmatig in het futuro: farò, farai, farà, faremo, farete, faranno. Stam: far-. Andere onregelmatige: andare → andrò, venire → verrò, potere → potrò."
+    },
+    {
+      "vraag": "Wat betekent 'siccome'?",
+      "opties": ["Aangezien, omdat (aan het begin van de zin)", "Zodra", "Tenzij", "Hoewel"],
+      "antwoord": "Aangezien, omdat (aan het begin van de zin)",
+      "uitleg": "Siccome staat altijd aan het begin van de zin en geeft een reden: 'Siccome piove, resto a casa.' (Aangezien het regent, blijf ik thuis.) Vergelijk met perché, dat in het midden of einde staat."
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'siccome' en 'perché'?",
+      "opties": [
+        "Siccome staat aan het begin, perché in het midden/einde van de zin",
+        "Siccome is formeel, perché is informeel",
+        "Siccome is voor oorzaak, perché is voor gevolg",
+        "Er is geen verschil"
+      ],
+      "antwoord": "Siccome staat aan het begin, perché in het midden/einde van de zin",
+      "uitleg": "'Siccome piove, resto a casa.' vs. 'Resto a casa perché piove.' Beide betekenen 'omdat', maar siccome staat altijd vooraan. Siccome legt de nadruk op de reden."
+    },
+    {
+      "vraag": "Wat betekent 'cioè'?",
+      "opties": ["Dat wil zeggen, oftewel", "Omdat", "Maar", "Dus"],
+      "antwoord": "Dat wil zeggen, oftewel",
+      "uitleg": "Cioè verduidelijkt wat je net gezegd hebt: 'Lavoro part-time, cioè quattro ore al giorno.' (Ik werk parttime, dat wil zeggen vier uur per dag.)"
+    },
+    {
+      "vraag": "Wat is het futuro semplice van 'tu venire'?",
+      "opties": ["verrai", "venirai", "verai", "vienirai"],
+      "antwoord": "verrai",
+      "uitleg": "Venire is onregelmatig (verdubbelde r): verrò, verrai, verrà, verremo, verrete, verranno. Net als: volere → vorrò, rimanere → rimarrò, tenere → terrò."
+    },
+    {
+      "vraag": "Hoe begin je een formele e-mail?",
+      "opties": [
+        "Gentile Dottoressa Bianchi, ...",
+        "Ciao Dottoressa Bianchi, ...",
+        "Ehi Dottoressa, ...",
+        "Cara Dottoressa Bianchi, ..."
+      ],
+      "antwoord": "Gentile Dottoressa Bianchi, ...",
+      "uitleg": "Formele aanhef: 'Gentile + titel + achternaam'. Informeel: 'Caro/Cara + voornaam'. 'Gentile' = geachte. 'Egregio/a' is nog formeler."
+    },
+    {
+      "vraag": "Hoe sluit je een formele e-mail af?",
+      "opties": [
+        "Cordiali saluti / Distinti saluti",
+        "Baci e abbracci",
+        "A presto!",
+        "Ciao ciao!"
+      ],
+      "antwoord": "Cordiali saluti / Distinti saluti",
+      "uitleg": "Formeel: 'Cordiali saluti' (met vriendelijke groeten) of 'Distinti saluti' (hoogachtend). Informeel: 'A presto!' (Tot snel!), 'Un abbraccio' (Een knuffel), 'Baci' (Kusjes)."
+    },
+    {
+      "vraag": "Wat betekent 'insomma'?",
+      "opties": ["Kortom, al met al", "Daarom", "Bovendien", "Misschien"],
+      "antwoord": "Kortom, al met al",
+      "uitleg": "Insomma = kortom, al met al. Wordt gebruikt om samen te vatten: 'Insomma, è andata bene.' (Kortom, het ging goed.) Kan ook 'niet echt' betekenen: 'Come stai?' 'Insomma...' (Gaat wel...)"
+    },
+    {
+      "vraag": "Hoe neem je de telefoon op in het Italiaans?",
+      "opties": ["Pronto?", "Ciao?", "Chi è?", "Buongiorno?"],
+      "antwoord": "Pronto?",
+      "uitleg": "In Italië neem je de telefoon op met 'Pronto?' (letterlijk: klaar?). Formeel: 'Pronto, sono [naam].' of 'Pronto, chi parla?' (Hallo, wie spreekt er?)"
+    },
+    {
+      "vraag": "Wat zijn 'forme difettive' bij beroepen?",
+      "opties": [
+        "Beroepsnamen die geen vrouwelijke of mannelijke variant hebben",
+        "Werkwoorden zonder alle vervoegingsvormen",
+        "Onregelmatige meervoudsvormen",
+        "Bijvoeglijke naamwoorden zonder vergrotende trap"
+      ],
+      "antwoord": "Beroepsnamen die geen vrouwelijke of mannelijke variant hebben",
+      "uitleg": "Sommige beroepsnamen hebben (nog) geen algemeen geaccepteerde vrouwelijke/mannelijke vorm: 'il medico' (ook voor vrouwen), 'l'avvocato' (naast 'l'avvocata/avvocatessa'). De taal is in beweging."
+    },
+    {
+      "vraag": "Wat is het futuro semplice van 'noi andare'?",
+      "opties": ["andremo", "andaremo", "anderemo", "andreremo"],
+      "antwoord": "andremo",
+      "uitleg": "Andare is onregelmatig: andrò, andrai, andrà, andremo, andrete, andranno. Stam: andr-. De -a- valt weg en er komt een -r-."
+    },
+    {
+      "vraag": "Welke connector gebruik je om een reden te geven aan het begin van de zin?",
+      "opties": ["siccome", "perché", "cioè", "insomma"],
+      "antwoord": "siccome",
+      "uitleg": "Siccome staat altijd aan het begin: 'Siccome sono stanco, vado a letto.' Perché staat aan het einde: 'Vado a letto perché sono stanco.' Beide zijn correct."
+    },
+    {
+      "vraag": "Wat is het futuro semplice van 'io dovere'?",
+      "opties": ["dovrò", "doverò", "doverrò", "devrò"],
+      "antwoord": "dovrò",
+      "uitleg": "Dovere is onregelmatig (stam: dovr-): dovrò, dovrai, dovrà, dovremo, dovrete, dovranno. Net als potere → potrò, sapere → saprò, vedere → vedrò."
+    },
+    {
+      "vraag": "Hoe gebruik je 'che' als betrekkelijk voornaamwoord?",
+      "opties": [
+        "Che vervangt het subject of direct object: 'La ragazza che parla' / 'Il libro che leggo'",
+        "Che wordt alleen voor personen gebruikt",
+        "Che wordt alleen voor dingen gebruikt",
+        "Che verandert naar chi voor personen"
+      ],
+      "antwoord": "Che vervangt het subject of direct object: 'La ragazza che parla' / 'Il libro che leggo'",
+      "uitleg": "Che is onveranderlijk en vervangt zowel personen als dingen, als subject of direct object. 'L'uomo che parla' (de man die spreekt). 'Il film che ho visto' (de film die ik gezien heb). Na een voorzetsel gebruik je cui: 'La persona a cui parlo' (de persoon met wie ik spreek)."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Il pronome relativo che",
+      "uitleg": "Che (die, dat) is het meest gebruikte betrekkelijk voornaamwoord. Het is onveranderlijk en kan personen en dingen vervangen als subject of direct object: 'Il ragazzo che parla è mio fratello.' (subject) 'Il libro che leggo è interessante.' (direct object) Na een voorzetsel gebruik je cui: 'La persona a cui ho scritto' (de persoon aan wie ik heb geschreven)."
+    },
+    {
+      "titel": "Il verbo pronominale metterci",
+      "uitleg": "Metterci = erover doen (qua tijd). Het partikel ci is vast onderdeel van het werkwoord: 'Ci metto un'ora per arrivare al lavoro.' (Ik doe er een uur over.) Vervoeging: ci metto, ci metti, ci mette, ci mettiamo, ci mettete, ci mettono. Passato prossimo: 'Ci ho messo due ore.' (Ik heb er twee uur over gedaan.)"
+    },
+    {
+      "titel": "Il futuro semplice: forme regolari",
+      "uitleg": "De toekomende tijd wordt gevormd door uitgangen aan de stam toe te voegen: -are → -erò, -erai, -erà, -eremo, -erete, -eranno (parlare → parlerò). -ere → -erò etc. (prendere → prenderò). -ire → -irò etc. (partire → partirò). Let op: bij -are wordt de -a- een -e-."
+    },
+    {
+      "titel": "Il futuro semplice: forme irregolari e contratte",
+      "uitleg": "Onregelmatige stammen: essere → sar-, avere → avr-, fare → far-, andare → andr-, dovere → dovr-, potere → potr-, sapere → sapr-, vedere → vedr-, vivere → vivr-. Verdubbelde r: venire → verr-, volere → vorr-, rimanere → rimarr-, tenere → terr-, bere → berr-. De uitgangen zijn altijd hetzelfde: -ò, -ai, -à, -emo, -ete, -anno."
+    },
+    {
+      "titel": "Tra / fra (voorzetsels)",
+      "uitleg": "Tra en fra zijn volledig uitwisselbaar en betekenen: 1) Over (tijd): 'Parto tra/fra due settimane.' (Ik vertrek over twee weken.) 2) Tussen (plaats/keuze): 'Tra Roma e Milano.' (Tussen Rome en Milaan.) Soms kiest men op klank om herhaling te vermijden: 'fra tre' i.p.v. 'tra tre'."
+    },
+    {
+      "titel": "Connettivi: cioè, siccome, insomma, perché",
+      "uitleg": "Cioè = dat wil zeggen, oftewel (verduidelijking). Siccome = aangezien, omdat (reden, aan het begin van de zin). Insomma = kortom, al met al (samenvatting). Perché = omdat, want (reden, in het midden/einde). Voorbeeld: 'Siccome piove, resto a casa, cioè non esco. Insomma, preferisco stare al caldo.'"
+    },
+    {
+      "titel": "Forme difettive di alcuni mestieri",
+      "uitleg": "Sommige beroepsnamen hebben traditioneel geen vrouwelijke variant, maar de taal is in beweging. Traditioneel: il medico (m/v), il giudice (m/v), l'avvocato (m/v). Modern: la medica, la giudice, l'avvocata/avvocatessa worden steeds meer geaccepteerd. Titels: Dottore/Dottoressa, Professore/Professoressa, Ingegnere (vaak onveranderlijk)."
+    },
+    {
+      "titel": "Formeel telefoneren",
+      "uitleg": "De telefoon opnemen: 'Pronto?' of 'Pronto, sono [naam].' Om iemand te spreken: 'Vorrei parlare con il/la Dottor/Dottoressa [naam].' 'Cercavo il/la Dottor/Dottoressa [naam].' Vragen wie belt: 'Chi parla?' Doorverbinden: 'Glielo/Gliela passo.' Niet bereikbaar: 'Non c'è al momento.' 'Può richiamare più tardi?'"
+    },
+    {
+      "titel": "Formele e-mail schrijven",
+      "uitleg": "Aanhef: 'Gentile Dottoressa/Dottore [achternaam],' of 'Egregio/a [titel] [achternaam],' (heel formeel). Inleiding: 'Le scrivo per...' (Ik schrijf u om...) Afsluiting: 'Cordiali saluti' (met vriendelijke groeten), 'Distinti saluti' (hoogachtend), 'In attesa di una Sua risposta' (in afwachting van uw antwoord)."
+    },
+    {
+      "titel": "Il futuro semplice: gebruik",
+      "uitleg": "Het futuro semplice wordt gebruikt voor: 1) Toekomstplannen: 'Domani andrò al cinema.' 2) Voorspellingen: 'Secondo me, pioverà.' 3) Beloftes: 'Ti chiamerò stasera.' 4) Vermoedens (futuro epistemico): 'Quanti anni avrà? Avrà 30 anni.' (Hoe oud zou hij zijn? Hij zal wel 30 zijn.) In de spreektaal wordt vaak presente + tijdsaanduiding gebruikt i.p.v. futuro: 'Domani vado al cinema.'"
+    }
+  ]
+}

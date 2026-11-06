@@ -1,0 +1,269 @@
+{
+  "id": 5,
+  "titel": "Hoofdstuk 5 – Servizi",
+  "woorden": [
+    { "it": "il mercato", "nl": "de markt", "voorbeeld": "Vado al mercato ogni sabato.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "lo sconto", "nl": "de korting", "voorbeeld": "Può farmi uno sconto?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "i saldi", "nl": "de uitverkoop", "voorbeeld": "I saldi iniziano a gennaio.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la taglia", "nl": "de maat (kleding)", "voorbeeld": "Che taglia porta?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il tessuto", "nl": "de stof", "voorbeeld": "Questo tessuto è di cotone.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il cotone", "nl": "het katoen", "voorbeeld": "Preferisco le magliette di cotone.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la lana", "nl": "de wol", "voorbeeld": "Questo maglione è di lana.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la seta", "nl": "de zijde", "voorbeeld": "Una camicia di seta.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "a righe", "nl": "gestreept", "voorbeeld": "Una maglietta a righe.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "a quadri", "nl": "geruit", "voorbeeld": "Una gonna a quadri.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "a tinta unita", "nl": "effen (kleur)", "voorbeeld": "Preferisco le camicie a tinta unita.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "il pacco", "nl": "het pakket", "voorbeeld": "Devo spedire un pacco.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'ufficio postale", "nl": "het postkantoor", "voorbeeld": "Vado all'ufficio postale.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "spedire", "nl": "versturen, verzenden", "voorbeeld": "Devo spedire un pacco in Francia.", "woordsoort": "werkwoord" },
+    { "it": "il commissariato", "nl": "het politiebureau", "voorbeeld": "Devo andare al commissariato.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la borsa", "nl": "de tas", "voorbeeld": "Mi hanno rubato la borsa.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il portafoglio", "nl": "de portemonnee", "voorbeeld": "Ho perso il portafoglio.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "gli occhiali", "nl": "de bril", "voorbeeld": "Porto gli occhiali da sole.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'orologio", "nl": "het horloge", "voorbeeld": "Un orologio d'oro.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la cintura", "nl": "de riem", "voorbeeld": "Una cintura di pelle.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "stare + gerundio", "nl": "bezig zijn met (aan het ...)", "voorbeeld": "Sto mangiando. (Ik ben aan het eten.)", "woordsoort": "uitdrukking" },
+    { "it": "provare", "nl": "passen, proberen", "voorbeeld": "Posso provare questa gonna?", "woordsoort": "werkwoord" },
+    { "it": "rubare", "nl": "stelen", "voorbeeld": "Mi hanno rubato il portafoglio.", "woordsoort": "werkwoord" },
+    { "it": "denunciare", "nl": "aangifte doen", "voorbeeld": "Voglio denunciare un furto.", "woordsoort": "werkwoord" },
+    { "it": "il furto", "nl": "de diefstal", "voorbeeld": "Ho subito un furto.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "Come mi sta?", "nl": "Hoe staat het me?", "voorbeeld": "Come mi sta questa gonna?", "woordsoort": "uitdrukking" },
+    { "it": "Le sta benissimo!", "nl": "Het staat u prachtig!", "voorbeeld": "Quel vestito Le sta benissimo!", "woordsoort": "uitdrukking" },
+    { "it": "averci", "nl": "hebben (spreektaal)", "voorbeeld": "Ce l'hai un momento?", "woordsoort": "werkwoord" },
+    { "it": "il francobollo", "nl": "de postzegel", "voorbeeld": "Mi servono due francobolli.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la raccomandata", "nl": "de aangetekende brief", "voorbeeld": "Vorrei spedire una raccomandata.", "woordsoort": "zelfstandig naamwoord" }
+  ],
+  "zinnen": [
+    { "nl": "Kunt u mij korting geven?", "it": "Può farmi uno sconto?" },
+    { "nl": "Welke maat heeft u?", "it": "Che taglia porta?" },
+    { "nl": "Ik ben aan het eten.", "it": "Sto mangiando." },
+    { "nl": "Kan ik deze rok passen?", "it": "Posso provare questa gonna?" },
+    { "nl": "Ze hebben mijn portemonnee gestolen.", "it": "Mi hanno rubato il portafoglio." },
+    { "nl": "Ik wil aangifte doen van een diefstal.", "it": "Voglio denunciare un furto." },
+    { "nl": "Ik moet een pakket naar Frankrijk versturen.", "it": "Devo spedire un pacco in Francia." },
+    { "nl": "De uitverkoop begint in januari.", "it": "I saldi iniziano a gennaio." },
+    { "nl": "Hoe staat deze jurk me?", "it": "Come mi sta questo vestito?" },
+    { "nl": "Het staat u prachtig!", "it": "Le sta benissimo!" },
+    { "nl": "Ik heb mijn bril verloren.", "it": "Ho perso gli occhiali." },
+    { "nl": "Probeer het eens aan! (informeel)", "it": "Provalo!" },
+    { "nl": "Stuurt u het aangetekend! (formeel)", "it": "Lo spedisca con raccomandata!" },
+    { "nl": "Ik zoek een katoenen overhemd.", "it": "Cerco una camicia di cotone." },
+    { "nl": "Wat ben je aan het doen?", "it": "Che cosa stai facendo?" }
+  ],
+  "invuloefeningen": [
+    { "zin": "Può farmi uno ___? (korting)", "antwoord": "sconto" },
+    { "zin": "Che ___ porta? (maat)", "antwoord": "taglia" },
+    { "zin": "___ mangiando. (ik ben aan het)", "antwoord": "Sto" },
+    { "zin": "Posso ___ questa gonna? (passen)", "antwoord": "provare" },
+    { "zin": "Mi hanno ___ il portafoglio. (gestolen)", "antwoord": "rubato" },
+    { "zin": "Voglio ___ un furto. (aangifte doen)", "antwoord": "denunciare" },
+    { "zin": "Devo ___ un pacco. (versturen)", "antwoord": "spedire" },
+    { "zin": "I ___ iniziano a gennaio. (uitverkoop)", "antwoord": "saldi" },
+    { "zin": "Come mi ___ questo vestito? (staan)", "antwoord": "sta" },
+    { "zin": "Questo maglione è di ___. (wol)", "antwoord": "lana" },
+    { "zin": "Una maglietta a ___. (gestreept)", "antwoord": "righe" },
+    { "zin": "Ho perso gli ___. (bril)", "antwoord": "occhiali" },
+    { "zin": "Vado all'ufficio ___. (postkantoor)", "antwoord": "postale" },
+    { "zin": "Mi servono due ___. (postzegels)", "antwoord": "francobolli" },
+    { "zin": "Vorrei spedire una ___. (aangetekende brief)", "antwoord": "raccomandata" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Hoe zeg je 'ik ben aan het lezen' in het Italiaans?",
+      "opties": ["Sto leggendo.", "Sono leggendo.", "Stando leggendo.", "Ho leggendo."],
+      "antwoord": "Sto leggendo.",
+      "uitleg": "Stare + gerundio = bezig zijn met. Stare wordt vervoegd (sto, stai, sta, stiamo, state, stanno) + gerundio (leggendo, mangiando, dormendo)."
+    },
+    {
+      "vraag": "Hoe vorm je het gerundio van 'mangiare'?",
+      "opties": ["mangiando", "mangiendo", "mangiato", "mangiare"],
+      "antwoord": "mangiando",
+      "uitleg": "Het gerundio: -are → -ando (mangiando), -ere → -endo (leggendo), -ire → -endo (dormendo)."
+    },
+    {
+      "vraag": "Wat is de informele imperativo met pronomen van 'provare + lo'?",
+      "opties": ["Provalo!", "Lo prova!", "Provali!", "Provolo!"],
+      "antwoord": "Provalo!",
+      "uitleg": "Bij de tu-imperativo worden pronomen achter het werkwoord geplakt: prova + lo = provalo! Vergelijk: dimmi (dì + mi), fallo (fa' + lo)."
+    },
+    {
+      "vraag": "Hoe zeg je formeel 'stuur het!' (Lei + lo)?",
+      "opties": ["Lo spedisca!", "Spediscalo!", "Lo spedisce!", "Spedisci lo!"],
+      "antwoord": "Lo spedisca!",
+      "uitleg": "Bij de Lei-imperativo staan pronomen VÓÓR het werkwoord: lo spedisca, la prenda, li mandi. Bij tu-imperativo staan ze erachter: spediscilo, prendilo."
+    },
+    {
+      "vraag": "Wat betekent 'i saldi'?",
+      "opties": ["De uitverkoop", "De rekening", "De winst", "De prijs"],
+      "antwoord": "De uitverkoop",
+      "uitleg": "I saldi = de uitverkoop, de solden. In Italië zijn er twee perioden: saldi invernali (winter, januari) en saldi estivi (zomer, juli)."
+    },
+    {
+      "vraag": "Welke stof is 'la seta'?",
+      "opties": ["Zijde", "Katoen", "Wol", "Leer"],
+      "antwoord": "Zijde",
+      "uitleg": "La seta = zijde. Andere stoffen: il cotone (katoen), la lana (wol), la pelle (leer)."
+    },
+    {
+      "vraag": "Wat betekent 'a righe'?",
+      "opties": ["Gestreept", "Geruit", "Effen", "Gestippeld"],
+      "antwoord": "Gestreept",
+      "uitleg": "A righe = gestreept. A quadri = geruit. A tinta unita = effen. A pois = gestippeld."
+    },
+    {
+      "vraag": "Hoe vraag je 'hoe staat het me?' in het Italiaans?",
+      "opties": ["Come mi sta?", "Come mi è?", "Come mi va?", "Come mi sento?"],
+      "antwoord": "Come mi sta?",
+      "uitleg": "Stare = staan (van kleding). 'Come mi sta questa gonna?' (Hoe staat deze rok me?) 'Le sta benissimo!' (Het staat u prachtig!)"
+    },
+    {
+      "vraag": "Wat is het werkwoord 'averci'?",
+      "opties": [
+        "De spreektaalvorm van avere met ci (Ce l'hai?)",
+        "Een formeel werkwoord",
+        "Een wederkerend werkwoord",
+        "Het hulpwerkwoord in de passato prossimo"
+      ],
+      "antwoord": "De spreektaalvorm van avere met ci (Ce l'hai?)",
+      "uitleg": "Averci is informeel/spreektaal: 'Ce l'hai un momento?' (Heb je even?) 'Ce l'ho!' (Ik heb het!) Het partikel ci heeft geen letterlijke betekenis."
+    },
+    {
+      "vraag": "Hoe zeg je 'ze zijn aan het praten'?",
+      "opties": ["Stanno parlando.", "Stano parlando.", "Sono parlando.", "Stanno parlato."],
+      "antwoord": "Stanno parlando.",
+      "uitleg": "Stare + gerundio: stanno (zij-vorm van stare) + parlando (gerundio van parlare)."
+    },
+    {
+      "vraag": "Waar plaats je het pronomen bij de tu-imperativo?",
+      "opties": [
+        "Achter het werkwoord, als één woord (Prendilo!)",
+        "Vóór het werkwoord (Lo prendi!)",
+        "Los na het werkwoord (Prendi lo!)",
+        "Het maakt niet uit"
+      ],
+      "antwoord": "Achter het werkwoord, als één woord (Prendilo!)",
+      "uitleg": "Bij de tu-imperativo plak je pronomen achter het werkwoord: prendi + lo = prendilo! Uitzondering: bij onregelmatige eenlettergrepige vormen (di', fa', da', sta', va') verdubbelt de medeklinker: dimmi, fallo, dammi."
+    },
+    {
+      "vraag": "Waar staat het pronomen bij de Lei-imperativo?",
+      "opties": [
+        "Vóór het werkwoord (Lo prenda!)",
+        "Achter het werkwoord (Prendalo!)",
+        "Het maakt niet uit",
+        "Er is geen pronomen bij Lei"
+      ],
+      "antwoord": "Vóór het werkwoord (Lo prenda!)",
+      "uitleg": "Bij de Lei-imperativo staan pronomen VÓÓR het werkwoord: 'Lo prenda!' 'La guardi!' 'Li mandi!' Dit is anders dan bij tu/noi/voi, waar pronomen erachter staan."
+    },
+    {
+      "vraag": "Hoe zeg je 'ik wil een diefstal aangeven'?",
+      "opties": [
+        "Voglio denunciare un furto.",
+        "Voglio dire un furto.",
+        "Voglio fare un furto.",
+        "Voglio chiamare un furto."
+      ],
+      "antwoord": "Voglio denunciare un furto.",
+      "uitleg": "Denunciare un furto = aangifte doen van een diefstal. Bij het commissariato (politiebureau)."
+    },
+    {
+      "vraag": "Wat is het gerundio van 'fare'?",
+      "opties": ["facendo", "farendo", "fando", "fatto"],
+      "antwoord": "facendo",
+      "uitleg": "Onregelmatig gerundio: fare → facendo, bere → bevendo, dire → dicendo. Stam van de originele Latijnse vorm."
+    },
+    {
+      "vraag": "Hoe zeg je 'laten we het proberen!' (noi)?",
+      "opties": ["Proviamolo!", "Lo proviamo!", "Proviamo lo!", "Lo provate!"],
+      "antwoord": "Proviamolo!",
+      "uitleg": "Bij de noi-imperativo plak je het pronomen erachter: proviamo + lo = proviamolo! Net als bij tu (provalo!) en voi (provatelo!)."
+    },
+    {
+      "vraag": "Welk accessoire is 'la cintura'?",
+      "opties": ["De riem", "De sjaal", "De hoed", "De das"],
+      "antwoord": "De riem",
+      "uitleg": "La cintura = de riem. Andere accessoires: gli occhiali (bril), l'orologio (horloge), la sciarpa (sjaal), il cappello (hoed)."
+    },
+    {
+      "vraag": "Wat betekent 'la raccomandata'?",
+      "opties": ["De aangetekende brief", "De postzegel", "De postbode", "De envelop"],
+      "antwoord": "De aangetekende brief",
+      "uitleg": "Una raccomandata = een aangetekende brief. Op het postkantoor: 'Vorrei spedire una raccomandata.' (Ik wil een aangetekende brief versturen.)"
+    },
+    {
+      "vraag": "Hoe zeg je 'ze zijn me aan het helpen' (stare + gerundio)?",
+      "opties": [
+        "Mi stanno aiutando.",
+        "Stanno mi aiutando.",
+        "Stando aiutandomi.",
+        "Mi stanno aiutato."
+      ],
+      "antwoord": "Mi stanno aiutando.",
+      "uitleg": "Bij stare + gerundio kan het pronomen vóór stare (Mi stanno aiutando) of achter het gerundio (Stanno aiutandomi). Beide vormen zijn correct."
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'Provalo!' en 'Lo provi!'?",
+      "opties": [
+        "Provalo = informeel (tu), Lo provi = formeel (Lei)",
+        "Provalo = formeel, Lo provi = informeel",
+        "Er is geen verschil",
+        "Provalo = meervoud, Lo provi = enkelvoud"
+      ],
+      "antwoord": "Provalo = informeel (tu), Lo provi = formeel (Lei)",
+      "uitleg": "Tu-imperativo: pronomen erachter → provalo! Lei-imperativo: pronomen ervoor → lo provi! Dit is een belangrijk verschil."
+    },
+    {
+      "vraag": "Hoe vraag je om korting op de markt?",
+      "opties": [
+        "Può farmi uno sconto?",
+        "Può darmi uno sconto?",
+        "Mi fa uno sconto.",
+        "Alle bovenstaande zijn correct"
+      ],
+      "antwoord": "Alle bovenstaande zijn correct",
+      "uitleg": "Op de markt kun je op verschillende manieren om korting vragen: 'Può farmi uno sconto?' of 'Mi fa uno sconto?' zijn allebei gebruikelijk."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Stare + gerundio (progressive vorm)",
+      "uitleg": "Stare + gerundio drukt uit wat er op dit moment aan de gang is: 'Sto mangiando' (ik ben aan het eten). Stare wordt vervoegd: sto, stai, sta, stiamo, state, stanno. Gerundio: -are → -ando (parlando), -ere → -endo (leggendo), -ire → -endo (dormendo). Onregelmatig: fare → facendo, bere → bevendo, dire → dicendo."
+    },
+    {
+      "titel": "Imperativo con tu e i pronomi",
+      "uitleg": "Bij de tu-imperativo worden pronomen achter het werkwoord geplakt als één woord: prendi + lo = prendilo! Dimmi! (dì + mi), Fallo! (fa' + lo), Dammi! (da' + mi). Bij de onregelmatige eenlettergrepige vormen (di', fa', da', sta', va') verdubbelt de medeklinker van het pronomen: dimmi, fallo, dammi, stacci, vacci. Uitzondering: gli verdubbelt niet (digli)."
+    },
+    {
+      "titel": "Imperativo con Lei/voi/noi e i pronomi",
+      "uitleg": "Bij de Lei-imperativo staan pronomen VÓÓR het werkwoord: Lo prenda! La guardi! Mi dica! Bij noi en voi staan pronomen achter het werkwoord: Prendiamolo! Provatelo! Vergelijk: tu → Prendilo! (achter), Lei → Lo prenda! (voor), noi → Prendiamolo! (achter), voi → Prendetelo! (achter)."
+    },
+    {
+      "titel": "Il verbo pronominale averci",
+      "uitleg": "Averci is de spreektaalvorm van avere met het partikel ci. Het wordt veel gebruikt in informeel Italiaans: 'Ce l'hai un momento?' (Heb je even?) 'Ce l'ho!' (Ik heb het!) 'Non ce l'ho.' (Ik heb het niet.) Het partikel ci heeft hier geen letterlijke betekenis maar geeft nadruk."
+    },
+    {
+      "titel": "Tessuti e fantasie (stoffen en patronen)",
+      "uitleg": "Stoffen: il cotone (katoen), la lana (wol), la seta (zijde), la pelle (leer), il lino (linnen). Patronen: a righe (gestreept), a quadri (geruit), a pois (gestippeld), a fiori (gebloemd), a tinta unita (effen). Maten: la taglia (kledingmaat) — 'Che taglia porta?' (Welke maat heeft u?)"
+    },
+    {
+      "titel": "Al mercato: korting vragen",
+      "uitleg": "Nuttige uitdrukkingen op de markt: 'Può farmi uno sconto?' (Kunt u mij korting geven?) 'Mi fa uno sconto?' (informeler). 'Quanto costa?' (Hoeveel kost het?) 'È troppo caro.' (Het is te duur.) 'Come mi sta?' (Hoe staat het me?) 'Le sta benissimo!' (Het staat u prachtig!)"
+    },
+    {
+      "titel": "Al commissariato: aangifte doen",
+      "uitleg": "Op het politiebureau: 'Voglio denunciare un furto.' (Ik wil aangifte doen van een diefstal.) 'Mi hanno rubato il/la...' (Ze hebben mijn ... gestolen.) Accessoires: la borsa (tas), il portafoglio (portemonnee), gli occhiali (bril), l'orologio (horloge), la cintura (riem)."
+    },
+    {
+      "titel": "All'ufficio postale: op het postkantoor",
+      "uitleg": "Op het postkantoor: 'Devo spedire un pacco.' (Ik moet een pakket versturen.) 'Vorrei spedire una raccomandata.' (Ik wil een aangetekende brief versturen.) 'Mi servono due francobolli.' (Ik heb twee postzegels nodig.) Spedire (versturen) is een -ire werkwoord met -isc-: spedisco, spedisci, spedisce..."
+    },
+    {
+      "titel": "Gerundio: onregelmatige vormen",
+      "uitleg": "De meeste werkwoorden vormen het gerundio regelmatig (-ando/-endo), maar enkele zijn onregelmatig: fare → facendo, bere → bevendo, dire → dicendo, tradurre → traducendo, porre → ponendo. Deze vormen komen van de oorspronkelijke Latijnse stam."
+    },
+    {
+      "titel": "Pronomen bij de imperativo: samenvatting",
+      "uitleg": "Overzicht van de positie van pronomen: tu → erachter (Prendilo! Dimmi! Fallo!), Lei → ervoor (Lo prenda! Mi dica!), noi → erachter (Prendiamolo! Diciamoglielo!), voi → erachter (Prendetelo! Diteglielo!). Bij ontkenning tu: Non prendere + lo → Non prenderlo! of Non lo prendere! (beide correct)."
+    }
+  ]
+}

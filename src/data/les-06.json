@@ -1,0 +1,294 @@
+{
+  "id": 6,
+  "titel": "Hoofdstuk 6 – Ci andiamo?",
+  "woorden": [
+    { "it": "il film", "nl": "de film", "voorbeeld": "Ieri sera ho visto un bel film.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il regista", "nl": "de regisseur", "voorbeeld": "Chi è il regista di questo film?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'attore / l'attrice", "nl": "de acteur / de actrice", "voorbeeld": "È un bravo attore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la commedia", "nl": "de komedie", "voorbeeld": "Preferisco le commedie ai film d'azione.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il film d'azione", "nl": "de actiefilm", "voorbeeld": "Un film d'azione con molti effetti speciali.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il film dell'orrore", "nl": "de horrorfilm", "voorbeeld": "Non mi piacciono i film dell'orrore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il documentario", "nl": "de documentaire", "voorbeeld": "Ho visto un documentario sulla natura.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il festival", "nl": "het festival", "voorbeeld": "Il Festival di Venezia è famoso.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il concerto", "nl": "het concert", "voorbeeld": "Andiamo al concerto stasera?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la mostra", "nl": "de tentoonstelling", "voorbeeld": "C'è una mostra di Caravaggio.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "lo spettacolo", "nl": "de voorstelling, het spektakel", "voorbeeld": "Lo spettacolo inizia alle 20.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il biglietto", "nl": "het kaartje", "voorbeeld": "Due biglietti per il cinema, per favore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "lo schermo", "nl": "het scherm", "voorbeeld": "Il film è in sala 3, schermo grande.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "proporre", "nl": "voorstellen", "voorbeeld": "Ti propongo di andare al cinema.", "woordsoort": "werkwoord" },
+    { "it": "Ti va di ...?", "nl": "Heb je zin om ...?", "voorbeeld": "Ti va di andare al cinema?", "woordsoort": "uitdrukking" },
+    { "it": "Che ne dici di ...?", "nl": "Wat vind je van ...?", "voorbeeld": "Che ne dici di uscire stasera?", "woordsoort": "uitdrukking" },
+    { "it": "Non mi va.", "nl": "Ik heb er geen zin in.", "voorbeeld": "Stasera non mi va di uscire.", "woordsoort": "uitdrukking" },
+    { "it": "Ho voglia di ...", "nl": "Ik heb zin in ...", "voorbeeld": "Ho voglia di un gelato.", "woordsoort": "uitdrukking" },
+    { "it": "D'accordo.", "nl": "Akkoord. / Oké.", "voorbeeld": "D'accordo, andiamo!", "woordsoort": "uitdrukking" },
+    { "it": "bisogna", "nl": "het is nodig, men moet", "voorbeeld": "Bisogna prenotare i biglietti.", "woordsoort": "werkwoord" },
+    { "it": "già", "nl": "al, reeds", "voorbeeld": "Hai già visto questo film?", "woordsoort": "bijwoord" },
+    { "it": "non ancora", "nl": "nog niet", "voorbeeld": "Non l'ho ancora visto.", "woordsoort": "uitdrukking" },
+    { "it": "da + infinito", "nl": "om te ... (passief)", "voorbeeld": "Un film da vedere. (Een film om te zien.)", "woordsoort": "uitdrukking" },
+    { "it": "il genere", "nl": "het genre", "voorbeeld": "Che genere di film preferisci?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la rassegna", "nl": "het festival, de manifestatie", "voorbeeld": "Una rassegna culturale.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il divieto", "nl": "het verbod", "voorbeeld": "Divieto di fumare.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "vietato", "nl": "verboden", "voorbeeld": "Vietato fumare!", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "l'annuncio", "nl": "de aankondiging", "voorbeeld": "Un annuncio in aeroporto.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il capolavoro", "nl": "het meesterwerk", "voorbeeld": "Questo film è un capolavoro.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "consigliare", "nl": "aanraden, adviseren", "voorbeeld": "Ti consiglio questo film.", "woordsoort": "werkwoord" }
+  ],
+  "zinnen": [
+    { "nl": "Heb je zin om naar de bioscoop te gaan?", "it": "Ti va di andare al cinema?" },
+    { "nl": "Wat vind je ervan om vanavond uit te gaan?", "it": "Che ne dici di uscire stasera?" },
+    { "nl": "Ik heb er geen zin in.", "it": "Non mi va." },
+    { "nl": "Je moet de kaartjes reserveren.", "it": "Bisogna prenotare i biglietti." },
+    { "nl": "Heb je deze film al gezien?", "it": "Hai già visto questo film?" },
+    { "nl": "Ik heb hem nog niet gezien.", "it": "Non l'ho ancora visto." },
+    { "nl": "Het is een film om te zien.", "it": "È un film da vedere." },
+    { "nl": "Twee kaartjes voor de bioscoop, alstublieft.", "it": "Due biglietti per il cinema, per favore." },
+    { "nl": "De voorstelling begint om acht uur.", "it": "Lo spettacolo inizia alle otto." },
+    { "nl": "Ik raad je deze film aan.", "it": "Ti consiglio questo film." },
+    { "nl": "Welk filmgenre heb je het liefst?", "it": "Che genere di film preferisci?" },
+    { "nl": "Het is verboden te roken.", "it": "Vietato fumare." },
+    { "nl": "Deze film is een meesterwerk.", "it": "Questo film è un capolavoro." },
+    { "nl": "Ik heb zin in een ijsje.", "it": "Ho voglia di un gelato." },
+    { "nl": "Oké, laten we gaan!", "it": "D'accordo, andiamo!" }
+  ],
+  "invuloefeningen": [
+    { "zin": "Ti ___ di andare al cinema? (zin hebben)", "antwoord": "va" },
+    { "zin": "Che ne ___ di uscire stasera? (vinden)", "antwoord": "dici" },
+    { "zin": "___ prenotare i biglietti. (het is nodig)", "antwoord": "Bisogna" },
+    { "zin": "Hai ___ visto questo film? (al)", "antwoord": "già" },
+    { "zin": "Non l'ho ___ visto. (nog niet)", "antwoord": "ancora" },
+    { "zin": "È un film da ___. (zien)", "antwoord": "vedere" },
+    { "zin": "Lo spettacolo ___ alle otto. (begint)", "antwoord": "inizia" },
+    { "zin": "Ti ___ questo film. (aanraden)", "antwoord": "consiglio" },
+    { "zin": "Ho ___ di un gelato. (zin)", "antwoord": "voglia" },
+    { "zin": "___ fumare. (verboden)", "antwoord": "Vietato" },
+    { "zin": "Questo film è un ___. (meesterwerk)", "antwoord": "capolavoro" },
+    { "zin": "Chi è il ___ di questo film? (regisseur)", "antwoord": "regista" },
+    { "zin": "Due ___ per il cinema. (kaartjes)", "antwoord": "biglietti" },
+    { "zin": "C'è una ___ di Caravaggio. (tentoonstelling)", "antwoord": "mostra" },
+    { "zin": "Stasera non mi ___ di uscire. (zin hebben)", "antwoord": "va" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Wat betekent 'Ti va di andare al cinema?'?",
+      "opties": [
+        "Heb je zin om naar de bioscoop te gaan?",
+        "Ga je naar de bioscoop?",
+        "Moet je naar de bioscoop?",
+        "Kun je naar de bioscoop gaan?"
+      ],
+      "antwoord": "Heb je zin om naar de bioscoop te gaan?",
+      "uitleg": "Ti va di + infinito = heb je zin om te... Het werkwoord andare (gaan) wordt hier onpersoonlijk gebruikt: 'mi va' (ik heb zin), 'ti va' (jij hebt zin)."
+    },
+    {
+      "vraag": "Wat is 'bisogna'?",
+      "opties": [
+        "Een onpersoonlijk werkwoord: het is nodig / men moet",
+        "Een bijvoeglijk naamwoord: nodig",
+        "Een zelfstandig naamwoord: de noodzaak",
+        "Een bijwoord: noodzakelijkerwijs"
+      ],
+      "antwoord": "Een onpersoonlijk werkwoord: het is nodig / men moet",
+      "uitleg": "Bisogna + infinito = het is nodig om / men moet. 'Bisogna prenotare.' (Men moet reserveren.) Het is onpersoonlijk: het heeft geen onderwerp en wordt alleen in de derde persoon gebruikt."
+    },
+    {
+      "vraag": "Wat zijn pronomi combinati?",
+      "opties": [
+        "Gecombineerde voornaamwoorden: indirect + direct (me lo, te la, glielo...)",
+        "Wederkerige voornaamwoorden",
+        "Aanwijzende voornaamwoorden",
+        "Bezittelijke voornaamwoorden"
+      ],
+      "antwoord": "Gecombineerde voornaamwoorden: indirect + direct (me lo, te la, glielo...)",
+      "uitleg": "Pronomi combinati combineren een indirect object (mi, ti, gli/le) met een direct object (lo, la, li, le, ne). Mi + lo = me lo, ti + lo = te lo, gli/le + lo = glielo. 'Me lo dai?' (Geef je het aan mij?)"
+    },
+    {
+      "vraag": "Hoe combineer je 'gli' + 'lo'?",
+      "opties": ["glielo", "glilo", "gli lo", "glio"],
+      "antwoord": "glielo",
+      "uitleg": "Gli + lo/la/li/le/ne worden één woord: glielo, gliela, glieli, gliele, gliene. Dit geldt voor zowel 'gli' (aan hem) als 'le' (aan haar), die allebei 'glie-' worden."
+    },
+    {
+      "vraag": "Wat betekent 'un film da vedere'?",
+      "opties": [
+        "Een film om te zien (die je moet zien)",
+        "Een film die je al gezien hebt",
+        "Een film van Vedere (regisseur)",
+        "Een film over het kijken"
+      ],
+      "antwoord": "Een film om te zien (die je moet zien)",
+      "uitleg": "Da + infinito geeft een passieve betekenis: 'un film da vedere' = een film die gezien moet worden, die de moeite waard is. 'Un libro da leggere' (een boek om te lezen)."
+    },
+    {
+      "vraag": "Waar staat 'già' in de passato prossimo?",
+      "opties": [
+        "Tussen het hulpwerkwoord en het voltooid deelwoord (Ho già visto)",
+        "Voor het hulpwerkwoord (Già ho visto)",
+        "Na het voltooid deelwoord (Ho visto già)",
+        "Aan het begin van de zin (Già, ho visto)"
+      ],
+      "antwoord": "Tussen het hulpwerkwoord en het voltooid deelwoord (Ho già visto)",
+      "uitleg": "Già en non ancora staan tussen het hulpwerkwoord en het participio: 'Ho già visto questo film.' 'Non ho ancora mangiato.'"
+    },
+    {
+      "vraag": "Hoe zeg je 'ik heb het hem gegeven' met gecombineerde voornaamwoorden?",
+      "opties": ["Gliel'ho dato.", "Lo gli ho dato.", "Ho dato glielo.", "Gli lo ho dato."],
+      "antwoord": "Gliel'ho dato.",
+      "uitleg": "Gli + lo = glielo. Vóór het hulpwerkwoord: glielo ho dato, of verkort: gliel'ho dato. Het gecombineerde voornaamwoord staat altijd vóór het vervoegde werkwoord."
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'non ancora' en 'già'?",
+      "opties": [
+        "Già = al, non ancora = nog niet",
+        "Già = nu, non ancora = later",
+        "Già = nooit, non ancora = altijd",
+        "Er is geen verschil"
+      ],
+      "antwoord": "Già = al, non ancora = nog niet",
+      "uitleg": "'Hai già mangiato?' (Heb je al gegeten?) 'No, non ho ancora mangiato.' (Nee, ik heb nog niet gegeten.) Già bevestigt, non ancora ontkent."
+    },
+    {
+      "vraag": "Wat is 'ne' in 'Che ne dici?'?",
+      "opties": [
+        "Ne verwijst naar het onderwerp/voorstel (ervan, erover)",
+        "Ne is een ontkenning",
+        "Ne betekent 'niet'",
+        "Ne is een bijwoord van plaats"
+      ],
+      "antwoord": "Ne verwijst naar het onderwerp/voorstel (ervan, erover)",
+      "uitleg": "Ne di argomento = ervan, erover. 'Che ne dici?' (Wat vind je ervan?) 'Ne parliamo domani.' (We praten er morgen over.) Het verwijst naar iets dat al genoemd is."
+    },
+    {
+      "vraag": "Hoe combineer je 'mi' + 'lo'?",
+      "opties": ["me lo", "mi lo", "milo", "melo"],
+      "antwoord": "me lo",
+      "uitleg": "Bij gecombineerde voornaamwoorden verandert mi → me, ti → te, ci → ce, vi → ve. Dus: me lo, te lo, ce lo, ve lo. 'Me lo puoi dare?' (Kun je het aan mij geven?)"
+    },
+    {
+      "vraag": "Wat betekent 'Vietato fumare'?",
+      "opties": ["Verboden te roken", "Roken toegestaan", "Roken verplicht", "Niet roken, alstublieft"],
+      "antwoord": "Verboden te roken",
+      "uitleg": "Vietato + infinito = verboden om te... Dit is de infinito-constructie voor orders en instructies in openbare ruimtes. 'Vietato entrare' (verboden toegang), 'Vietato fotografare' (verboden te fotograferen)."
+    },
+    {
+      "vraag": "Welk filmgenre is 'la commedia'?",
+      "opties": ["De komedie", "Het drama", "De thriller", "De documentaire"],
+      "antwoord": "De komedie",
+      "uitleg": "Filmgenres: la commedia (komedie), il dramma (drama), il film d'azione (actiefilm), il film dell'orrore (horrorfilm), il documentario (documentaire), il giallo (thriller/misdaad)."
+    },
+    {
+      "vraag": "Wat is de infinito-constructie voor openbare instructies?",
+      "opties": [
+        "De infinito zonder subject (Allacciare le cinture!)",
+        "De imperativo formeel (Allacci le cinture!)",
+        "De congiuntivo (Che allacci le cinture!)",
+        "Het gerundio (Allacciando le cinture!)"
+      ],
+      "antwoord": "De infinito zonder subject (Allacciare le cinture!)",
+      "uitleg": "In openbare ruimtes (vliegtuig, trein, museum) wordt de infinito gebruikt voor onpersoonlijke instructies: 'Allacciare le cinture!' (Gordels vastmaken!) 'Non sporgersi!' (Niet naar buiten leunen!)"
+    },
+    {
+      "vraag": "Hoe combineer je 'le' (aan haar) + 'lo'?",
+      "opties": ["glielo", "lelo", "le lo", "lalo"],
+      "antwoord": "glielo",
+      "uitleg": "Zowel 'gli' (aan hem) als 'le' (aan haar) worden 'glie-' bij gecombineerde voornaamwoorden: glielo, gliela, glieli, gliele, gliene. Context maakt duidelijk of het 'aan hem' of 'aan haar' is."
+    },
+    {
+      "vraag": "Wat betekent 'Ho voglia di un gelato'?",
+      "opties": [
+        "Ik heb zin in een ijsje",
+        "Ik wil geen ijsje",
+        "Ik heb een ijsje gehad",
+        "Ik moet een ijsje kopen"
+      ],
+      "antwoord": "Ik heb zin in een ijsje",
+      "uitleg": "Avere voglia di = zin hebben in. 'Ho voglia di dormire.' (Ik heb zin om te slapen.) 'Non ho voglia di uscire.' (Ik heb geen zin om uit te gaan.)"
+    },
+    {
+      "vraag": "Welk woord past: 'L'ho ___ comprato' (al)?",
+      "opties": ["già", "ancora", "mai", "non"],
+      "antwoord": "già",
+      "uitleg": "Già (al) staat tussen het hulpwerkwoord en het voltooid deelwoord: 'L'ho già comprato.' (Ik heb het al gekocht.)"
+    },
+    {
+      "vraag": "Wat is 'il capolavoro'?",
+      "opties": ["Het meesterwerk", "Het hoofdwerk", "De hoofdrolspeler", "De werkplaats"],
+      "antwoord": "Het meesterwerk",
+      "uitleg": "Capolavoro = capo (hoofd) + lavoro (werk) = meesterwerk. 'La Divina Commedia è un capolavoro della letteratura italiana.'"
+    },
+    {
+      "vraag": "Hoe reageer je instemmend op een voorstel?",
+      "opties": [
+        "D'accordo! / Sì, mi va!",
+        "Non mi va. / Vietato.",
+        "Bisogna. / Non ancora.",
+        "Da vedere. / Già."
+      ],
+      "antwoord": "D'accordo! / Sì, mi va!",
+      "uitleg": "Instemmen: 'D'accordo!' (Akkoord!), 'Sì, mi va!' (Ja, ik heb er zin in!), 'Volentieri!' (Graag!), 'Buona idea!' (Goed idee!) Afwijzen: 'Non mi va.' (Ik heb er geen zin in.)"
+    },
+    {
+      "vraag": "Wat is 'ne' in 'Ne ho visti tre'?",
+      "opties": [
+        "Een partitief voornaamwoord: er (van die films heb ik er drie gezien)",
+        "Een ontkenning",
+        "Een bijwoord van tijd",
+        "Een voorzetsel"
+      ],
+      "antwoord": "Een partitief voornaamwoord: er (van die films heb ik er drie gezien)",
+      "uitleg": "Ne partitivo vervangt een deel van een hoeveelheid. Let op: met ne past het participio aan in geslacht en getal: 'Ne ho visti tre' (films, mannelijk meervoud), 'Ne ho vista una' (vrouwelijk enkelvoud)."
+    },
+    {
+      "vraag": "Hoe gebruik je 'da + infinito' met een passieve betekenis?",
+      "opties": [
+        "Un libro da leggere (een boek om te lezen = dat gelezen moet worden)",
+        "Un libro di leggere",
+        "Un libro per leggere",
+        "Un libro a leggere"
+      ],
+      "antwoord": "Un libro da leggere (een boek om te lezen = dat gelezen moet worden)",
+      "uitleg": "Da + infinito geeft een passieve verplichting of aanbeveling: 'una cosa da fare' (iets om te doen), 'un posto da visitare' (een plek om te bezoeken), 'un film da non perdere' (een film om niet te missen)."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Il ne di argomento",
+      "uitleg": "Ne kan verwijzen naar een onderwerp of voorstel (= ervan, erover): 'Che ne dici?' (Wat vind je ervan?) 'Ne parliamo domani.' (We praten er morgen over.) 'Non ne so niente.' (Ik weet er niets van.) Dit is anders dan het partitieve ne (= ervan bij hoeveelheden)."
+    },
+    {
+      "titel": "Da + infinito (passieve waarde)",
+      "uitleg": "Da + infinito drukt uit dat iets gedaan moet of kan worden: 'un film da vedere' (een film om te zien), 'una cosa da fare' (iets om te doen), 'un posto da visitare' (een plek om te bezoeken), 'acqua da bere' (drinkwater). Het heeft een passieve betekenis: da vedere = che deve essere visto."
+    },
+    {
+      "titel": "Bisogna (onpersoonlijk werkwoord)",
+      "uitleg": "Bisogna + infinito = het is nodig om, men moet. Het is altijd onpersoonlijk (geen onderwerp, alleen derde persoon): 'Bisogna prenotare.' (Men moet reserveren.) 'Bisogna partire presto.' (Men moet vroeg vertrekken.) Passato prossimo: 'È bisognato partire presto.' Vergelijk: bisogna (onpersoonlijk) vs. ho bisogno di (persoonlijk: ik heb behoefte aan)."
+    },
+    {
+      "titel": "I pronomi combinati",
+      "uitleg": "Gecombineerde voornaamwoorden combineren indirect + direct object. De indirecte vormen veranderen: mi→me, ti→te, ci→ce, vi→ve, gli/le→glie-. Combinaties: me lo/la/li/le/ne, te lo/la/li/le/ne, glielo/gliela/glieli/gliele/gliene, ce lo/la/li/le/ne, ve lo/la/li/le/ne. Voorbeeld: 'Me lo dai?' (Geef je het aan mij?), 'Glielo dico.' (Ik zeg het hem/haar.)"
+    },
+    {
+      "titel": "Già e non ancora + passato prossimo",
+      "uitleg": "Già (al) en non ancora (nog niet) staan tussen hulpwerkwoord en participio: 'Ho già mangiato.' (Ik heb al gegeten.) 'Non ho ancora finito.' (Ik heb nog niet afgemaakt.) Vraag: 'Hai già visto questo film?' Antwoord: 'Sì, l'ho già visto.' of 'No, non l'ho ancora visto.'"
+    },
+    {
+      "titel": "Pronome diretto + participio passato",
+      "uitleg": "Met een direct object-pronomen vóór het hulpwerkwoord past het participio aan: 'Hai visto la mostra?' → 'Sì, l'ho vista.' (vrouwelijk) 'Hai comprato i biglietti?' → 'Sì, li ho comprati.' (mannelijk meervoud) Dit geldt ook voor ne: 'Ne ho visti tre.' (Ik heb er drie gezien.)"
+    },
+    {
+      "titel": "Fare e reagire a proposte (voorstellen doen en reageren)",
+      "uitleg": "Voorstellen: 'Ti va di + infinito?' (Heb je zin om...?), 'Che ne dici di + infinito?' (Wat vind je ervan om...?), 'Andiamo a + infinito?' (Gaan we...?). Instemmen: 'D'accordo!', 'Sì, mi va!', 'Volentieri!', 'Buona idea!' Afwijzen: 'Non mi va.', 'Mi dispiace, non posso.', 'Preferirei + infinito.'"
+    },
+    {
+      "titel": "L'infinito per ordini e istruzioni",
+      "uitleg": "In openbare ruimtes wordt de infinito gebruikt voor onpersoonlijke instructies en verboden: 'Allacciare le cinture!' (Gordels vastmaken!) 'Non fumare!' / 'Vietato fumare!' (Niet roken! / Verboden te roken!) 'Non sporgersi!' (Niet naar buiten leunen!) 'Tenere i cani al guinzaglio.' (Honden aan de lijn houden.)"
+    },
+    {
+      "titel": "Generi cinematografici (filmgenres)",
+      "uitleg": "Filmgenres: la commedia (komedie), il dramma (drama), il film d'azione (actiefilm), il film dell'orrore (horrorfilm), il documentario (documentaire), il giallo (thriller/misdaad — typisch Italiaans genre, genoemd naar de gele covers), il film d'animazione (animatiefilm), il film di fantascienza (sciencefiction)."
+    },
+    {
+      "titel": "Pronomi combinati: positie",
+      "uitleg": "Gecombineerde voornaamwoorden staan vóór het vervoegde werkwoord: 'Me lo dai?' 'Glielo dico.' Bij de infinito (achter): 'Posso dirtelo?' Bij het gerundio (achter): 'Dandoglielo.' Bij de imperativo tu (achter): 'Dammelo!' Bij de imperativo Lei (voor): 'Me lo dia!' In de passato prossimo past het participio aan: 'Gliel'ho data.' (vrouwelijk)"
+    }
+  ]
+}

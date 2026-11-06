@@ -1,0 +1,274 @@
+{
+  "id": 3,
+  "titel": "Hoofdstuk 3 – Persone che contano",
+  "woorden": [
+    { "it": "lo scrittore", "nl": "de schrijver", "voorbeeld": "È un famoso scrittore italiano.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la coppia", "nl": "het stel, het paar", "voorbeeld": "Sono una coppia famosa.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il matrimonio", "nl": "het huwelijk", "voorbeeld": "Il matrimonio è domani.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "gli sposi", "nl": "het bruidspaar", "voorbeeld": "Viva gli sposi!", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'affetto", "nl": "de genegenheid", "voorbeeld": "Provo molto affetto per lei.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'entusiasmo", "nl": "het enthousiasme", "voorbeeld": "Ha accettato con entusiasmo.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "lo stupore", "nl": "de verbazing", "voorbeeld": "Ha reagito con stupore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il rammarico", "nl": "het spijt, de teleurstelling", "voorbeeld": "Ho un certo rammarico.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'incertezza", "nl": "de onzekerheid", "voorbeeld": "Vive nell'incertezza.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'intervista", "nl": "het interview", "voorbeeld": "Ha fatto un'intervista alla TV.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "amare", "nl": "houden van (romantisch)", "voorbeeld": "Amo molto mia moglie.", "woordsoort": "werkwoord" },
+    { "it": "volere bene", "nl": "houden van (genegenheid)", "voorbeeld": "Voglio bene ai miei amici.", "woordsoort": "uitdrukking" },
+    { "it": "congratularsi", "nl": "feliciteren", "voorbeeld": "Mi congratulo con voi!", "woordsoort": "werkwoord" },
+    { "it": "provare a", "nl": "proberen om", "voorbeeld": "Ho provato a chiamarti.", "woordsoort": "werkwoord" },
+    { "it": "cercare di", "nl": "proberen om", "voorbeeld": "Cerco di capire.", "woordsoort": "werkwoord" },
+    { "it": "smettere di", "nl": "stoppen met", "voorbeeld": "Ha smesso di fumare.", "woordsoort": "werkwoord" },
+    { "it": "aiutare a", "nl": "helpen om", "voorbeeld": "Mi aiuti a portare le valigie?", "woordsoort": "werkwoord" },
+    { "it": "raccontare", "nl": "vertellen", "voorbeeld": "Raccontami la tua storia.", "woordsoort": "werkwoord" },
+    { "it": "a un certo punto", "nl": "op een gegeven moment", "voorbeeld": "A un certo punto ha iniziato a piovere.", "woordsoort": "uitdrukking" },
+    { "it": "improvvisamente", "nl": "plotseling", "voorbeeld": "Improvvisamente è arrivato Marco.", "woordsoort": "bijwoord" },
+    { "it": "prima", "nl": "eerst, daarvoor", "voorbeeld": "Prima abitavo a Roma.", "woordsoort": "bijwoord" },
+    { "it": "poi", "nl": "daarna, toen", "voorbeeld": "Poi mi sono trasferito a Milano.", "woordsoort": "bijwoord" },
+    { "it": "mentre", "nl": "terwijl", "voorbeeld": "Mentre mangiavo, è arrivato Marco.", "woordsoort": "voegwoord" },
+    { "it": "ecco", "nl": "hier is, kijk", "voorbeeld": "Ecco il tuo caffè!", "woordsoort": "bijwoord" },
+    { "it": "Congratulazioni!", "nl": "Gefeliciteerd!", "voorbeeld": "Congratulazioni per il matrimonio!", "woordsoort": "uitroep" },
+    { "it": "Davvero?", "nl": "Echt waar?", "voorbeeld": "Davvero? Non ci credo!", "woordsoort": "uitroep" },
+    { "it": "Che peccato!", "nl": "Wat jammer!", "voorbeeld": "Non puoi venire? Che peccato!", "woordsoort": "uitroep" },
+    { "it": "Viva gli sposi!", "nl": "Lang leve het bruidspaar!", "voorbeeld": "Tutti gridano: Viva gli sposi!", "woordsoort": "uitroep" },
+    { "it": "insofferenza", "nl": "ongeduld, irritatie", "voorbeeld": "Ha mostrato insofferenza.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la diva", "nl": "de diva, de ster", "voorbeeld": "Era una grande diva del cinema.", "woordsoort": "zelfstandig naamwoord" }
+  ],
+  "zinnen": [
+    { "nl": "Terwijl ik at, belde Marco.", "it": "Mentre mangiavo, ha chiamato Marco." },
+    { "nl": "Op een gegeven moment begon het te regenen.", "it": "A un certo punto ha iniziato a piovere." },
+    { "nl": "Eerst woonde ik in Rome, daarna ben ik naar Milaan verhuisd.", "it": "Prima abitavo a Roma, poi mi sono trasferito a Milano." },
+    { "nl": "Ik probeer Italiaans te leren.", "it": "Cerco di imparare l'italiano." },
+    { "nl": "Hij is gestopt met roken.", "it": "Ha smesso di fumare." },
+    { "nl": "Kun je me helpen de koffers te dragen?", "it": "Mi aiuti a portare le valigie?" },
+    { "nl": "Ik heb geprobeerd je te bellen.", "it": "Ho provato a chiamarti." },
+    { "nl": "Ik heb haar het boek gegeven.", "it": "Le ho dato il libro." },
+    { "nl": "Heb je hem gebeld? Ja, ik heb hem gebeld.", "it": "L'hai chiamato? Sì, l'ho chiamato." },
+    { "nl": "Ik hou veel van mijn vrienden.", "it": "Voglio molto bene ai miei amici." },
+    { "nl": "Gefeliciteerd met jullie huwelijk!", "it": "Congratulazioni per il vostro matrimonio!" },
+    { "nl": "Wat jammer dat je niet kunt komen!", "it": "Che peccato che non puoi venire!" },
+    { "nl": "Plotseling veranderde alles.", "it": "Improvvisamente è cambiato tutto." },
+    { "nl": "Hier is je koffie!", "it": "Ecco il tuo caffè!" },
+    { "nl": "Ik heb de film nog niet gezien.", "it": "Non ho ancora visto il film." }
+  ],
+  "invuloefeningen": [
+    { "zin": "Mentre ___ la TV, è arrivata Maria.", "antwoord": "guardavo" },
+    { "zin": "A un certo ___ ha iniziato a piovere.", "antwoord": "punto" },
+    { "zin": "Prima abitavo a Roma, ___ mi sono trasferito a Milano.", "antwoord": "poi" },
+    { "zin": "Ho provato ___ chiamarti, ma non rispondevi.", "antwoord": "a" },
+    { "zin": "Ha smesso ___ fumare l'anno scorso.", "antwoord": "di" },
+    { "zin": "Cerco ___ capire la grammatica.", "antwoord": "di" },
+    { "zin": "Mi aiuti ___ portare le valigie?", "antwoord": "a" },
+    { "zin": "___ ho dato il libro ieri. (a lei)", "antwoord": "Le" },
+    { "zin": "___ ho chiamato ieri sera. (a lui)", "antwoord": "Gli" },
+    { "zin": "L'hai vista? Sì, ___ ho vista al cinema.", "antwoord": "l'" },
+    { "zin": "___ il tuo caffè!", "antwoord": "Ecco" },
+    { "zin": "Congratulazioni ___ il matrimonio!", "antwoord": "per" },
+    { "zin": "Che ___! Non puoi venire.", "antwoord": "peccato" },
+    { "zin": "___ mangiavo, è suonato il telefono.", "antwoord": "Mentre" },
+    { "zin": "___ è cambiato tutto.", "antwoord": "Improvvisamente" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Wanneer gebruik je de imperfetto in combinatie met de passato prossimo?",
+      "opties": [
+        "Imperfetto voor de achtergrond, passato prossimo voor de actie",
+        "Imperfetto voor de actie, passato prossimo voor de achtergrond",
+        "Ze zijn altijd inwisselbaar",
+        "Imperfetto alleen voor het weer"
+      ],
+      "antwoord": "Imperfetto voor de achtergrond, passato prossimo voor de actie",
+      "uitleg": "De imperfetto beschrijft de situatie/achtergrond, de passato prossimo de plotselinge actie: 'Mentre dormivo (achtergrond), è suonato il telefono (actie).'"
+    },
+    {
+      "vraag": "Welke zin is correct?",
+      "opties": [
+        "Mentre mangiavo, ha chiamato Marco.",
+        "Mentre ho mangiato, chiamava Marco.",
+        "Mentre mangiavo, chiamava Marco.",
+        "Mentre ho mangiato, ha chiamato Marco."
+      ],
+      "antwoord": "Mentre mangiavo, ha chiamato Marco.",
+      "uitleg": "'Mentre' + imperfetto (lopende actie) + passato prossimo (plotselinge onderbreking)."
+    },
+    {
+      "vraag": "Wat is het indirecte voornaamwoord voor 'a lui'?",
+      "opties": ["gli", "lo", "li", "le"],
+      "antwoord": "gli",
+      "uitleg": "Gli = a lui (aan hem). Le = a lei (aan haar). Niet verwarren met lo (hem, direct object)."
+    },
+    {
+      "vraag": "Wat is het indirecte voornaamwoord voor 'a lei'?",
+      "opties": ["le", "la", "gli", "li"],
+      "antwoord": "le",
+      "uitleg": "Le = a lei (aan haar). Niet verwarren met la (haar, direct object)."
+    },
+    {
+      "vraag": "Welk voorzetsel hoort bij 'provare'?",
+      "opties": ["provare a", "provare di", "provare per", "provare da"],
+      "antwoord": "provare a",
+      "uitleg": "Provare a + infinito: 'Ho provato a chiamarti.' (Ik heb geprobeerd je te bellen.)"
+    },
+    {
+      "vraag": "Welk voorzetsel hoort bij 'smettere'?",
+      "opties": ["smettere di", "smettere a", "smettere per", "smettere da"],
+      "antwoord": "smettere di",
+      "uitleg": "Smettere di + infinito: 'Ha smesso di fumare.' (Hij is gestopt met roken.)"
+    },
+    {
+      "vraag": "Welk voorzetsel hoort bij 'cercare'?",
+      "opties": ["cercare di", "cercare a", "cercare per", "cercare da"],
+      "antwoord": "cercare di",
+      "uitleg": "Cercare di + infinito: 'Cerco di capire.' (Ik probeer te begrijpen.)"
+    },
+    {
+      "vraag": "Wat betekent 'Che peccato!'?",
+      "opties": ["Wat jammer!", "Wat leuk!", "Wat mooi!", "Wat gek!"],
+      "antwoord": "Wat jammer!",
+      "uitleg": "Che peccato! wordt gebruikt om teleurstelling of spijt uit te drukken."
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'amare' en 'volere bene'?",
+      "opties": [
+        "Amare is romantisch, volere bene is genegenheid",
+        "Ze betekenen precies hetzelfde",
+        "Volere bene is romantisch, amare is genegenheid",
+        "Amare is voor dingen, volere bene voor mensen"
+      ],
+      "antwoord": "Amare is romantisch, volere bene is genegenheid",
+      "uitleg": "Amare = romantische liefde: 'Amo mia moglie.' Volere bene = genegenheid: 'Voglio bene ai miei amici.'"
+    },
+    {
+      "vraag": "Hoe gebruik je 'ecco'?",
+      "opties": [
+        "Om iets aan te wijzen of te overhandigen",
+        "Als vraagwoord",
+        "Als ontkenning",
+        "Als voegwoord"
+      ],
+      "antwoord": "Om iets aan te wijzen of te overhandigen",
+      "uitleg": "Ecco = hier is, kijk. 'Ecco il tuo caffè!' (Hier is je koffie!)"
+    },
+    {
+      "vraag": "Welke zin drukt verbazing uit?",
+      "opties": ["Davvero?", "Che peccato!", "Congratulazioni!", "Ecco!"],
+      "antwoord": "Davvero?",
+      "uitleg": "Davvero? = Echt waar? Drukt verbazing/ongeloof uit."
+    },
+    {
+      "vraag": "Wat is de juiste volgorde? 'Le ___ il libro ieri.'",
+      "opties": ["ho dato", "ho data", "ho dati", "ha dato"],
+      "antwoord": "ho dato",
+      "uitleg": "Bij indirecte voornaamwoorden (le = aan haar) verandert het participio passato NIET. Het past alleen aan bij directe voornaamwoorden."
+    },
+    {
+      "vraag": "Wat is juist? 'L'ho ___ al cinema.' (haar gezien)",
+      "opties": ["vista", "visto", "visti", "viste"],
+      "antwoord": "vista",
+      "uitleg": "Bij een direct voornaamwoord (l' = haar) past het participio passato zich aan in geslacht: vista (vrouwelijk enkelvoud)."
+    },
+    {
+      "vraag": "Welke tijdsuitdrukking betekent 'plotseling'?",
+      "opties": ["improvvisamente", "a un certo punto", "prima", "poi"],
+      "antwoord": "improvvisamente",
+      "uitleg": "Improvvisamente = plotseling, opeens. A un certo punto = op een gegeven moment."
+    },
+    {
+      "vraag": "Wat zijn 'pronomi tonici'?",
+      "opties": [
+        "Beklemtoonde voornaamwoorden: me, te, lui, lei, noi, voi, loro",
+        "Onbeklemtoonde voornaamwoorden: mi, ti, lo, la",
+        "Bezittelijke voornaamwoorden: mio, tuo, suo",
+        "Aanwijzende voornaamwoorden: questo, quello"
+      ],
+      "antwoord": "Beklemtoonde voornaamwoorden: me, te, lui, lei, noi, voi, loro",
+      "uitleg": "Pronomi tonici staan na een voorzetsel: 'Vengo con te.' (Ik kom met jou.) 'È per me.' (Het is voor mij.)"
+    },
+    {
+      "vraag": "Welke zin gebruikt 'mentre' correct?",
+      "opties": [
+        "Mentre camminavo, ho incontrato Anna.",
+        "Mentre ho camminato, incontravo Anna.",
+        "Mentre cammino, ho incontrato Anna.",
+        "Mentre camminavo, incontravo Anna."
+      ],
+      "antwoord": "Mentre camminavo, ho incontrato Anna.",
+      "uitleg": "Mentre + imperfetto (lopende actie) + passato prossimo (plotselinge gebeurtenis)."
+    },
+    {
+      "vraag": "Wat betekent 'Viva gli sposi!'?",
+      "opties": [
+        "Lang leve het bruidspaar!",
+        "De bruiloft is voorbij!",
+        "De gasten zijn er!",
+        "Het feest begint!"
+      ],
+      "antwoord": "Lang leve het bruidspaar!",
+      "uitleg": "Een traditionele Italiaanse uitroep bij een huwelijk."
+    },
+    {
+      "vraag": "Welk werkwoord hoort bij 'a'? '___ a fare sport'",
+      "opties": ["provare", "cercare", "smettere", "finire"],
+      "antwoord": "provare",
+      "uitleg": "Provare a + infinito. Cercare di + infinito. Smettere di + infinito."
+    },
+    {
+      "vraag": "Wat zijn de indirecte voornaamwoorden (enkelvoud)?",
+      "opties": [
+        "mi, ti, gli/le",
+        "me, te, lui/lei",
+        "lo, la, li, le",
+        "mio, tuo, suo"
+      ],
+      "antwoord": "mi, ti, gli/le",
+      "uitleg": "Mi (aan mij), ti (aan jou), gli (aan hem), le (aan haar). Meervoud: ci, vi, gli."
+    },
+    {
+      "vraag": "Welke uitdrukking past bij feliciteren?",
+      "opties": ["Congratulazioni!", "Che peccato!", "Davvero?", "Ecco!"],
+      "antwoord": "Congratulazioni!",
+      "uitleg": "Congratulazioni! = Gefeliciteerd! Gebruikt bij een huwelijk, diploma, succes, etc."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Passato prossimo vs. imperfetto",
+      "uitleg": "Gebruik de passato prossimo voor eenmalige, afgeronde acties in het verleden: 'Ieri ho mangiato una pizza.' Gebruik de imperfetto voor gewoontes, beschrijvingen en achtergrondacties: 'Da bambino mangiavo sempre la pizza.' Samen: 'Mentre mangiavo (achtergrond), è arrivato Marco (actie).'"
+    },
+    {
+      "titel": "L'imperfetto con 'mentre'",
+      "uitleg": "Met 'mentre' (terwijl) gebruik je de imperfetto voor de lopende actie en de passato prossimo voor de plotselinge onderbreking: 'Mentre dormivo, è suonato il telefono.' Twee gelijktijdige lopende acties: beide in de imperfetto: 'Mentre io cucinavo, lui leggeva.'"
+    },
+    {
+      "titel": "Pronomi tonici (beklemtoonde voornaamwoorden)",
+      "uitleg": "Me, te, lui/lei, noi, voi, loro. Gebruikt na voorzetsels: 'Vengo con te' (ik kom met jou), 'È per me' (het is voor mij), 'Parlo di lui' (ik praat over hem). Ook voor nadruk: 'A me piace, a te no.'"
+    },
+    {
+      "titel": "Pronomi indiretti (indirecte voornaamwoorden)",
+      "uitleg": "Mi (aan mij), ti (aan jou), gli (aan hem), le (aan haar), ci (aan ons), vi (aan jullie), gli (aan hen). Staan vóór het werkwoord: 'Gli ho dato il libro' (ik heb hem het boek gegeven). 'Le telefono domani' (ik bel haar morgen)."
+    },
+    {
+      "titel": "Accordo pronome diretto e participio passato",
+      "uitleg": "Als een direct voornaamwoord (lo, la, li, le) vóór de passato prossimo staat, past het participio passato zich aan in geslacht en getal: 'Ho visto Maria → L'ho vista.' 'Ho comprato i libri → Li ho comprati.' 'Ho mangiato la pizza → L'ho mangiata.'"
+    },
+    {
+      "titel": "Verbi + preposizioni: provare a, cercare di, smettere di, aiutare a",
+      "uitleg": "Sommige werkwoorden eisen een vast voorzetsel vóór de infinitief: provare a (proberen te): 'Provo a capire.' Cercare di (proberen te): 'Cerco di dormire.' Smettere di (stoppen met): 'Smetto di parlare.' Aiutare a (helpen te): 'Ti aiuto a cucinare.'"
+    },
+    {
+      "titel": "Avverbio: ecco",
+      "uitleg": "Ecco (hier is, kijk, alsjeblieft) wordt gebruikt om iets aan te wijzen of te overhandigen: 'Ecco il tuo caffè!' Met voornaamwoorden: 'Eccomi!' (hier ben ik), 'Eccolo!' (hier is hij/het), 'Eccola!' (hier is zij/het)."
+    },
+    {
+      "titel": "Espressioni di tempo per raccontare",
+      "uitleg": "Tijdsuitdrukkingen voor het vertellen van een verhaal: prima (eerst, daarvoor), poi (daarna, toen), a un certo punto (op een gegeven moment), improvvisamente (plotseling), alla fine (uiteindelijk). Voorbeeld: 'Prima stavo bene, poi a un certo punto mi sono sentito male.'"
+    },
+    {
+      "titel": "Amare vs. volere bene",
+      "uitleg": "Amare = romantische liefde: 'Amo mio marito.' (Ik hou van mijn man.) Volere bene = genegenheid, houden van (familie, vrienden): 'Voglio bene a mia madre.' (Ik hou van mijn moeder.) Volere bene is breder en minder intens dan amare."
+    },
+    {
+      "titel": "Gevoelens uitdrukken",
+      "uitleg": "Congratulazioni! (gefeliciteerd), Davvero? (echt waar? - verbazing), Che peccato! (wat jammer! - teleurstelling), Che bello! (wat leuk! - enthousiasme), Mah... (tja... - onzekerheid/twijfel), Basta! (genoeg! - irritatie). Veel gebruikt in de dagelijkse Italiaanse communicatie."
+    }
+  ]
+}

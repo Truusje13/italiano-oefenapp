@@ -11,27 +11,41 @@ import {
 
 const STORAGE_SLEUTEL = "italiano-voortgang";
 
-// Alle JSON-bestanden in src/data/ worden automatisch ingelezen en gevalideerd.
-const lessenBestanden = import.meta.glob("./data/*.json", {
+interface Leerpad {
+  id: string;
+  naam: string;
+  lessen: Les[];
+}
+
+const lessenBestanden = import.meta.glob("./data/**/*.json", {
   eager: true,
   import: "default"
 });
 
-function laadLessen(): { lessen: Les[]; fouten: string[] } {
-  const lessen: Les[] = [];
+const LEERPADEN_CONFIG: { id: string; naam: string; map: string }[] = [
+  { id: "dieci", naam: "Dieci", map: "dieci" },
+  { id: "allegro-1", naam: "Allegro 1", map: "allegro-1" },
+];
+
+function laadLeerpaden(): { leerpaden: Leerpad[]; fouten: string[] } {
   const fouten: string[] = [];
-  for (const [pad, data] of Object.entries(lessenBestanden)) {
-    const resultaat = lesSchema.safeParse(data);
-    if (resultaat.success) {
-      lessen.push(resultaat.data);
-    } else {
-      const details = resultaat.error.issues
-        .map((i) => `${i.path.join(".") || "root"}: ${i.message}`)
-        .join("; ");
-      fouten.push(`${pad}: ${details}`);
+  const leerpaden: Leerpad[] = LEERPADEN_CONFIG.map((cfg) => {
+    const lessen: Les[] = [];
+    for (const [pad, data] of Object.entries(lessenBestanden)) {
+      if (!pad.includes(`/${cfg.map}/`)) continue;
+      const resultaat = lesSchema.safeParse(data);
+      if (resultaat.success) {
+        lessen.push(resultaat.data);
+      } else {
+        const details = resultaat.error.issues
+          .map((i) => `${i.path.join(".") || "root"}: ${i.message}`)
+          .join("; ");
+        fouten.push(`${pad}: ${details}`);
+      }
     }
-  }
-  return { lessen: lessen.sort((a, b) => a.id - b.id), fouten };
+    return { id: cfg.id, naam: cfg.naam, lessen: lessen.sort((a, b) => a.id - b.id) };
+  });
+  return { leerpaden, fouten };
 }
 
 function laadVoortgang(): Record<string, KaartVoortgang> {
@@ -54,18 +68,28 @@ function bewaarVoortgang(voortgang: Record<string, KaartVoortgang>): void {
 type Tab = "woorden" | "flashcards" | "meerkeuze" | "invul" | "vertalen" | "grammatica";
 
 export default function App() {
-  const { lessen, fouten } = useMemo(laadLessen, []);
+  const { leerpaden, fouten } = useMemo(laadLeerpaden, []);
+  const [gekozenPad, setGekozenPad] = useState<Leerpad | null>(null);
   const [gekozenLes, setGekozenLes] = useState<Les | null>(null);
   const [tab, setTab] = useState<Tab>("woorden");
   const [voortgang, setVoortgang] = useState(laadVoortgang);
+
+  function openPad(pad: Leerpad) {
+    setGekozenPad(pad);
+  }
 
   function openLes(les: Les) {
     setGekozenLes(les);
     setTab("woorden");
   }
 
-  function terug() {
+  function terugNaarPad() {
     setGekozenLes(null);
+  }
+
+  function terugNaarOverzicht() {
+    setGekozenLes(null);
+    setGekozenPad(null);
   }
 
   return (
@@ -85,11 +109,27 @@ export default function App() {
         </div>
       )}
 
-      {!gekozenLes ? (
+      {!gekozenPad ? (
+        <section className="leerpaden-overzicht">
+          {leerpaden.map((pad) => (
+            <button key={pad.id} className="leerpad-kaart" onClick={() => openPad(pad)}>
+              <span className="leerpad-kaart-naam">{pad.naam}</span>
+              <span className="leerpad-kaart-info">
+                {pad.lessen.length > 0
+                  ? `${pad.lessen.length} ${pad.lessen.length === 1 ? "les" : "lessen"}`
+                  : "Binnenkort..."}
+              </span>
+            </button>
+          ))}
+        </section>
+      ) : !gekozenLes ? (
         <section className="leerpad">
-          <h2 className="leerpad-naam">Dieci</h2>
-          {lessen.length === 0 && <p>Nog geen lessen gevonden.</p>}
-          {lessen.map((l, i) => (
+          <button className="terug-knop" onClick={terugNaarOverzicht}>
+            ← Leerpaden
+          </button>
+          <h2 className="leerpad-naam">{gekozenPad.naam}</h2>
+          {gekozenPad.lessen.length === 0 && <p className="pad-gedempt">Nog geen lessen.</p>}
+          {gekozenPad.lessen.map((l, i) => (
             <Fragment key={l.id}>
               {i > 0 && (
                 <svg className="pad-connector" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
@@ -117,11 +157,11 @@ export default function App() {
               </div>
             </Fragment>
           ))}
-          {lessen.length > 0 && (
+          {gekozenPad.lessen.length > 0 && (
             <>
               <svg className="pad-connector" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
                 <path
-                  d={lessen.length % 2 === 1
+                  d={gekozenPad.lessen.length % 2 === 1
                     ? "M 60 0 C 60 30, 140 30, 140 60"
                     : "M 140 0 C 140 30, 60 30, 60 60"}
                   stroke="var(--accent)"
@@ -132,7 +172,7 @@ export default function App() {
                   strokeLinecap="round"
                 />
               </svg>
-              <div className={`pad-stap ${lessen.length % 2 === 0 ? "pad-links" : "pad-rechts"}`}>
+              <div className={`pad-stap ${gekozenPad.lessen.length % 2 === 0 ? "pad-links" : "pad-rechts"}`}>
                 <div className="pad-bolletje pad-vergrendeld">?</div>
                 <span className="pad-titel pad-gedempt">Binnenkort...</span>
               </div>
@@ -141,8 +181,8 @@ export default function App() {
         </section>
       ) : (
         <>
-          <button className="terug-knop" onClick={terug}>
-            ← Hoofdstukken
+          <button className="terug-knop" onClick={terugNaarPad}>
+            ← {gekozenPad.naam}
           </button>
           <h2 className="les-titel">{gekozenLes.titel}</h2>
           <nav>

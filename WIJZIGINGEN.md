@@ -130,3 +130,19 @@ git checkout <commit-hash> -- .
 - `vite.config.ts` – Theme-kleur aangepast van blauw (#1f6feb) naar Italiaans groen (#009246), achtergrondkleur naar warm donker (#1a1412).
 
 **Resultaat:** Op het homescreen van je telefoon verschijnt nu de Italiaanse vlag als app-icoon. Na het opnieuw installeren van de PWA is het nieuwe icoon zichtbaar.
+
+---
+
+## Stap 10 – Hoofdstuk 2 "Come eravamo" (2026-11-06)
+
+**Wat:** Hoofdstuk 2 toegevoegd met oefenstof over de imperfetto, vergelijkingen, uiterlijk en persoonlijkheid.
+
+**Gewijzigde bestanden:**
+- `src/data/les-02.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 10 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: imperfetto (regelmatig en onregelmatig), comparativo di maggioranza/minoranza/uguaglianza, presente storico, voorzetsels nel/dal...al + jaar, voegwoorden né...né
+- Woordenschat: kindertijd, levensfasen (bambino/ragazzo/giovane/anziano), uiterlijk (alto/basso/magro/grasso), persoonlijkheid (timido/simpatico/allegro), vergelijkingen (più...di, meno...di, così...come)
+- Communicatie: gewoontes en herinneringen uit het verleden vertellen, uiterlijk en persoonlijkheid beschrijven, vergelijkingen maken, een biografie schrijven
+
+**Resultaat:** Het leerpad toont nu twee hoofdstukken met een slingerende weg ertussen. Hoofdstuk 2 bevat alle zes oefenvormen: woorden, flashcards, meerkeuze, invullen, vertalen en grammatica.

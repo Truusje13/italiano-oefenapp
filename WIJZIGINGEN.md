@@ -288,3 +288,18 @@ git checkout <commit-hash> -- .
 - `package.json` – `--dotfiles` flag toegevoegd aan het deploy-script zodat `.nojekyll` altijd wordt meegenomen
 
 **Resultaat:** Boven het leerpad staat nu "DIECI" als naam. De app is voorbereid op meerdere leerpaden in de toekomst.
+
+---
+
+## Stap 20 – Flashcards verbeterd: schudden en fout-kaarten herhalen (2026-11-06)
+
+**Wat:** De flashcards-flow verbeterd zodat alle beoordelingsknoppen altijd doorgaan naar het volgende woord. Fout-kaarten komen later in de sessie terug.
+
+**Gewijzigde bestanden:**
+- `src/App.tsx` – Flashcards-component herschreven:
+  - Kaarten worden bij het openen **geschud** (Fisher-Yates shuffle), zodat IT→NL en NL→IT niet meer naast elkaar staan
+  - Eigen **rij-state** (`useState`) in plaats van elke render opnieuw filteren
+  - **"Fout"** verwijdert de kaart van de kop en plaatst hem achteraan de rij (teller blijft gelijk)
+  - **"Moeilijk"/"Goed"/"Makkelijk"** verwijdert de kaart definitief uit de rij (teller daalt)
+
+**Resultaat:** Alle knoppen gaan nu altijd door naar een ander woord. Fout-kaarten komen later in dezelfde oefensessie terug voor herhaling.

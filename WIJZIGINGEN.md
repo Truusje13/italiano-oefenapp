@@ -226,3 +226,51 @@ git checkout <commit-hash> -- .
 - Communicatie: werkdag beschrijven, toekomstplannen maken, formeel telefoneren, formele e-mails schrijven, oorzaken en gevolgen uitdrukken
 
 **Resultaat:** Het leerpad slingert nu met zeven hoofdstukken. Alle hoofdstukken 1 t/m 7 bevatten elk 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 10 grammatica-uitleg.
+
+---
+
+## Stap 16 – Hoofdstuk 8 "Mi serve!" (2026-11-06)
+
+**Wat:** Hoofdstuk 8 toegevoegd met oefenstof over huishoudelijke voorwerpen, woningen, het condizionale presente en betrekkelijk voornaamwoord cui.
+
+**Gewijzigde bestanden:**
+- `src/data/les-08.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 10 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: pronome relativo cui (na voorzetsels), superlativo relativo, condizionale presente (regelmatig en onregelmatig), bello anteposto al nome, alterati (-ino, -etto, -one), voorzetsel entro, servire (mi serve/servono)
+- Woordenschat: huishoudelijke voorwerpen (cacciavite, forbici, apriscatole), huishoudelijke apparaten (frigorifero, lavatrice, lavastoviglie, aspirapolvere), woning (appartamento, affitto, monolocale, bilocale, arredato), afval (raccolta differenziata, buttare, riuso)
+- Communicatie: voorwerpen beschrijven, hulp aanbieden (Le serve una mano?), bedanken en reageren (Non c'è di che, Si figuri!), woningadvertenties begrijpen
+
+**Resultaat:** Het leerpad slingert nu met acht hoofdstukken.
+
+---
+
+## Stap 17 – Hoofdstuk 9 "L'Italia cambia" (2026-11-06)
+
+**Wat:** Hoofdstuk 9 toegevoegd met oefenstof over familie, huwelijk, huishoudelijk werk, stereotypen en de onpersoonlijke si-constructie.
+
+**Gewijzigde bestanden:**
+- `src/data/les-09.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 10 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: sapere vs. conoscere (ook in passato prossimo), stare per + infinito, avverbi in -mente, forma impersonale con si, indefiniti (alcuni/qualche)
+- Woordenschat: moderne familie (coniuge, matrigna, patrigno, fratellastro, sorellastra, famiglia allargata), huishoudelijk werk (faccende domestiche, bucato, stirare, sparecchiare, fare il letto), stereotypen en meningen
+- Communicatie: kennis en onwetendheid uitdrukken, huishoudelijke taken bespreken, mening geven over stereotypen, tutoyeren (darci del tu)
+
+**Resultaat:** Het leerpad slingert nu met negen hoofdstukken.
+
+---
+
+## Stap 18 – Hoofdstuk 10 "Buono o cattivo?" (2026-11-06)
+
+**Wat:** Hoofdstuk 10 toegevoegd met oefenstof over eten, smaken, restaurants en Italiaanse voedingscultuur.
+
+**Gewijzigde bestanden:**
+- `src/data/les-10.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 10 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: congiunzioni però/mentre (avversativo), particella ne + passato prossimo (aanpassing participio), constructie che + aggettivo/nome (uitroepen), futuro epistemico (vermoedens)
+- Woordenschat: smaken (dolce, amaro, salato, piccante, saporito), restauranttypes (ristorante, trattoria, osteria, tavola calda), maaltijdstructuur (antipasto, primo, secondo, contorno, dolce), ijs (cono, coppetta, panna, gusto), bestellen (menù, conto, ordinare, assaggiare)
+- Communicatie: smaken beschrijven, bestellen in een restaurant, ijs bestellen, voorkeuren en afkeer uitdrukken (Non sopporto..., Per me non ha senso), Italiaanse voedingsregels
+
+**Resultaat:** Het leerpad bevat nu alle 10 hoofdstukken van het boek "Dieci lezioni di italiano". Elk hoofdstuk heeft 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 10 grammatica-uitleg.

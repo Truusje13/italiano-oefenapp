@@ -1,0 +1,304 @@
+{
+  "id": 8,
+  "titel": "Hoofdstuk 8 – Mi serve!",
+  "woorden": [
+    { "it": "l'oggetto", "nl": "het voorwerp", "voorbeeld": "Che oggetto è?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "servire (a)", "nl": "dienen (voor), nodig hebben", "voorbeeld": "A che cosa serve? Mi serve un cacciavite.", "woordsoort": "werkwoord" },
+    { "it": "il cacciavite", "nl": "de schroevendraaier", "voorbeeld": "Mi serve un cacciavite.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "le forbici", "nl": "de schaar", "voorbeeld": "Mi servono le forbici.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'apriscatole", "nl": "de blikopener", "voorbeeld": "Dov'è l'apriscatole?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il frigorifero", "nl": "de koelkast", "voorbeeld": "Metti il latte in frigorifero.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la lavatrice", "nl": "de wasmachine", "voorbeeld": "La lavatrice è rotta.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la lavastoviglie", "nl": "de vaatwasser", "voorbeeld": "Metti i piatti nella lavastoviglie.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'aspirapolvere", "nl": "de stofzuiger", "voorbeeld": "Passo l'aspirapolvere ogni giorno.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il centimetro", "nl": "de centimeter, het meetlint", "voorbeeld": "Mi serve un centimetro.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'annuncio immobiliare", "nl": "de woningadvertentie", "voorbeeld": "Ho letto un annuncio immobiliare.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'appartamento", "nl": "het appartement", "voorbeeld": "Cerco un appartamento in centro.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'affitto", "nl": "de huur", "voorbeeld": "Quanto costa l'affitto?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il monolocale", "nl": "de studio (éénkamerappartement)", "voorbeeld": "Un monolocale in centro costa molto.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il bilocale", "nl": "het tweekamerappartement", "voorbeeld": "Cerco un bilocale con balcone.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "arredato", "nl": "gemeubileerd", "voorbeeld": "L'appartamento è arredato.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "la raccolta differenziata", "nl": "het gescheiden afval", "voorbeeld": "Qui facciamo la raccolta differenziata.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "buttare", "nl": "weggooien", "voorbeeld": "Dove devo buttare la plastica?", "woordsoort": "werkwoord" },
+    { "it": "il regalo", "nl": "het cadeau", "voorbeeld": "Ho comprato un regalo per Maria.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il riuso", "nl": "het hergebruik", "voorbeeld": "Il riuso è importante per l'ambiente.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "richiedere", "nl": "vragen om, verzoeken", "voorbeeld": "Vorrei richiedere un'informazione.", "woordsoort": "werkwoord" },
+    { "it": "consigliare", "nl": "aanraden, adviseren", "voorbeeld": "Ti consiglio questo ristorante.", "woordsoort": "werkwoord" },
+    { "it": "offrire", "nl": "aanbieden", "voorbeeld": "Ti posso offrire un caffè?", "woordsoort": "werkwoord" },
+    { "it": "ringraziare", "nl": "bedanken", "voorbeeld": "Ti ringrazio per l'aiuto.", "woordsoort": "werkwoord" },
+    { "it": "bello", "nl": "mooi (voor zn.)", "voorbeeld": "Un bel giorno. Un bell'uomo. Bei fiori.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "carino", "nl": "leuk, schattig", "voorbeeld": "Che carino questo oggetto!", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "Non ne ho idea.", "nl": "Ik heb geen idee.", "voorbeeld": "Non ne ho idea, chiedi a Marco.", "woordsoort": "uitdrukking" },
+    { "it": "Le serve una mano?", "nl": "Heeft u hulp nodig?", "voorbeeld": "Le serve una mano con le borse?", "woordsoort": "uitdrukking" },
+    { "it": "Non c'è di che.", "nl": "Geen dank. / Graag gedaan.", "voorbeeld": "Grazie! — Non c'è di che.", "woordsoort": "uitdrukking" },
+    { "it": "Si figuri!", "nl": "Geen probleem! (formeel)", "voorbeeld": "Grazie mille! — Si figuri!", "woordsoort": "uitdrukking" }
+  ],
+  "zinnen": [
+    { "nl": "Waar dient dit voorwerp voor?", "it": "A che cosa serve questo oggetto?" },
+    { "nl": "Ik heb een schroevendraaier nodig.", "it": "Mi serve un cacciavite." },
+    { "nl": "Ik heb de schaar nodig.", "it": "Mi servono le forbici." },
+    { "nl": "Zet de melk in de koelkast.", "it": "Metti il latte in frigorifero." },
+    { "nl": "De wasmachine is kapot.", "it": "La lavatrice è rotta." },
+    { "nl": "Hoeveel kost de huur?", "it": "Quanto costa l'affitto?" },
+    { "nl": "Ik zoek een gemeubileerd appartement.", "it": "Cerco un appartamento arredato." },
+    { "nl": "Waar moet ik het plastic weggooien?", "it": "Dove devo buttare la plastica?" },
+    { "nl": "Ik zou graag iets willen vragen.", "it": "Vorrei richiedere un'informazione." },
+    { "nl": "Ik raad je dit restaurant aan.", "it": "Ti consiglio questo ristorante." },
+    { "nl": "Kan ik je een koffie aanbieden?", "it": "Ti posso offrire un caffè?" },
+    { "nl": "Ik bedank je voor de hulp.", "it": "Ti ringrazio per l'aiuto." },
+    { "nl": "Heeft u hulp nodig?", "it": "Le serve una mano?" },
+    { "nl": "Geen dank!", "it": "Non c'è di che!" },
+    { "nl": "Een mooie dag. Mooie bloemen.", "it": "Un bel giorno. Bei fiori." }
+  ],
+  "invuloefeningen": [
+    { "zin": "A che cosa ___ questo oggetto? (dienen)", "antwoord": "serve" },
+    { "zin": "Mi ___ un cacciavite. (nodig hebben, enk.)", "antwoord": "serve" },
+    { "zin": "Mi ___ le forbici. (nodig hebben, mv.)", "antwoord": "servono" },
+    { "zin": "La ___ è rotta. (wasmachine)", "antwoord": "lavatrice" },
+    { "zin": "Quanto costa l'___? (huur)", "antwoord": "affitto" },
+    { "zin": "Cerco un appartamento ___. (gemeubileerd)", "antwoord": "arredato" },
+    { "zin": "Dove devo ___ la plastica? (weggooien)", "antwoord": "buttare" },
+    { "zin": "Ti ___ per l'aiuto. (bedanken)", "antwoord": "ringrazio" },
+    { "zin": "Ti posso ___ un caffè? (aanbieden)", "antwoord": "offrire" },
+    { "zin": "Un ___ giorno. (mooi, voor zn.)", "antwoord": "bel" },
+    { "zin": "Metti il latte in ___. (koelkast)", "antwoord": "frigorifero" },
+    { "zin": "Non ne ho ___. (idee)", "antwoord": "idea" },
+    { "zin": "Le serve una ___? (hulp/hand)", "antwoord": "mano" },
+    { "zin": "Vorrei ___ un'informazione. (vragen om)", "antwoord": "richiedere" },
+    { "zin": "Qui facciamo la raccolta ___. (gescheiden)", "antwoord": "differenziata" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Wat is 'il pronome relativo cui'?",
+      "opties": [
+        "Een betrekkelijk voornaamwoord dat na voorzetsels wordt gebruikt",
+        "Een aanwijzend voornaamwoord",
+        "Een persoonlijk voornaamwoord",
+        "Een wederkerend voornaamwoord"
+      ],
+      "antwoord": "Een betrekkelijk voornaamwoord dat na voorzetsels wordt gebruikt",
+      "uitleg": "Cui wordt gebruikt na voorzetsels: 'La persona a cui ho parlato.' (De persoon met wie ik heb gesproken.) 'La città in cui vivo.' (De stad waarin ik woon.) Zonder voorzetsel gebruik je che."
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'che' en 'cui'?",
+      "opties": [
+        "Che = zonder voorzetsel (subject/direct object), cui = na een voorzetsel",
+        "Che = voor personen, cui = voor dingen",
+        "Che = enkelvoud, cui = meervoud",
+        "Er is geen verschil"
+      ],
+      "antwoord": "Che = zonder voorzetsel (subject/direct object), cui = na een voorzetsel",
+      "uitleg": "'Il libro che leggo.' (direct object) vs. 'Il libro di cui parlo.' (na voorzetsel). Che is nooit te combineren met voorzetsels; dan gebruik je cui."
+    },
+    {
+      "vraag": "Wat is 'il superlativo relativo'?",
+      "opties": [
+        "De overtreffende trap met lidwoord: il più bello, la meno cara",
+        "De absolute overtreffende trap: bellissimo",
+        "De vergrotende trap: più bello di",
+        "Een regelmatige bijvoeglijke naamwoordvorm"
+      ],
+      "antwoord": "De overtreffende trap met lidwoord: il più bello, la meno cara",
+      "uitleg": "Il superlativo relativo vergelijkt met een groep: 'Roma è la città più bella d'Italia.' (Rome is de mooiste stad van Italië.) Structuur: lidwoord + più/meno + bijv.nw. + di (van)."
+    },
+    {
+      "vraag": "Hoe vorm je het condizionale presente van 'io volere'?",
+      "opties": ["vorrei", "volerrei", "volerei", "vorrò"],
+      "antwoord": "vorrei",
+      "uitleg": "Condizionale van volere: vorrei, vorresti, vorrebbe, vorremmo, vorreste, vorrebbero. Stam vorr- + condizionale-uitgangen. 'Vorrei un caffè.' (Ik zou graag een koffie willen.)"
+    },
+    {
+      "vraag": "Wat zijn de condizionale-uitgangen?",
+      "opties": [
+        "-ei, -esti, -ebbe, -emmo, -este, -ebbero",
+        "-ò, -ai, -à, -emo, -ete, -anno",
+        "-o, -i, -e, -iamo, -ete, -ono",
+        "-avo, -avi, -ava, -avamo, -avate, -avano"
+      ],
+      "antwoord": "-ei, -esti, -ebbe, -emmo, -este, -ebbero",
+      "uitleg": "Het condizionale presente: stam (dezelfde als futuro) + -ei, -esti, -ebbe, -emmo, -este, -ebbero. Voorbeeld: parlare → parlerei, prendere → prenderei, dormire → dormirei."
+    },
+    {
+      "vraag": "Wat is het condizionale van 'io essere'?",
+      "opties": ["sarei", "serei", "esserei", "starei"],
+      "antwoord": "sarei",
+      "uitleg": "Essere: sarei, saresti, sarebbe, saremmo, sareste, sarebbero. Dezelfde onregelmatige stam als het futuro (sar-)."
+    },
+    {
+      "vraag": "Hoe gebruik je 'bello' vóór een zelfstandig naamwoord?",
+      "opties": [
+        "Het volgt de vormen van het bepaald lidwoord: bel, bell', bello, bella, bei, begli, belle",
+        "Het is altijd 'bello'",
+        "Het verandert alleen in geslacht: bello/bella",
+        "Het wordt niet vóór een zelfstandig naamwoord gebruikt"
+      ],
+      "antwoord": "Het volgt de vormen van het bepaald lidwoord: bel, bell', bello, bella, bei, begli, belle",
+      "uitleg": "Bello vóór een zn.: bel libro (il), bell'uomo (l'), bello sport (lo), bella casa (la), bei fiori (i), begli occhi (gli), belle case (le). Na het zn. of na essere: gewoon bello/a/i/e."
+    },
+    {
+      "vraag": "Wat betekent 'Mi serve un cacciavite'?",
+      "opties": [
+        "Ik heb een schroevendraaier nodig",
+        "Ik gebruik een schroevendraaier",
+        "Geef me een schroevendraaier",
+        "Ik zoek een schroevendraaier"
+      ],
+      "antwoord": "Ik heb een schroevendraaier nodig",
+      "uitleg": "Servire = nodig hebben. Enkelvoud: mi serve + enk.zn. Meervoud: mi servono + mv.zn. 'Mi servono le forbici.' (Ik heb de schaar nodig.)"
+    },
+    {
+      "vraag": "Wat zijn 'gli alterati in -ino e -etto'?",
+      "opties": [
+        "Verkleinwoorden: casina/casetta (huisje), librino/libretto (boekje)",
+        "Vergrotingen: casona, librone",
+        "Negatieve vormen: casaccia, libraccio",
+        "Meervoudsvormen"
+      ],
+      "antwoord": "Verkleinwoorden: casina/casetta (huisje), librino/libretto (boekje)",
+      "uitleg": "-ino en -etto maken verkleinwoorden: casa → casina/casetta, libro → librino/libretto, gatto → gattino. -One maakt vergrotingen: libro → librone. -Accio maakt het negatief: tempo → tempaccio."
+    },
+    {
+      "vraag": "Wat zijn 'gli alterati in -one'?",
+      "opties": [
+        "Vergrotingen: librone (groot boek), macchinone (grote auto)",
+        "Verkleinwoorden",
+        "Negatieve vormen",
+        "Meervoudsvormen"
+      ],
+      "antwoord": "Vergrotingen: librone (groot boek), macchinone (grote auto)",
+      "uitleg": "-One maakt vergrotingen: libro → librone, macchina → macchinone, porta → portone (grote deur/poort). Let op: vrouwelijke woorden worden met -one mannelijk: la porta → il portone."
+    },
+    {
+      "vraag": "Wat betekent 'il condizionale presente' als functie?",
+      "opties": [
+        "Beleefd vragen, wensen, advies geven",
+        "Verleden tijd vertellen",
+        "Toekomst voorspellen",
+        "Gewoontes beschrijven"
+      ],
+      "antwoord": "Beleefd vragen, wensen, advies geven",
+      "uitleg": "Het condizionale wordt gebruikt voor: beleefd vragen (vorrei), wensen (mi piacerebbe), advies (dovresti), mogelijkheden (potrei). 'Vorrei un caffè.' 'Dovresti studiare di più.'"
+    },
+    {
+      "vraag": "Wat is het condizionale van 'io potere'?",
+      "opties": ["potrei", "poterrei", "potrò", "posserei"],
+      "antwoord": "potrei",
+      "uitleg": "Potere: potrei, potresti, potrebbe, potremmo, potreste, potrebbero. Stam potr- (dezelfde als futuro). 'Potrei avere il conto?' (Zou ik de rekening kunnen krijgen?)"
+    },
+    {
+      "vraag": "Wat is 'la raccolta differenziata'?",
+      "opties": [
+        "Het gescheiden inzamelen van afval",
+        "De vuilnisbak",
+        "De vuilnisophaal",
+        "Het recyclagecentrum"
+      ],
+      "antwoord": "Het gescheiden inzamelen van afval",
+      "uitleg": "La raccolta differenziata = gescheiden afvalinzameling. In Italië wordt afval strikt gescheiden: plastica, carta, vetro (glas), umido (GFT), indifferenziato (restafval)."
+    },
+    {
+      "vraag": "Welke zin is correct met 'bello'?",
+      "opties": [
+        "Un bel ragazzo.",
+        "Un bello ragazzo.",
+        "Un bell ragazzo.",
+        "Un be' ragazzo."
+      ],
+      "antwoord": "Un bel ragazzo.",
+      "uitleg": "Vóór mannelijk enkelvoud zn. met medeklinker: bel. Un bel ragazzo, un bel giorno, un bel film. Vóór s+medeklinker/z: bello (un bello stadio)."
+    },
+    {
+      "vraag": "Hoe zeg je 'de stad waarin ik woon' met cui?",
+      "opties": [
+        "La città in cui vivo.",
+        "La città che vivo.",
+        "La città cui in vivo.",
+        "La città di che vivo."
+      ],
+      "antwoord": "La città in cui vivo.",
+      "uitleg": "Voorzetsel + cui: 'La città in cui vivo.' 'La persona con cui lavoro.' 'Il motivo per cui studio.' Cui is onveranderlijk en wordt altijd voorafgegaan door een voorzetsel."
+    },
+    {
+      "vraag": "Wat is het condizionale van 'io dovere'?",
+      "opties": ["dovrei", "doverei", "doverrei", "dovrò"],
+      "antwoord": "dovrei",
+      "uitleg": "Dovere: dovrei, dovresti, dovrebbe, dovremmo, dovreste, dovrebbero. 'Dovresti studiare di più.' (Je zou meer moeten studeren.) Stam dovr-, dezelfde als futuro."
+    },
+    {
+      "vraag": "Hoe zeg je 'Geen probleem!' formeel?",
+      "opties": ["Si figuri!", "Non c'è di che.", "Di niente.", "Alle bovenstaande"],
+      "antwoord": "Alle bovenstaande",
+      "uitleg": "Manieren om 'graag gedaan' te zeggen: 'Si figuri!' (formeel), 'Non c'è di che.' (vrij formeel), 'Di niente.' (neutraal), 'Figurati!' (informeel tu), 'Prego!' (standaard)."
+    },
+    {
+      "vraag": "Wat zijn 'i numeri cardinali dopo 10.000'?",
+      "opties": [
+        "Diecimila, ventimila, centomila, un milione",
+        "Decimo, ventesimo, centesimo",
+        "Dieci, venti, cento, mille",
+        "Primo, secondo, terzo"
+      ],
+      "antwoord": "Diecimila, ventimila, centomila, un milione",
+      "uitleg": "Hoofdtelwoorden: 10.000 diecimila, 20.000 ventimila, 100.000 centomila, 1.000.000 un milione. Let op: mille → duemila (2.000), tremila (3.000). Milione is een zn.: un milione di euro."
+    },
+    {
+      "vraag": "Hoe gebruik je 'entro' als voorzetsel?",
+      "opties": [
+        "Binnen, uiterlijk: 'Entro venerdì' (uiterlijk vrijdag)",
+        "Tussen: 'Entro Roma e Milano'",
+        "Na: 'Entro due ore' (na twee uur)",
+        "Sinds: 'Entro lunedì' (sinds maandag)"
+      ],
+      "antwoord": "Binnen, uiterlijk: 'Entro venerdì' (uiterlijk vrijdag)",
+      "uitleg": "Entro = binnen, uiterlijk. 'Entro domani.' (Uiterlijk morgen.) 'Entro la fine del mese.' (Voor het einde van de maand.) Vergelijk met tra/fra (over): 'tra due giorni' (over twee dagen)."
+    },
+    {
+      "vraag": "Wat is het condizionale van 'io avere'?",
+      "opties": ["avrei", "averrei", "avrò", "avessi"],
+      "antwoord": "avrei",
+      "uitleg": "Avere: avrei, avresti, avrebbe, avremmo, avreste, avrebbero. Stam avr- (dezelfde als futuro). 'Avrei bisogno di un consiglio.' (Ik zou een advies nodig hebben.)"
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Il pronome relativo cui",
+      "uitleg": "Cui wordt gebruikt na voorzetsels: 'La persona a cui scrivo.' (De persoon aan wie ik schrijf.) 'La città in cui vivo.' (De stad waarin ik woon.) 'Il motivo per cui studio.' (De reden waarom ik studeer.) Zonder voorzetsel gebruik je che. Cui is altijd onveranderlijk."
+    },
+    {
+      "titel": "Il superlativo relativo",
+      "uitleg": "De relatieve overtreffende trap vergelijkt binnen een groep: lidwoord + più/meno + bijv.nw. + di. 'Roma è la città più bella d'Italia.' (de mooiste stad van Italië). 'È il meno caro del negozio.' (de minst dure van de winkel). Na de superlatief volgt di (van), niet che."
+    },
+    {
+      "titel": "Il condizionale presente: forme regolari",
+      "uitleg": "Het condizionale presente: stam (= futuro-stam) + -ei, -esti, -ebbe, -emmo, -este, -ebbero. Regelmatig: parlare → parlerei, prendere → prenderei, dormire → dormirei. Gebruikt voor: beleefd vragen (vorrei), wensen (mi piacerebbe), advies (dovresti), mogelijkheden (potrei)."
+    },
+    {
+      "titel": "Il condizionale presente: forme irregolari e contratte",
+      "uitleg": "Onregelmatige stammen (= futuro): essere → sar- (sarei), avere → avr- (avrei), fare → far- (farei), andare → andr- (andrei), potere → potr- (potrei), dovere → dovr- (dovrei), volere → vorr- (vorrei), sapere → sapr- (saprei), vedere → vedr- (vedrei), venire → verr- (verrei)."
+    },
+    {
+      "titel": "L'aggettivo bello anteposto al nome",
+      "uitleg": "Bello vóór een zelfstandig naamwoord volgt de vormen van het bepaald lidwoord: bel (il) → un bel ragazzo, bell' (l') → un bell'uomo, bello (lo) → un bello stadio, bella (la) → una bella casa, bei (i) → bei fiori, begli (gli) → begli occhi, belle (le) → belle ragazze. Na het zn. of na essere: gewoon bello/a/i/e."
+    },
+    {
+      "titel": "Gli alterati in -ino, -etto e -one",
+      "uitleg": "Verkleinwoorden: -ino (gattino, casina) en -etto (libretto, casetta) drukken kleinheid of liefkozendheid uit. Vergrotingen: -one maakt iets groter (librone, macchinone); vrouwelijke woorden worden mannelijk met -one (la porta → il portone). Negatief: -accio (tempaccio = slecht weer)."
+    },
+    {
+      "titel": "Preposizioni: entro",
+      "uitleg": "Entro = binnen, uiterlijk (deadline). 'Devi finire entro domani.' (Je moet uiterlijk morgen klaar zijn.) 'Entro la fine del mese.' (Voor het einde van de maand.) Vergelijk: tra/fra = over (toekomst): 'tra due giorni' (over twee dagen). Entro geeft een limiet, tra/fra een verwacht moment."
+    },
+    {
+      "titel": "Servire: Mi serve / Mi servono",
+      "uitleg": "Servire werkt als piacere: het onderwerp is wat je nodig hebt. Enkelvoud: 'Mi serve un cacciavite.' (Ik heb een schroevendraaier nodig.) Meervoud: 'Mi servono le forbici.' (Ik heb de schaar nodig.) Formeel: 'Le serve qualcosa?' (Heeft u iets nodig?)"
+    },
+    {
+      "titel": "I numeri cardinali dopo 10.000",
+      "uitleg": "Grote getallen: 10.000 diecimila, 50.000 cinquantamila, 100.000 centomila, 1.000.000 un milione, 2.000.000 due milioni. Let op: mille → duemila (2.000), tremila (3.000). Milione/milioni is een zelfstandig naamwoord en wordt gevolgd door di: un milione di euro. In woningadvertenties: '€850 al mese', '80 mq' (metri quadri)."
+    },
+    {
+      "titel": "La raccolta differenziata",
+      "uitleg": "In Italië wordt afval strikt gescheiden: plastica (plastic), carta (papier), vetro (glas), umido/organico (GFT), indifferenziato/secco (restafval), pile (batterijen). 'Dove devo buttare...?' (Waar moet ik ... weggooien?) Nuttige vragen: 'Come funziona la raccolta differenziata qui?' (Hoe werkt het scheiden van afval hier?)"
+    }
+  ]
+}

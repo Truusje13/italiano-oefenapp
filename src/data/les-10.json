@@ -1,0 +1,329 @@
+{
+  "id": 10,
+  "titel": "Hoofdstuk 10 – Buono o cattivo?",
+  "woorden": [
+    { "it": "il sapore", "nl": "de smaak", "voorbeeld": "Questo piatto ha un buon sapore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "dolce", "nl": "zoet", "voorbeeld": "Questo vino è dolce.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "amaro", "nl": "bitter", "voorbeeld": "Il caffè è amaro.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "salato", "nl": "zout, gezouten", "voorbeeld": "La zuppa è troppo salata.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "piccante", "nl": "pikant, pittig", "voorbeeld": "Mi piace il cibo piccante.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "saporito", "nl": "smakelijk", "voorbeeld": "Questa pasta è molto saporita.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "il cibo di strada", "nl": "het straateten", "voorbeeld": "In Italia il cibo di strada è buonissimo.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il menù", "nl": "het menu, de menukaart", "voorbeeld": "Posso vedere il menù?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il cono", "nl": "het hoorntje (ijs)", "voorbeeld": "Un cono con due gusti, per favore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la coppetta", "nl": "het bakje (ijs)", "voorbeeld": "Preferisco la coppetta.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la panna", "nl": "de slagroom", "voorbeeld": "Con o senza panna?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il gusto", "nl": "de smaak (ijssmaak)", "voorbeeld": "Che gusto vuole?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il ristorante", "nl": "het restaurant", "voorbeeld": "Andiamo al ristorante stasera.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la trattoria", "nl": "de trattoria (informeel restaurant)", "voorbeeld": "C'è una buona trattoria qui vicino.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'osteria", "nl": "de osteria (wijn- en eetcafé)", "voorbeeld": "In osteria si mangia bene e si spende poco.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la tavola calda", "nl": "de snackbar, cafetaria", "voorbeeld": "Mangiamo qualcosa alla tavola calda.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il conto", "nl": "de rekening", "voorbeeld": "Il conto, per favore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "ordinare", "nl": "bestellen", "voorbeeld": "Vorrei ordinare un primo.", "woordsoort": "werkwoord" },
+    { "it": "assaggiare", "nl": "proeven", "voorbeeld": "Vuole assaggiare?", "woordsoort": "werkwoord" },
+    { "it": "sopportare", "nl": "verdragen, uitstaan", "voorbeeld": "Non sopporto il pesce crudo.", "woordsoort": "werkwoord" },
+    { "it": "Non ci credo.", "nl": "Ik geloof het niet.", "voorbeeld": "Ha vinto? Non ci credo!", "woordsoort": "uitdrukking" },
+    { "it": "Uffa!", "nl": "Bah! / Pfff!", "voorbeeld": "Uffa, ancora pioggia!", "woordsoort": "uitdrukking" },
+    { "it": "Per me non ha senso.", "nl": "Voor mij heeft het geen zin.", "voorbeeld": "Per me non ha senso mettere il ketchup sulla pasta.", "woordsoort": "uitdrukking" },
+    { "it": "però", "nl": "maar, echter", "voorbeeld": "È buono, però è caro.", "woordsoort": "voegwoord" },
+    { "it": "mentre", "nl": "terwijl (tegenstelling)", "voorbeeld": "A me piace il dolce, mentre a lui piace il salato.", "woordsoort": "voegwoord" },
+    { "it": "il primo (piatto)", "nl": "het eerste gerecht (pasta/risotto)", "voorbeeld": "Come primo prendo gli spaghetti.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il secondo (piatto)", "nl": "het tweede gerecht (vlees/vis)", "voorbeeld": "Come secondo prendo il pesce.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il contorno", "nl": "de bijgerecht", "voorbeeld": "Come contorno, un'insalata mista.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il dolce", "nl": "het nagerecht, het dessert", "voorbeeld": "Come dolce prendo il tiramisù.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la regola alimentare", "nl": "de voedingsregel", "voorbeeld": "In Italia ci sono molte regole alimentari.", "woordsoort": "zelfstandig naamwoord" }
+  ],
+  "zinnen": [
+    { "nl": "Dit gerecht heeft een goede smaak.", "it": "Questo piatto ha un buon sapore." },
+    { "nl": "De soep is te zout.", "it": "La zuppa è troppo salata." },
+    { "nl": "Ik hou van pittig eten.", "it": "Mi piace il cibo piccante." },
+    { "nl": "Een hoorntje met twee smaken, alstublieft.", "it": "Un cono con due gusti, per favore." },
+    { "nl": "Met of zonder slagroom?", "it": "Con o senza panna?" },
+    { "nl": "Mag ik de menukaart zien?", "it": "Posso vedere il menù?" },
+    { "nl": "De rekening, alstublieft.", "it": "Il conto, per favore." },
+    { "nl": "Ik wil graag een eerste gerecht bestellen.", "it": "Vorrei ordinare un primo." },
+    { "nl": "Wilt u proeven?", "it": "Vuole assaggiare?" },
+    { "nl": "Ik kan rauwe vis niet uitstaan.", "it": "Non sopporto il pesce crudo." },
+    { "nl": "Het is lekker, maar het is duur.", "it": "È buono, però è caro." },
+    { "nl": "Ik geloof het niet!", "it": "Non ci credo!" },
+    { "nl": "Als eerste neem ik de spaghetti.", "it": "Come primo prendo gli spaghetti." },
+    { "nl": "Als bijgerecht neem ik een gemengde salade.", "it": "Come contorno prendo un'insalata mista." },
+    { "nl": "In Italië is het straateten heerlijk.", "it": "In Italia il cibo di strada è buonissimo." }
+  ],
+  "invuloefeningen": [
+    { "zin": "Questo piatto ha un buon ___. (smaak)", "antwoord": "sapore" },
+    { "zin": "La zuppa è troppo ___. (zout)", "antwoord": "salata" },
+    { "zin": "Un ___ con due gusti, per favore. (hoorntje)", "antwoord": "cono" },
+    { "zin": "Con o senza ___? (slagroom)", "antwoord": "panna" },
+    { "zin": "Il ___, per favore. (rekening)", "antwoord": "conto" },
+    { "zin": "Vorrei ___ un primo. (bestellen)", "antwoord": "ordinare" },
+    { "zin": "Vuole ___? (proeven)", "antwoord": "assaggiare" },
+    { "zin": "Non ___ il pesce crudo. (verdragen)", "antwoord": "sopporto" },
+    { "zin": "È buono, ___ è caro. (maar)", "antwoord": "però" },
+    { "zin": "Non ci ___! (geloven)", "antwoord": "credo" },
+    { "zin": "Come ___ prendo gli spaghetti. (eerste gerecht)", "antwoord": "primo" },
+    { "zin": "Come ___ prendo il tiramisù. (nagerecht)", "antwoord": "dolce" },
+    { "zin": "Posso vedere il ___? (menukaart)", "antwoord": "menù" },
+    { "zin": "Mi piace il cibo ___. (pittig)", "antwoord": "piccante" },
+    { "zin": "Il caffè è ___. (bitter)", "antwoord": "amaro" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Wat zijn de voegwoorden 'però' en 'mentre' in tegenstelling?",
+      "opties": [
+        "Però = maar/echter, mentre = terwijl (tegenstelling)",
+        "Però = terwijl, mentre = maar",
+        "Però = dus, mentre = want",
+        "Però = ook, mentre = of"
+      ],
+      "antwoord": "Però = maar/echter, mentre = terwijl (tegenstelling)",
+      "uitleg": "Però = maar, echter (adversatief): 'È buono, però è caro.' Mentre = terwijl (tegenstelling): 'A me piace il dolce, mentre a lui piace il salato.' Però staat nooit aan het begin van de zin; ma wel."
+    },
+    {
+      "vraag": "Wat is 'ne' in 'Non ne mangerò mai!'?",
+      "opties": [
+        "Een partitief voornaamwoord: ervan (van dat eten)",
+        "Een ontkenning",
+        "Een voegwoord",
+        "Een bijwoord van tijd"
+      ],
+      "antwoord": "Een partitief voornaamwoord: ervan (van dat eten)",
+      "uitleg": "Ne verwijst terug naar iets dat al genoemd is: 'Il pesce crudo? Non ne mangerò mai!' (Rauwe vis? Daar zal ik nooit van eten!) Ne met passato prossimo: 'Ne ho mangiati due.' (Ik heb er twee van gegeten.)"
+    },
+    {
+      "vraag": "Wat is de constructie 'che + aggettivo/nome'?",
+      "opties": [
+        "Uitroep: Che buono! Che bello! Che peccato!",
+        "Vraag: Che buono? Che bello?",
+        "Vergelijking: Che buono come...",
+        "Ontkenning: Che non buono"
+      ],
+      "antwoord": "Uitroep: Che buono! Che bello! Che peccato!",
+      "uitleg": "Che + bijv.nw./zn. maakt een uitroep: 'Che buono!' (Wat lekker!) 'Che bello!' (Wat mooi!) 'Che peccato!' (Wat jammer!) 'Che caldo!' (Wat warm!) 'Che fame!' (Wat een honger!)"
+    },
+    {
+      "vraag": "Wat is 'il futuro epistemico'?",
+      "opties": [
+        "Het futuro om een vermoeden uit te drukken: 'Sarà buono.' (Het zal wel lekker zijn.)",
+        "Het futuro voor plannen",
+        "Het futuro voor beloftes",
+        "Het futuro in bijzinnen"
+      ],
+      "antwoord": "Het futuro om een vermoeden uit te drukken: 'Sarà buono.' (Het zal wel lekker zijn.)",
+      "uitleg": "Het futuro epistemico drukt een vermoeden of schatting uit over het heden: 'Quanti anni avrà? Avrà 30 anni.' (Hoe oud zou hij zijn? Hij zal wel 30 zijn.) 'Sarà vero?' (Zou het waar zijn?)"
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'ristorante', 'trattoria', 'osteria' en 'tavola calda'?",
+      "opties": [
+        "Van formeel naar informeel: ristorante > trattoria > osteria > tavola calda",
+        "Ze zijn allemaal hetzelfde",
+        "Ristorante = goedkoop, tavola calda = duur",
+        "Trattoria = alleen vis, osteria = alleen vlees"
+      ],
+      "antwoord": "Van formeel naar informeel: ristorante > trattoria > osteria > tavola calda",
+      "uitleg": "Ristorante = formeel restaurant. Trattoria = informeler, huiselijke keuken. Osteria = oorspronkelijk een wijn- en eetcafé, eenvoudig. Tavola calda = snackbar/cafetaria voor snelle maaltijden."
+    },
+    {
+      "vraag": "Wat is de volgorde van een Italiaanse maaltijd?",
+      "opties": [
+        "Antipasto → primo → secondo + contorno → dolce",
+        "Primo → antipasto → dolce → secondo",
+        "Contorno → primo → secondo → antipasto",
+        "Dolce → primo → secondo → contorno"
+      ],
+      "antwoord": "Antipasto → primo → secondo + contorno → dolce",
+      "uitleg": "Antipasto (voorgerecht), primo (eerste gang: pasta/risotto/soep), secondo (tweede gang: vlees/vis) + contorno (bijgerecht: groenten/salade), dolce (nagerecht). Daarna eventueel caffè en digestivo (likeur)."
+    },
+    {
+      "vraag": "Hoe zeg je 'Wat lekker!' in het Italiaans?",
+      "opties": ["Che buono!", "Come buono!", "Quanto buono!", "Molto buono!"],
+      "antwoord": "Che buono!",
+      "uitleg": "Che + bijvoeglijk naamwoord = Wat ...! 'Che buono!' (Wat lekker!) 'Che bello!' (Wat mooi!) 'Che brutto!' (Wat lelijk!) 'Che freddo!' (Wat koud!)"
+    },
+    {
+      "vraag": "Wat betekent 'Non sopporto il pesce crudo'?",
+      "opties": [
+        "Ik kan rauwe vis niet uitstaan",
+        "Ik hou niet van vis",
+        "Ik eet geen rauwe vis",
+        "Ik wil geen rauwe vis"
+      ],
+      "antwoord": "Ik kan rauwe vis niet uitstaan",
+      "uitleg": "Sopportare = verdragen, uitstaan. Non sopporto = ik kan niet uitstaan/verdragen. Sterker dan 'non mi piace' (ik hou niet van). 'Non sopporto il caldo!' (Ik kan de hitte niet uitstaan!)"
+    },
+    {
+      "vraag": "Wat is 'la particella ne con il passato prossimo'?",
+      "opties": [
+        "Met ne past het participio aan: 'Ne ho mangiate due.' (vrouwelijk mv.)",
+        "Ne verandert niet in de passato prossimo",
+        "Ne vervangt het hulpwerkwoord",
+        "Ne staat na het participio"
+      ],
+      "antwoord": "Met ne past het participio aan: 'Ne ho mangiate due.' (vrouwelijk mv.)",
+      "uitleg": "Wanneer ne partitief wordt gebruikt met passato prossimo, past het participio aan in geslacht en getal: 'Quante pizze? Ne ho mangiate due.' (vrouwelijk mv.) 'Quanti gelati? Ne ho mangiati tre.' (mannelijk mv.)"
+    },
+    {
+      "vraag": "Wat betekent 'Per me non ha senso'?",
+      "opties": [
+        "Voor mij heeft het geen zin / slaat het nergens op",
+        "Ik snap het niet",
+        "Ik vind het niet lekker",
+        "Het is niet voor mij"
+      ],
+      "antwoord": "Voor mij heeft het geen zin / slaat het nergens op",
+      "uitleg": "Per me non ha senso = voor mij heeft het geen zin, het slaat nergens op. Gebruikt om afkeuring of onbegrip uit te drukken: 'Per me non ha senso mettere il ketchup sulla pasta.'"
+    },
+    {
+      "vraag": "Hoe vraag je naar de menukaart?",
+      "opties": [
+        "Posso vedere il menù?",
+        "Mi dia il menù!",
+        "Dove il menù?",
+        "Ho bisogno di menù."
+      ],
+      "antwoord": "Posso vedere il menù?",
+      "uitleg": "Beleefd vragen: 'Posso vedere il menù?' (Mag ik de menukaart zien?) of 'Il menù, per favore.' In een trattoria wordt het menu soms mondeling verteld."
+    },
+    {
+      "vraag": "Wat zijn typische ijssmaken in Italië?",
+      "opties": [
+        "Stracciatella, nocciola, pistacchio, fragola, limone",
+        "Alleen vaniglia en cioccolato",
+        "Mango, passievrucht, lychee",
+        "Er zijn geen typische smaken"
+      ],
+      "antwoord": "Stracciatella, nocciola, pistacchio, fragola, limone",
+      "uitleg": "Populaire gusti (smaken): stracciatella (chocoladestukjes), nocciola (hazelnoot), pistacchio (pistache), fragola (aardbei), limone (citroen), cioccolato (chocolade), crema (vanilleroom), fior di latte (roomijs)."
+    },
+    {
+      "vraag": "Hoe bestel je ijs in Italië?",
+      "opties": [
+        "Un cono/una coppetta con due gusti, per favore.",
+        "Un gelato con sapori, per favore.",
+        "Voglio ice cream.",
+        "Mi dia freddo, per favore."
+      ],
+      "antwoord": "Un cono/una coppetta con due gusti, per favore.",
+      "uitleg": "Keuze: un cono (hoorntje) of una coppetta (bakje). Dan: 'Quanti gusti?' (Hoeveel smaken?) 'Due gusti: nocciola e pistacchio.' 'Con panna?' (Met slagroom?)"
+    },
+    {
+      "vraag": "Wat betekent 'Uffa!'?",
+      "opties": [
+        "Een uitroep van ergernis: Bah! / Pfff!",
+        "Een uitroep van blijdschap",
+        "Een begroeting",
+        "Een afscheidsgroet"
+      ],
+      "antwoord": "Een uitroep van ergernis: Bah! / Pfff!",
+      "uitleg": "Uffa! = uitroep van ergernis, verveling of ongeduld. 'Uffa, ancora pioggia!' (Pfff, alweer regen!) Andere uitroepen: 'Boh!' (weet ik niet), 'Mah!' (tja...), 'Dai!' (kom op!)."
+    },
+    {
+      "vraag": "Hoe gebruik je 'però' correct?",
+      "opties": [
+        "Na de eerste bewering: 'È buono, però è caro.'",
+        "Aan het begin: 'Però è buono, è caro.'",
+        "Als voegwoord vóór een vraag: 'Però è buono?'",
+        "Però kan overal staan"
+      ],
+      "antwoord": "Na de eerste bewering: 'È buono, però è caro.'",
+      "uitleg": "Però staat na de eerste bewering en introduceert een tegenstelling: 'È buono, però è caro.' (Het is lekker, maar het is duur.) Però begint zelden een zin; gebruik dan ma."
+    },
+    {
+      "vraag": "Hoe beschrijf je smaken in het Italiaans?",
+      "opties": [
+        "Dolce (zoet), amaro (bitter), salato (zout), piccante (pittig), saporito (smakelijk)",
+        "Alleen buono en cattivo",
+        "Grande, piccolo, medio",
+        "Caldo en freddo"
+      ],
+      "antwoord": "Dolce (zoet), amaro (bitter), salato (zout), piccante (pittig), saporito (smakelijk)",
+      "uitleg": "Smaakadjektieven: dolce (zoet), amaro (bitter), salato (zout/gezouten), piccante (pikant/pittig), saporito (smakelijk/goed gekruid), acido (zuur), insipido (flauw/smakeloos)."
+    },
+    {
+      "vraag": "Wat is 'mentre' als tegenstellingsvoegwoord?",
+      "opties": [
+        "Terwijl (contrast): 'Io preferisco il dolce, mentre lui preferisce il salato.'",
+        "Terwijl (gelijktijdigheid): 'Mangio mentre guardo la TV.'",
+        "Beide betekenissen zijn correct",
+        "Mentre betekent alleen 'ondertussen'"
+      ],
+      "antwoord": "Beide betekenissen zijn correct",
+      "uitleg": "Mentre heeft twee functies: 1) gelijktijdigheid: 'Mangio mentre guardo la TV.' 2) tegenstelling (adversatief): 'Io amo il caffè, mentre lei preferisce il tè.' In dit hoofdstuk: de tegenstellende functie."
+    },
+    {
+      "vraag": "Hoe zeg je de rekening vragen?",
+      "opties": [
+        "Il conto, per favore.",
+        "Il menu, per favore.",
+        "La ricevuta, per favore.",
+        "Lo scontrino, per favore."
+      ],
+      "antwoord": "Il conto, per favore.",
+      "uitleg": "Il conto = de rekening. 'Il conto, per favore.' of 'Possiamo avere il conto?' La ricevuta/lo scontrino = het bonnetje/de kassabon (ontvang je na betaling)."
+    },
+    {
+      "vraag": "Wat is 'il contorno'?",
+      "opties": [
+        "Het bijgerecht (groenten/salade bij het secondo)",
+        "Het voorgerecht",
+        "Het nagerecht",
+        "De drank"
+      ],
+      "antwoord": "Het bijgerecht (groenten/salade bij het secondo)",
+      "uitleg": "Il contorno = bijgerecht bij het secondo: insalata mista (gemengde salade), verdure grigliate (gegrilde groenten), patate arrosto (geroosterde aardappelen), spinaci (spinazie)."
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'buono' en 'saporito'?",
+      "opties": [
+        "Buono = lekker (algemeen), saporito = smakelijk/goed gekruid",
+        "Er is geen verschil",
+        "Buono = zoet, saporito = zout",
+        "Buono = koud, saporito = warm"
+      ],
+      "antwoord": "Buono = lekker (algemeen), saporito = smakelijk/goed gekruid",
+      "uitleg": "Buono is het algemene woord voor 'lekker/goed'. Saporito betekent specifiek 'smakelijk' of 'goed gekruid' — het heeft veel smaak (sapore). Het tegenovergestelde: insipido (flauw, smakeloos)."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Congiunzioni: però e mentre (avversativo)",
+      "uitleg": "Però = maar, echter (tegenstelling): 'È buono, però è caro.' Però staat nooit aan het begin van de zin; gebruik dan ma. Mentre (avversativo) = terwijl (contrast): 'Io preferisco la carne, mentre lei preferisce il pesce.' Let op: mentre kan ook gelijktijdigheid uitdrukken (Mangio mentre guardo la TV)."
+    },
+    {
+      "titel": "La particella ne con il passato prossimo",
+      "uitleg": "Wanneer ne partitief wordt gebruikt met de passato prossimo, past het participio passato aan in geslacht en getal: 'Quante pizze hai mangiato? Ne ho mangiate due.' (vr. mv.) 'Quanti caffè hai bevuto? Ne ho bevuti tre.' (m. mv.) Ne staat vóór het hulpwerkwoord."
+    },
+    {
+      "titel": "La costruzione che + aggettivo / nome (uitroepen)",
+      "uitleg": "Che + bijvoeglijk naamwoord of zelfstandig naamwoord maakt een uitroep: 'Che buono!' (Wat lekker!) 'Che bello!' (Wat mooi!) 'Che peccato!' (Wat jammer!) 'Che fame!' (Wat een honger!) 'Che caldo!' (Wat warm!) Vergelijk met Come + bijv.nw.: 'Come sei gentile!' (Wat ben je aardig!)"
+    },
+    {
+      "titel": "Il futuro epistemico",
+      "uitleg": "Het futuro semplice kan een vermoeden of schatting uitdrukken over het heden (niet de toekomst): 'Quanti anni avrà? Avrà 30 anni.' (Hoe oud zou hij zijn? Hij zal wel 30 zijn.) 'Sarà vero?' (Zou het waar zijn?) 'Costerà molto.' (Het zal wel veel kosten.) Dit heet il futuro epistemico."
+    },
+    {
+      "titel": "Aggettivi per descrivere sapori",
+      "uitleg": "Smaakadjektieven: dolce (zoet), amaro (bitter), salato (zout/gezouten), piccante (pikant/pittig), saporito (smakelijk), acido (zuur), insipido (flauw). Samengesteld: agrodolce (zoetzuur). Uitdrukkingen: 'Ha un buon sapore.' (Het smaakt goed.) 'Non ha sapore.' (Het heeft geen smaak.)"
+    },
+    {
+      "titel": "I luoghi della ristorazione italiana",
+      "uitleg": "Ristorante = formeel restaurant met uitgebreid menu. Trattoria = informeler, huiselijke keuken, vaak familiezaak. Osteria = oorspronkelijk wijn- en eetcafé, eenvoudige gerechten. Tavola calda = snackbar/cafetaria voor snelle warme maaltijden. Pizzeria = gespecialiseerd in pizza. Bar = voor koffie, drankjes en kleine hapjes."
+    },
+    {
+      "titel": "Ordinare al ristorante",
+      "uitleg": "Nuttige zinnen: 'Posso vedere il menù?' (menukaart). 'Vorrei ordinare...' (bestellen). 'Come primo/secondo/contorno/dolce prendo...' 'Il conto, per favore.' (rekening). 'Posso pagare con la carta?' (met kaart betalen). Structuur Italiaanse maaltijd: antipasto → primo → secondo + contorno → dolce → caffè."
+    },
+    {
+      "titel": "Gusti di gelato e ordinare un gelato",
+      "uitleg": "Bestellen: 'Un cono/Una coppetta con due gusti.' (hoorntje/bakje met twee smaken). 'Con o senza panna?' (met of zonder slagroom?). Populaire smaken: stracciatella, nocciola (hazelnoot), pistacchio, fragola (aardbei), limone (citroen), cioccolato, crema (vanilleroom), fior di latte (roomijs)."
+    },
+    {
+      "titel": "Esprimere gusti e preferenze alimentari",
+      "uitleg": "Voorkeuren: 'Mi piace...' / 'Non mi piace...' / 'Preferisco...' / 'Adoro...' Afkeer: 'Non sopporto...' (ik kan niet uitstaan) / 'Non mi va...' (ik heb geen zin in). Sterke meningen: 'Per me non ha senso.' (Voor mij slaat het nergens op.) Uitroepen: 'Che buono!' 'Uffa!' 'Non ci credo!'"
+    },
+    {
+      "titel": "Regole alimentari italiane",
+      "uitleg": "Italiaanse voedingsregels en -gewoontes: cappuccino alleen 's ochtends (nooit na het eten), geen kaas op visgerechten, pasta is een primo (niet een bijgerecht), brood zonder boter bij de maaltijd, geen ketchup op pasta. Italianen hechten veel waarde aan de kwaliteit en herkomst van ingrediënten."
+    }
+  ]
+}

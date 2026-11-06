@@ -1,0 +1,309 @@
+{
+  "id": 9,
+  "titel": "Hoofdstuk 9 – L'Italia cambia",
+  "woorden": [
+    { "it": "il matrimonio", "nl": "het huwelijk", "voorbeeld": "Il matrimonio è sabato prossimo.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il coniuge", "nl": "de echtgenoot/echtgenote", "voorbeeld": "Il mio coniuge lavora in banca.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la matrigna", "nl": "de stiefmoeder", "voorbeeld": "La mia matrigna è molto gentile.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il patrigno", "nl": "de stiefvader", "voorbeeld": "Il patrigno di Marco è simpatico.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il fratellastro", "nl": "de stiefbroer", "voorbeeld": "Ho un fratellastro più piccolo.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la sorellastra", "nl": "de stiefzus", "voorbeeld": "La mia sorellastra vive a Roma.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la famiglia allargata", "nl": "het samengesteld gezin", "voorbeeld": "Oggi molte famiglie sono allargate.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la famiglia tradizionale", "nl": "het traditioneel gezin", "voorbeeld": "La famiglia tradizionale italiana sta cambiando.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "le faccende domestiche", "nl": "het huishoudelijk werk", "voorbeeld": "Chi fa le faccende domestiche a casa tua?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il bucato", "nl": "de was", "voorbeeld": "Devo fare il bucato.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "stirare", "nl": "strijken", "voorbeeld": "Non mi piace stirare.", "woordsoort": "werkwoord" },
+    { "it": "passare l'aspirapolvere", "nl": "stofzuigen", "voorbeeld": "Passo l'aspirapolvere ogni settimana.", "woordsoort": "uitdrukking" },
+    { "it": "fare il letto", "nl": "het bed opmaken", "voorbeeld": "Faccio il letto ogni mattina.", "woordsoort": "uitdrukking" },
+    { "it": "sparecchiare", "nl": "de tafel afruimen", "voorbeeld": "Chi sparecchia stasera?", "woordsoort": "werkwoord" },
+    { "it": "la parità", "nl": "de gelijkheid", "voorbeeld": "La parità tra uomini e donne.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "occuparsi di", "nl": "zich bezighouden met", "voorbeeld": "Mi occupo della cucina.", "woordsoort": "werkwoord" },
+    { "it": "lo stereotipo", "nl": "het stereotype", "voorbeeld": "Questo è uno stereotipo.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "tipicamente", "nl": "typisch", "voorbeeld": "Questo è tipicamente italiano.", "woordsoort": "bijwoord" },
+    { "it": "stare per + infinito", "nl": "op het punt staan om", "voorbeeld": "Sto per uscire.", "woordsoort": "uitdrukking" },
+    { "it": "sapere e conoscere", "nl": "weten en kennen", "voorbeeld": "Sai dov'è Marco? Conosci Maria?", "woordsoort": "werkwoord" },
+    { "it": "alcuni / alcune", "nl": "enkele, sommige", "voorbeeld": "Alcuni italiani preferiscono il Nord.", "woordsoort": "onbepaald voornaamwoord" },
+    { "it": "qualche", "nl": "een paar, enkele (+ enk.)", "voorbeeld": "Ho qualche domanda.", "woordsoort": "onbepaald bijvoeglijk naamwoord" },
+    { "it": "il parere", "nl": "de mening", "voorbeeld": "Qual è il tuo parere?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "presentarsi", "nl": "zich voorstellen", "voorbeeld": "Mi presento: sono Marco.", "woordsoort": "werkwoord" },
+    { "it": "Possiamo darci del tu?", "nl": "Kunnen we tutoyeren?", "voorbeeld": "Possiamo darci del tu? — Certo!", "woordsoort": "uitdrukking" },
+    { "it": "Ti dispiace se ci diamo del tu?", "nl": "Vind je het erg als we tutoyeren?", "voorbeeld": "Ti dispiace se ci diamo del tu?", "woordsoort": "uitdrukking" },
+    { "it": "imminente", "nl": "ophanden, aanstaand", "voorbeeld": "Il matrimonio è imminente.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "la conoscenza", "nl": "de kennis, de bekendheid", "voorbeeld": "Esprimere conoscenza o ignoranza.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'ignoranza", "nl": "de onwetendheid", "voorbeeld": "Esprimere ignoranza: non lo so.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la disparità", "nl": "de ongelijkheid", "voorbeeld": "C'è ancora disparità tra i sessi.", "woordsoort": "zelfstandig naamwoord" }
+  ],
+  "zinnen": [
+    { "nl": "Het huwelijk is volgende zaterdag.", "it": "Il matrimonio è sabato prossimo." },
+    { "nl": "Ik sta op het punt om te vertrekken.", "it": "Sto per uscire." },
+    { "nl": "Weet je waar Marco is?", "it": "Sai dov'è Marco?" },
+    { "nl": "Ken je Maria?", "it": "Conosci Maria?" },
+    { "nl": "Wie doet het huishoudelijk werk bij jullie thuis?", "it": "Chi fa le faccende domestiche a casa vostra?" },
+    { "nl": "Ik moet de was doen.", "it": "Devo fare il bucato." },
+    { "nl": "Ik maak elke ochtend het bed op.", "it": "Faccio il letto ogni mattina." },
+    { "nl": "Kunnen we tutoyeren?", "it": "Possiamo darci del tu?" },
+    { "nl": "Sommige Italianen wonen nog bij hun ouders.", "it": "Alcuni italiani vivono ancora con i genitori." },
+    { "nl": "Ik heb een paar vragen.", "it": "Ho qualche domanda." },
+    { "nl": "Dit is typisch Italiaans.", "it": "Questo è tipicamente italiano." },
+    { "nl": "Dat is een stereotype.", "it": "Questo è uno stereotipo." },
+    { "nl": "Er is nog ongelijkheid tussen mannen en vrouwen.", "it": "C'è ancora disparità tra uomini e donne." },
+    { "nl": "Ik stel me voor: ik ben Marco.", "it": "Mi presento: sono Marco." },
+    { "nl": "Mijn stiefmoeder is heel aardig.", "it": "La mia matrigna è molto gentile." }
+  ],
+  "invuloefeningen": [
+    { "zin": "Il ___ è sabato prossimo. (huwelijk)", "antwoord": "matrimonio" },
+    { "zin": "___ per uscire. (ik sta op het punt)", "antwoord": "Sto" },
+    { "zin": "___ dov'è Marco? (weten)", "antwoord": "Sai" },
+    { "zin": "___ Maria? (kennen)", "antwoord": "Conosci" },
+    { "zin": "Devo fare il ___. (de was)", "antwoord": "bucato" },
+    { "zin": "Faccio il ___ ogni mattina. (bed)", "antwoord": "letto" },
+    { "zin": "___ italiani vivono con i genitori. (sommige)", "antwoord": "Alcuni" },
+    { "zin": "Ho ___ domanda. (een paar, + enk.)", "antwoord": "qualche" },
+    { "zin": "Questo è ___ italiano. (typisch)", "antwoord": "tipicamente" },
+    { "zin": "Questo è uno ___. (stereotype)", "antwoord": "stereotipo" },
+    { "zin": "Possiamo ___ del tu? (tutoyeren)", "antwoord": "darci" },
+    { "zin": "Chi fa le ___ domestiche? (karweitjes)", "antwoord": "faccende" },
+    { "zin": "Mi ___ della cucina. (bezighouden)", "antwoord": "occupo" },
+    { "zin": "La mia ___ è molto gentile. (stiefmoeder)", "antwoord": "matrigna" },
+    { "zin": "C'è ancora ___ tra i sessi. (ongelijkheid)", "antwoord": "disparità" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Wat betekent 'stare per + infinito'?",
+      "opties": [
+        "Op het punt staan om iets te doen",
+        "Bezig zijn met iets doen",
+        "Net klaar zijn met iets",
+        "Van plan zijn iets te doen"
+      ],
+      "antwoord": "Op het punt staan om iets te doen",
+      "uitleg": "Stare per + infinito = op het punt staan om: 'Sto per uscire.' (Ik ga zo weg.) 'Il treno sta per partire.' (De trein vertrekt zo.) Vergelijk met stare + gerundio (bezig zijn met)."
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'sapere' en 'conoscere'?",
+      "opties": [
+        "Sapere = weten/kunnen, conoscere = kennen (personen/plaatsen)",
+        "Sapere = kennen, conoscere = weten",
+        "Er is geen verschil",
+        "Sapere is formeel, conoscere is informeel"
+      ],
+      "antwoord": "Sapere = weten/kunnen, conoscere = kennen (personen/plaatsen)",
+      "uitleg": "Sapere = weten (feiten) of kunnen (vaardigheden): 'Sai nuotare?' Conoscere = kennen (personen, plaatsen): 'Conosci Roma?' In de passato prossimo: 'Ho saputo che...' (ik heb vernomen dat), 'Ho conosciuto Maria.' (ik heb Maria leren kennen)."
+    },
+    {
+      "vraag": "Hoe vorm je bijwoorden op -mente?",
+      "opties": [
+        "Vrouwelijke vorm van het bijv.nw. + -mente: lenta → lentamente",
+        "Mannelijke vorm + -mente: lento → lentomente",
+        "Stam + -mente: lent → lentmente",
+        "Infinitief + -mente"
+      ],
+      "antwoord": "Vrouwelijke vorm van het bijv.nw. + -mente: lenta → lentamente",
+      "uitleg": "Bijwoorden op -mente: neem de vrouwelijke vorm en voeg -mente toe. Lento → lenta → lentamente. Veloce → veloce → velocemente (al eindigend op -e: geen aanpassing). Facile → facilmente (bij -le en -re valt de -e weg)."
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'alcuni' en 'qualche'?",
+      "opties": [
+        "Alcuni + meervoud, qualche + enkelvoud (zelfde betekenis: enkele/sommige)",
+        "Alcuni = veel, qualche = weinig",
+        "Alcuni = mannen, qualche = vrouwen",
+        "Er is geen verschil"
+      ],
+      "antwoord": "Alcuni + meervoud, qualche + enkelvoud (zelfde betekenis: enkele/sommige)",
+      "uitleg": "Alcuni/alcune + meervoud: 'Alcuni studenti.' Qualche + enkelvoud (maar meervoudige betekenis): 'Qualche studente.' Beide betekenen 'enkele/sommige'. 'Ho qualche domanda.' = 'Ho alcune domande.'"
+    },
+    {
+      "vraag": "Wat is 'la forma impersonale con si'?",
+      "opties": [
+        "Si + 3e persoon: 'In Italia si mangia bene' (men eet goed)",
+        "Si als wederkerend voornaamwoord",
+        "Si als voorwaardelijk voegwoord",
+        "Si als bevestiging (ja)"
+      ],
+      "antwoord": "Si + 3e persoon: 'In Italia si mangia bene' (men eet goed)",
+      "uitleg": "Het onpersoonlijke si = men/je. Si + 3e persoon enkelvoud: 'In Italia si mangia bene.' (In Italië eet men goed.) Met een meervoudig object: si + 3e pers. mv.: 'Si mangiano molti dolci.' (Men eet veel zoetigheden.)"
+    },
+    {
+      "vraag": "Wat is de passato prossimo van 'sapere' in de zin 'Ho saputo che Marco parte'?",
+      "opties": [
+        "Ik heb vernomen/gehoord dat Marco vertrekt",
+        "Ik wist dat Marco vertrekt",
+        "Ik ken Marco die vertrekt",
+        "Ik kan Marco vertrekken"
+      ],
+      "antwoord": "Ik heb vernomen/gehoord dat Marco vertrekt",
+      "uitleg": "Sapere in de passato prossimo = vernemen, te weten komen: 'Ho saputo che...' (Ik heb gehoord dat...) Conoscere in de passato prossimo = leren kennen: 'Ho conosciuto Maria ieri.' (Ik heb Maria gisteren leren kennen.)"
+    },
+    {
+      "vraag": "Wat betekent 'le faccende domestiche'?",
+      "opties": ["Het huishoudelijk werk", "De huisgenoten", "De huisdieren", "De huisregels"],
+      "antwoord": "Het huishoudelijk werk",
+      "uitleg": "Le faccende domestiche = huishoudelijke taken: fare il bucato (de was doen), stirare (strijken), fare il letto (het bed opmaken), sparecchiare (de tafel afruimen), passare l'aspirapolvere (stofzuigen)."
+    },
+    {
+      "vraag": "Hoe gebruik je het onpersoonlijke 'si' met een bijvoeglijk naamwoord?",
+      "opties": [
+        "Si + è + bijv.nw. meervoud: 'Quando si è stanchi...'",
+        "Si + è + bijv.nw. enkelvoud: 'Quando si è stanco...'",
+        "Si + sono + bijv.nw.: 'Quando si sono stanchi...'",
+        "Si + sta + bijv.nw.: 'Quando si sta stanchi...'"
+      ],
+      "antwoord": "Si + è + bijv.nw. meervoud: 'Quando si è stanchi...'",
+      "uitleg": "Bij het onpersoonlijke si gevolgd door een bijvoeglijk naamwoord staat het bijv.nw. in het meervoud: 'Quando si è stanchi, si dorme.' (Als men moe is, slaapt men.) Ondanks het enkelvoudige werkwoord."
+    },
+    {
+      "vraag": "Wat is 'la matrigna'?",
+      "opties": ["De stiefmoeder", "De schoonmoeder", "De tante", "De grootmoeder"],
+      "antwoord": "De stiefmoeder",
+      "uitleg": "La matrigna = stiefmoeder. Il patrigno = stiefvader. Il fratellastro = stiefbroer. La sorellastra = stiefzus. La famiglia allargata = samengesteld/uitgebreid gezin."
+    },
+    {
+      "vraag": "Hoe vraag je beleefd of je mag tutoyeren?",
+      "opties": [
+        "Possiamo darci del tu? / Ti dispiace se ci diamo del tu?",
+        "Mi dai del tu!",
+        "Tu o Lei?",
+        "Dammi del tu!"
+      ],
+      "antwoord": "Possiamo darci del tu? / Ti dispiace se ci diamo del tu?",
+      "uitleg": "Beleefd vragen: 'Possiamo darci del tu?' (Kunnen we tutoyeren?) of 'Ti dispiace se ci diamo del tu?' (Vind je het erg als we tutoyeren?) In informele situaties: 'Diamoci del tu!' (Laten we tutoyeren!)"
+    },
+    {
+      "vraag": "Welke zin gebruikt het onpersoonlijke 'si' correct?",
+      "opties": [
+        "In Italia si beve molto caffè.",
+        "In Italia si bevono molto caffè.",
+        "In Italia si bevo molto caffè.",
+        "In Italia si bevete molto caffè."
+      ],
+      "antwoord": "In Italia si beve molto caffè.",
+      "uitleg": "Si + 3e persoon enkelvoud wanneer het object enkelvoud of niet telbaar is: 'Si beve molto caffè.' Met meervoudig object: 'Si bevono molti caffè.' (Men drinkt veel koffietjes.)"
+    },
+    {
+      "vraag": "Wat is 'collocazione con fare' bij huishoudelijk werk?",
+      "opties": [
+        "Fare + zn.: fare il bucato, fare il letto, fare la spesa",
+        "Avere + zn.: avere il bucato, avere il letto",
+        "Dare + zn.: dare il bucato, dare il letto",
+        "Mettere + zn.: mettere il bucato"
+      ],
+      "antwoord": "Fare + zn.: fare il bucato, fare il letto, fare la spesa",
+      "uitleg": "Veel huishoudelijke taken gebruiken fare: fare il bucato (de was doen), fare il letto (het bed opmaken), fare la spesa (boodschappen doen), fare le pulizie (schoonmaken), fare la doccia (douchen)."
+    },
+    {
+      "vraag": "Wat betekent 'Sto per partire'?",
+      "opties": [
+        "Ik sta op het punt te vertrekken",
+        "Ik ben aan het vertrekken",
+        "Ik ben net vertrokken",
+        "Ik wil vertrekken"
+      ],
+      "antwoord": "Ik sta op het punt te vertrekken",
+      "uitleg": "Stare per + infinito = op het punt staan om. Het drukt iets uit dat heel binnenkort gaat gebeuren. 'Il film sta per cominciare.' (De film gaat zo beginnen.)"
+    },
+    {
+      "vraag": "Hoe maak je het bijwoord van 'veloce'?",
+      "opties": ["velocemente", "veloce-mente", "veloca-mente", "veloce"],
+      "antwoord": "velocemente",
+      "uitleg": "Bijvoeglijke naamwoorden die eindigen op -e houden dezelfde vorm + -mente: veloce → velocemente, gentile → gentilmente. Bij -le en -re valt de laatste -e weg: facile → facilmente, regolare → regolarmente."
+    },
+    {
+      "vraag": "Wat is 'sparecchiare'?",
+      "opties": ["De tafel afruimen", "De tafel dekken", "Koken", "Afwassen"],
+      "antwoord": "De tafel afruimen",
+      "uitleg": "Sparecchiare = de tafel afruimen. Het tegenovergestelde: apparecchiare = de tafel dekken. 'Chi sparecchia stasera?' (Wie ruimt vanavond de tafel af?)"
+    },
+    {
+      "vraag": "Hoe gebruik je 'qualche' correct?",
+      "opties": [
+        "Qualche + enkelvoud zn.: 'Ho qualche amico a Roma.'",
+        "Qualche + meervoud zn.: 'Ho qualche amici a Roma.'",
+        "Qualche zonder zn.: 'Ho qualche.'",
+        "Qualche + werkwoord: 'Qualche vado.'"
+      ],
+      "antwoord": "Qualche + enkelvoud zn.: 'Ho qualche amico a Roma.'",
+      "uitleg": "Qualche wordt altijd gevolgd door een enkelvoud zelfstandig naamwoord, ook al is de betekenis meervoudig. 'Ho qualche amico.' (Ik heb enkele vrienden.) = 'Ho alcuni amici.'"
+    },
+    {
+      "vraag": "Wat is de onpersoonlijke constructie met 'si' + passato prossimo?",
+      "opties": [
+        "Si è + participio (meervoud): 'Si è mangiato bene.' / 'Si è andati al cinema.'",
+        "Si ha + participio: 'Si ha mangiato bene.'",
+        "Si + participio: 'Si mangiato bene.'",
+        "Si sono + participio: 'Si sono mangiato bene.'"
+      ],
+      "antwoord": "Si è + participio (meervoud): 'Si è mangiato bene.' / 'Si è andati al cinema.'",
+      "uitleg": "Onpersoonlijk si in de passato prossimo gebruikt altijd essere: 'Si è mangiato bene.' Met intransitieve werkwoorden past het participio aan in het meervoud: 'Si è andati al cinema.' (Men is naar de bioscoop gegaan.)"
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'sapere' en 'conoscere' in het presente?",
+      "opties": [
+        "Sapere: so, sai, sa, sappiamo, sapete, sanno / Conoscere: regelmatig (conosco...)",
+        "Beide zijn regelmatig",
+        "Beide zijn onregelmatig op dezelfde manier",
+        "Sapere is regelmatig, conoscere is onregelmatig"
+      ],
+      "antwoord": "Sapere: so, sai, sa, sappiamo, sapete, sanno / Conoscere: regelmatig (conosco...)",
+      "uitleg": "Sapere is onregelmatig: so, sai, sa, sappiamo, sapete, sanno. Conoscere is regelmatig (met -sc- in io/loro): conosco, conosci, conosce, conosciamo, conoscete, conoscono."
+    },
+    {
+      "vraag": "Wat is 'la famiglia allargata'?",
+      "opties": [
+        "Het samengesteld/uitgebreid gezin (met stiefouders, stiefkinderen)",
+        "De grote familie (veel kinderen)",
+        "De schoonfamilie",
+        "De verre familie"
+      ],
+      "antwoord": "Het samengesteld/uitgebreid gezin (met stiefouders, stiefkinderen)",
+      "uitleg": "La famiglia allargata = samengesteld gezin met stiefouders, stiefkinderen etc. Tegenover la famiglia tradizionale (het traditionele gezin met vader, moeder, kinderen)."
+    },
+    {
+      "vraag": "Hoe maak je het bijwoord van 'facile'?",
+      "opties": ["facilmente", "facilemente", "facile-mente", "facilomente"],
+      "antwoord": "facilmente",
+      "uitleg": "Bij bijvoeglijke naamwoorden op -le of -re valt de laatste -e weg vóór -mente: facile → facilmente, regolare → regolarmente, gentile → gentilmente. Maar: veloce → velocemente (de -e blijft bij -ce)."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Sapere e conoscere al passato prossimo",
+      "uitleg": "In het presente: sapere = weten/kunnen, conoscere = kennen. In de passato prossimo verandert de betekenis: 'Ho saputo che...' (ik heb vernomen dat...), 'Ho conosciuto Maria ieri.' (ik heb Maria gisteren leren kennen). Sapere + infinito = kunnen: 'So nuotare.' (Ik kan zwemmen.)"
+    },
+    {
+      "titel": "La costruzione stare per + infinito",
+      "uitleg": "Stare per + infinito = op het punt staan om, gaan zo. 'Sto per uscire.' (Ik ga zo weg.) 'Il treno sta per partire.' (De trein vertrekt zo.) Het drukt een onmiddellijke toekomst uit. Vergelijk: stare + gerundio = bezig zijn (Sto mangiando), stare per = gaan zo (Sto per mangiare)."
+    },
+    {
+      "titel": "Gli avverbi in -mente",
+      "uitleg": "Bijwoorden op -mente worden gevormd van de vrouwelijke vorm: lento → lenta → lentamente. Bij -e-uitgang: veloce → velocemente. Bij -le/-re valt de -e weg: facile → facilmente, regolare → regolarmente. Onregelmatig: buono → bene, cattivo → male. Positie: meestal na het werkwoord."
+    },
+    {
+      "titel": "La forma impersonale con si",
+      "uitleg": "Si + 3e persoon = men/je (onpersoonlijk). Enkelvoud object: 'Si mangia bene in Italia.' Meervoud object: 'Si mangiano molti dolci.' Met bijv.nw.: altijd meervoud: 'Quando si è stanchi...' Passato prossimo: altijd met essere: 'Si è mangiato bene.' / 'Si è andati al cinema.' (mv. participio bij intransitieven)."
+    },
+    {
+      "titel": "Indefiniti: alcuni e qualche",
+      "uitleg": "Alcuni/alcune + meervoud = enkele, sommige: 'Alcuni studenti sono assenti.' Qualche + enkelvoud (meervoudige betekenis) = enkele: 'Qualche studente è assente.' Beide zinnen betekenen hetzelfde. Qualche is altijd onveranderlijk en wordt altijd met een enkelvoud zn. gebruikt."
+    },
+    {
+      "titel": "La famiglia moderna in Italia",
+      "uitleg": "Woordenschat: il coniuge (echtgenoot/e), la matrigna (stiefmoeder), il patrigno (stiefvader), il fratellastro (stiefbroer), la sorellastra (stiefzus), la famiglia allargata (samengesteld gezin), la famiglia tradizionale (traditioneel gezin), il/la single, la coppia di fatto (ongehuwd samenwonend stel)."
+    },
+    {
+      "titel": "Le faccende domestiche e collocazioni con fare",
+      "uitleg": "Huishoudelijke taken met fare: fare il bucato (de was doen), fare il letto (het bed opmaken), fare la spesa (boodschappen doen), fare le pulizie (schoonmaken). Andere werkwoorden: stirare (strijken), sparecchiare (de tafel afruimen), apparecchiare (de tafel dekken), passare l'aspirapolvere (stofzuigen)."
+    },
+    {
+      "titel": "La parità tra i sessi",
+      "uitleg": "Woordenschat rond gelijkheid: la parità (gelijkheid), la disparità (ongelijkheid), la parità tra i sessi (gelijkheid tussen de seksen), occuparsi di (zich bezighouden met), dividersi i compiti (de taken verdelen). 'Chi si occupa delle faccende domestiche?' (Wie doet het huishoudelijke werk?)"
+    },
+    {
+      "titel": "Darci del tu / del Lei (tutoyeren/vousvoyeren)",
+      "uitleg": "In het Italiaans is het normaal om over te schakelen van Lei (formeel) naar tu (informeel). Vragen: 'Possiamo darci del tu?' (Kunnen we tutoyeren?) 'Ti dispiace se ci diamo del tu?' (Vind je het erg als we tutoyeren?) 'Diamoci del tu!' (Laten we tutoyeren!) Op het werk, in informele omgevingen, wordt tu steeds meer gebruikt."
+    },
+    {
+      "titel": "Stereotipi italiani",
+      "uitleg": "Nuttige uitdrukkingen om meningen te geven over stereotypen: 'Secondo me...' (Volgens mij...) 'È vero che...' (Het is waar dat...) 'Non è vero che...' (Het is niet waar dat...) 'È uno stereotipo.' (Het is een stereotype.) 'Dipende.' (Het hangt ervan af.) Bijwoord: tipicamente (typisch)."
+    }
+  ]
+}

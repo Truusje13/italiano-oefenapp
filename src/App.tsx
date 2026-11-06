@@ -87,6 +87,7 @@ export default function App() {
 
       {!gekozenLes ? (
         <section className="leerpad">
+          <h2 className="leerpad-naam">Dieci</h2>
           {lessen.length === 0 && <p>Nog geen lessen gevonden.</p>}
           {lessen.map((l, i) => (
             <Fragment key={l.id}>

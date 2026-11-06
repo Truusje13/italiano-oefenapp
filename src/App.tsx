@@ -23,8 +23,8 @@ const lessenBestanden = import.meta.glob("./data/**/*.json", {
 });
 
 const LEERPADEN_CONFIG: { id: string; naam: string; map: string }[] = [
-  { id: "dieci", naam: "Dieci", map: "dieci" },
   { id: "allegro-1", naam: "Allegro 1", map: "allegro-1" },
+  { id: "dieci", naam: "Dieci", map: "dieci" },
 ];
 
 function laadLeerpaden(): { leerpaden: Leerpad[]; fouten: string[] } {

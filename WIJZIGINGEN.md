@@ -303,3 +303,23 @@ git checkout <commit-hash> -- .
   - **"Moeilijk"/"Goed"/"Makkelijk"** verwijdert de kaart definitief uit de rij (teller daalt)
 
 **Resultaat:** Alle knoppen gaan nu altijd door naar een ander woord. Fout-kaarten komen later in dezelfde oefensessie terug voor herhaling.
+
+---
+
+## Stap 21 – Meerdere leerpaden: Allegro 1 toegevoegd (2026-11-06)
+
+**Wat:** De app ondersteunt nu meerdere leerpaden. Lesbestanden zijn verplaatst naar submappen en een nieuw startscherm toont de beschikbare leerpaden.
+
+**Gewijzigde bestanden:**
+- `src/data/les-*.json` → verplaatst naar `src/data/dieci/les-*.json`
+- `src/data/allegro-1/` – Nieuwe map aangemaakt (nog zonder lessen)
+- `src/App.tsx` – Volledig herstructureerd:
+  - `LEERPADEN_CONFIG` array definieert de beschikbare leerpaden
+  - `laadLeerpaden()` vervangt `laadLessen()`, groepeert lessen per submap
+  - Glob-import aangepast van `./data/*.json` naar `./data/**/*.json`
+  - Nieuw startscherm met klikbare leerpad-kaarten
+  - Drielaagse navigatie: Leerpaden → Leerpad → Les
+  - Terugknop toont naam van het actieve leerpad
+- `src/styles.css` – Styling voor `.leerpaden-overzicht` en `.leerpad-kaart` (hover-effect, schaduw, oranje rand bij hover)
+
+**Resultaat:** Het startscherm toont twee leerpaden als klikbare kaarten: "Allegro 1" (bovenaan, nog zonder lessen) en "Dieci" (10 lessen). Nieuwe leerpaden toevoegen is nu een kwestie van een map aanmaken en een regel toevoegen aan `LEERPADEN_CONFIG`.

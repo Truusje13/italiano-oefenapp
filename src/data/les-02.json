@@ -1,0 +1,254 @@
+{
+  "id": 2,
+  "titel": "Hoofdstuk 2 – Come eravamo",
+  "woorden": [
+    { "it": "l'infanzia", "nl": "de kindertijd", "voorbeeld": "Ho avuto un'infanzia felice.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il bambino", "nl": "het kind", "voorbeeld": "Da bambino giocavo sempre.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il ragazzo", "nl": "de jongen, de tiener", "voorbeeld": "Da ragazzo facevo sport.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il giovane", "nl": "de jongere", "voorbeeld": "Da giovane viaggiavo molto.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'anziano", "nl": "de bejaarde", "voorbeeld": "Gli anziani raccontano storie.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la vita", "nl": "het leven", "voorbeeld": "Ha avuto una vita avventurosa.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la biografia", "nl": "de biografie", "voorbeeld": "Ho letto la sua biografia.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'aspetto", "nl": "het uiterlijk", "voorbeeld": "Ha un bell'aspetto.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la personalità", "nl": "de persoonlijkheid", "voorbeeld": "Ha una personalità forte.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'ufficio pubblico", "nl": "het overheidskantoor", "voorbeeld": "Faccio la fila in un ufficio pubblico.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la fila", "nl": "de rij", "voorbeeld": "Fare la fila è noioso.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "timido", "nl": "verlegen", "voorbeeld": "Da bambino ero molto timido.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "avventuroso", "nl": "avontuurlijk", "voorbeeld": "Ha avuto una vita avventurosa.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "alto", "nl": "lang, hoog", "voorbeeld": "Marco è più alto di Luca.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "basso", "nl": "klein, laag", "voorbeeld": "Maria è più bassa di Sara.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "magro", "nl": "mager, slank", "voorbeeld": "Era molto magro da giovane.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "grasso", "nl": "dik", "voorbeeld": "Il gatto è più grasso del cane.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "simpatico", "nl": "sympathiek, aardig", "voorbeeld": "È la persona più simpatica che conosco.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "antipatico", "nl": "onaardig, onsympathiek", "voorbeeld": "Non è antipatico, è solo timido.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "allegro", "nl": "vrolijk", "voorbeeld": "Era un bambino allegro.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "triste", "nl": "verdrietig", "voorbeeld": "Perché sei triste?", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "raccontare", "nl": "vertellen", "voorbeeld": "Mi racconti della tua infanzia?", "woordsoort": "werkwoord" },
+    { "it": "descrivere", "nl": "beschrijven", "voorbeeld": "Descrivi il tuo aspetto.", "woordsoort": "werkwoord" },
+    { "it": "fare paragoni", "nl": "vergelijkingen maken", "voorbeeld": "Non mi piace fare paragoni.", "woordsoort": "uitdrukking" },
+    { "it": "più ... di", "nl": "meer ... dan", "voorbeeld": "Roma è più grande di Firenze.", "woordsoort": "uitdrukking" },
+    { "it": "meno ... di", "nl": "minder ... dan", "voorbeeld": "Il film è meno bello del libro.", "woordsoort": "uitdrukking" },
+    { "it": "così ... come", "nl": "net zo ... als", "voorbeeld": "Lui è così alto come me.", "woordsoort": "uitdrukking" },
+    { "it": "tanto ... quanto", "nl": "evenveel ... als", "voorbeeld": "Lei è tanto simpatica quanto bella.", "woordsoort": "uitdrukking" },
+    { "it": "né ... né", "nl": "noch ... noch", "voorbeeld": "Non è né alto né basso.", "woordsoort": "voegwoord" },
+    { "it": "da bambino", "nl": "als kind", "voorbeeld": "Da bambino ero timido.", "woordsoort": "uitdrukking" }
+  ],
+  "zinnen": [
+    { "nl": "Als kind was ik erg verlegen.", "it": "Da bambino ero molto timido." },
+    { "nl": "Ik speelde altijd in het park.", "it": "Giocavo sempre al parco." },
+    { "nl": "Mijn oma vertelde elke avond verhalen.", "it": "Mia nonna raccontava storie ogni sera." },
+    { "nl": "We woonden in een klein huis.", "it": "Abitavamo in una piccola casa." },
+    { "nl": "Als tiener deed ik veel aan sport.", "it": "Da ragazzo facevo molto sport." },
+    { "nl": "Rome is groter dan Florence.", "it": "Roma è più grande di Firenze." },
+    { "nl": "Het boek is interessanter dan de film.", "it": "Il libro è più interessante del film." },
+    { "nl": "Zij is net zo lang als haar broer.", "it": "Lei è così alta come suo fratello." },
+    { "nl": "Marco is minder verlegen dan zijn zus.", "it": "Marco è meno timido di sua sorella." },
+    { "nl": "Hij is noch groot noch klein.", "it": "Non è né alto né basso." },
+    { "nl": "Beschrijf je uiterlijk.", "it": "Descrivi il tuo aspetto." },
+    { "nl": "Ze had een avontuurlijk leven.", "it": "Ha avuto una vita avventurosa." },
+    { "nl": "Hij werd geboren in 1980.", "it": "Nasce nel 1980." },
+    { "nl": "Ze woonde in Milaan van 2000 tot 2010.", "it": "Ha abitato a Milano dal 2000 al 2010." },
+    { "nl": "Ik was het eerst!", "it": "C'ero prima io!" }
+  ],
+  "invuloefeningen": [
+    { "zin": "Da bambino ___ molto timido.", "antwoord": "ero" },
+    { "zin": "Mia nonna ___ storie ogni sera.", "antwoord": "raccontava" },
+    { "zin": "Noi ___ in una piccola casa.", "antwoord": "abitavamo" },
+    { "zin": "I bambini ___ sempre al parco.", "antwoord": "giocavano" },
+    { "zin": "Tu ___ molto sport da ragazzo.", "antwoord": "facevi" },
+    { "zin": "Roma è ___ grande di Firenze.", "antwoord": "più" },
+    { "zin": "Il film è ___ bello del libro.", "antwoord": "meno" },
+    { "zin": "Lui è così alto ___ me.", "antwoord": "come" },
+    { "zin": "Lei è tanto simpatica ___ bella.", "antwoord": "quanto" },
+    { "zin": "Non è ___ alto né basso.", "antwoord": "né" },
+    { "zin": "Nasce ___ 1980.", "antwoord": "nel" },
+    { "zin": "Ha abitato a Milano ___ 2000 al 2010.", "antwoord": "dal" },
+    { "zin": "Da ___ ero molto allegro.", "antwoord": "bambino" },
+    { "zin": "___ bambino giocavo con i miei amici.", "antwoord": "Da" },
+    { "zin": "Quando ero bambino ___ la cioccolata.", "antwoord": "mangiavo" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Welke vorm van 'essere' hoort bij 'io' in de imperfetto?",
+      "opties": ["ero", "era", "eri", "eravamo"],
+      "antwoord": "ero",
+      "uitleg": "Io ero, tu eri, lui/lei era, noi eravamo, voi eravate, loro erano."
+    },
+    {
+      "vraag": "Wat is de imperfetto van 'parlare' bij 'noi'?",
+      "opties": ["parlavamo", "parlavo", "parlavano", "parlavi"],
+      "antwoord": "parlavamo",
+      "uitleg": "Noi parlavamo. De stam 'parlav-' + uitgang '-amo'."
+    },
+    {
+      "vraag": "Wat is de imperfetto van 'avere' bij 'tu'?",
+      "opties": ["avevi", "avevo", "aveva", "avevamo"],
+      "antwoord": "avevi",
+      "uitleg": "Tu avevi. De imperfetto van avere: avevo, avevi, aveva, avevamo, avevate, avevano."
+    },
+    {
+      "vraag": "Welk werkwoord is onregelmatig in de imperfetto?",
+      "opties": ["fare", "parlare", "abitare", "giocare"],
+      "antwoord": "fare",
+      "uitleg": "Fare heeft een onregelmatige stam: facevo, facevi, faceva, facevamo, facevate, facevano."
+    },
+    {
+      "vraag": "Wanneer gebruik je de imperfetto?",
+      "opties": [
+        "Voor gewoontes en beschrijvingen in het verleden",
+        "Voor eenmalige acties in het verleden",
+        "Voor acties in de toekomst",
+        "Voor bevelen"
+      ],
+      "antwoord": "Voor gewoontes en beschrijvingen in het verleden",
+      "uitleg": "De imperfetto wordt gebruikt voor herhaalde acties, gewoontes en beschrijvingen in het verleden. Bijv: 'Da bambino giocavo sempre al parco.'"
+    },
+    {
+      "vraag": "Hoe zeg je 'groter dan' in het Italiaans?",
+      "opties": ["più grande di", "meno grande di", "tanto grande quanto", "il più grande"],
+      "antwoord": "più grande di",
+      "uitleg": "De comparativo di maggioranza is: più + bijvoeglijk naamwoord + di."
+    },
+    {
+      "vraag": "Wat betekent 'meno interessante di'?",
+      "opties": ["minder interessant dan", "meer interessant dan", "het meest interessant", "even interessant als"],
+      "antwoord": "minder interessant dan",
+      "uitleg": "Meno + bijvoeglijk naamwoord + di = minder ... dan (comparativo di minoranza)."
+    },
+    {
+      "vraag": "Hoe zeg je 'net zo lang als' in het Italiaans?",
+      "opties": ["così alto come", "più alto di", "meno alto di", "il più alto"],
+      "antwoord": "così alto come",
+      "uitleg": "De vergelijking van gelijkheid: così + bijvoeglijk naamwoord + come, of: tanto + bijvoeglijk naamwoord + quanto."
+    },
+    {
+      "vraag": "Welke zin is correct?",
+      "opties": [
+        "Roma è più grande di Firenze.",
+        "Roma è più grande che Firenze.",
+        "Roma è più grande da Firenze.",
+        "Roma è più grande a Firenze."
+      ],
+      "antwoord": "Roma è più grande di Firenze.",
+      "uitleg": "Bij vergelijkingen tussen twee zelfstandige naamwoorden gebruik je 'di', niet 'che'."
+    },
+    {
+      "vraag": "Wat is de comparativo van 'buono'?",
+      "opties": ["migliore", "più buono", "meglio", "il migliore"],
+      "antwoord": "migliore",
+      "uitleg": "Buono heeft een onregelmatige comparativo: migliore (= più buono). 'Meglio' is het bijwoord."
+    },
+    {
+      "vraag": "Vul aan: 'Non è ___ alto ___ basso.'",
+      "opties": ["né ... né", "o ... o", "sia ... sia", "più ... di"],
+      "antwoord": "né ... né",
+      "uitleg": "Né ... né = noch ... noch. Gebruikt met een ontkenning (non)."
+    },
+    {
+      "vraag": "Wat betekent 'da bambino'?",
+      "opties": ["als kind", "voor het kind", "met het kind", "zonder het kind"],
+      "antwoord": "als kind",
+      "uitleg": "Da bambino = als kind. Vergelijk: da ragazzo (als tiener), da giovane (als jongere), da anziano (als bejaarde)."
+    },
+    {
+      "vraag": "Hoe zeg je 'van 1990 tot 2000' in het Italiaans?",
+      "opties": ["dal 1990 al 2000", "nel 1990 nel 2000", "da 1990 a 2000", "di 1990 di 2000"],
+      "antwoord": "dal 1990 al 2000",
+      "uitleg": "Bij jaarcijfers: dal + jaar + al + jaar. Het lidwoord zit versmolten in 'dal' en 'al'."
+    },
+    {
+      "vraag": "Wat is het 'presente storico'?",
+      "opties": [
+        "De tegenwoordige tijd om over het verleden te vertellen",
+        "De verleden tijd om over het heden te vertellen",
+        "Een gebiedende wijs",
+        "Een toekomstige tijd"
+      ],
+      "antwoord": "De tegenwoordige tijd om over het verleden te vertellen",
+      "uitleg": "Het presente storico wordt in biografieën gebruikt: 'Nasce nel 1980' (hij wordt geboren in 1980)."
+    },
+    {
+      "vraag": "Welke zin beschrijft een gewoonte in het verleden?",
+      "opties": [
+        "Da bambino giocavo sempre al parco.",
+        "Ieri ho giocato al parco.",
+        "Domani giocherò al parco.",
+        "Gioco al parco adesso."
+      ],
+      "antwoord": "Da bambino giocavo sempre al parco.",
+      "uitleg": "De imperfetto (giocavo) + 'sempre' duidt op een gewoonte in het verleden."
+    },
+    {
+      "vraag": "Wat is de imperfetto van 'essere' bij 'loro'?",
+      "opties": ["erano", "eravamo", "ero", "era"],
+      "antwoord": "erano",
+      "uitleg": "Loro erano. De imperfetto van essere: ero, eri, era, eravamo, eravate, erano."
+    },
+    {
+      "vraag": "Wat betekent 'C'ero prima io!'?",
+      "opties": ["Ik was het eerst!", "Ik was hier gisteren!", "Ik was er niet!", "Ik was de eerste keer!"],
+      "antwoord": "Ik was het eerst!",
+      "uitleg": "Een veelgebruikte uitdrukking in Italië, bijvoorbeeld bij het wachten in een rij (fare la fila)."
+    },
+    {
+      "vraag": "Wat is de imperfetto van 'dire' bij 'io'?",
+      "opties": ["dicevo", "divo", "direvo", "dicivo"],
+      "antwoord": "dicevo",
+      "uitleg": "Dire heeft een onregelmatige stam in de imperfetto: dicevo, dicevi, diceva, dicevamo, dicevate, dicevano."
+    },
+    {
+      "vraag": "Welk bijvoeglijk naamwoord beschrijft het uiterlijk?",
+      "opties": ["alto", "simpatico", "allegro", "timido"],
+      "antwoord": "alto",
+      "uitleg": "Alto (lang) beschrijft het uiterlijk (l'aspetto). Simpatico, allegro en timido beschrijven de persoonlijkheid."
+    },
+    {
+      "vraag": "Wat is de comparativo van 'cattivo'?",
+      "opties": ["peggiore", "più cattivo", "cattivissimo", "il peggiore"],
+      "antwoord": "peggiore",
+      "uitleg": "Cattivo heeft een onregelmatige comparativo: peggiore (= più cattivo)."
+    }
+  ],
+  "grammatica": [
+    {
+      "titel": "Imperfetto – regelmatige vormen",
+      "uitleg": "De imperfetto wordt gevormd door de stam + uitgang. Parlare: parlavo, parlavi, parlava, parlavamo, parlavate, parlavano. Leggere: leggevo, leggevi, leggeva, leggevamo, leggevate, leggevano. Dormire: dormivo, dormivi, dormiva, dormivamo, dormivate, dormivano."
+    },
+    {
+      "titel": "Imperfetto – onregelmatige werkwoorden",
+      "uitleg": "Essere: ero, eri, era, eravamo, eravate, erano. Fare: facevo, facevi, faceva, facevamo, facevate, facevano. Dire: dicevo, dicevi, diceva, dicevamo, dicevate, dicevano. Bere: bevevo, bevevi, beveva, bevevamo, bevevate, bevevano."
+    },
+    {
+      "titel": "Gebruik van de imperfetto",
+      "uitleg": "De imperfetto gebruik je voor: 1) Gewoontes in het verleden: 'Da bambino giocavo sempre.' 2) Beschrijvingen: 'Era una bella giornata.' 3) Lopende acties: 'Mentre mangiavo, è arrivato Marco.' 4) Leeftijd, tijd, weer in het verleden: 'Avevo 10 anni.'"
+    },
+    {
+      "titel": "Comparativo di maggioranza",
+      "uitleg": "Meer ... dan: più + bijvoeglijk naamwoord + di. Voorbeeld: 'Roma è più grande di Firenze.' Onregelmatige vormen: buono → migliore, cattivo → peggiore, grande → maggiore, piccolo → minore."
+    },
+    {
+      "titel": "Comparativo di minoranza",
+      "uitleg": "Minder ... dan: meno + bijvoeglijk naamwoord + di. Voorbeeld: 'Il film è meno bello del libro.' Let op: 'del' = di + il (samentrekking met het lidwoord)."
+    },
+    {
+      "titel": "Comparativo di uguaglianza",
+      "uitleg": "Net zo ... als: così + bijvoeglijk naamwoord + come, of: tanto + bijvoeglijk naamwoord + quanto. Voorbeeld: 'Lui è così alto come me.' / 'Lei è tanto simpatica quanto bella.' Così en tanto mogen worden weggelaten: 'Lui è alto come me.'"
+    },
+    {
+      "titel": "Presente storico",
+      "uitleg": "In biografieën wordt het presente (tegenwoordige tijd) vaak gebruikt om over het verleden te vertellen. Dit heet het presente storico. Voorbeeld: 'Dante Alighieri nasce a Firenze nel 1265.' (= Dante Alighieri wordt geboren in Florence in 1265.)"
+    },
+    {
+      "titel": "Voorzetsels bij jaartallen: nel, dal ... al",
+      "uitleg": "In + jaar: 'Nasce nel 1980.' (in 1980). Van ... tot: 'Ha abitato a Roma dal 2000 al 2010.' Let op de samentrekking: in + il = nel, da + il = dal, a + il = al."
+    },
+    {
+      "titel": "Voegwoorden: né ... né",
+      "uitleg": "Né ... né = noch ... noch. Altijd met een ontkenning (non). Voorbeeld: 'Non è né alto né basso.' (Hij is noch groot noch klein.) Vergelijk met o ... o (of ... of): 'O vieni o resti.'"
+    },
+    {
+      "titel": "Levensfasen: da bambino / ragazzo / giovane / anziano",
+      "uitleg": "Met 'da' + levensfase geef je een periode in je leven aan: da bambino (als kind), da ragazzo (als tiener), da giovane (als jongere), da anziano (als bejaarde). Voorbeeld: 'Da bambino ero timido, da ragazzo ero più aperto.'"
+    }
+  ]
+}

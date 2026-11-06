@@ -243,6 +243,15 @@ function maakKaarten(lessen: Les[]): Kaart[] {
   );
 }
 
+function schudKaarten(kaarten: Kaart[]): Kaart[] {
+  const geschud = [...kaarten];
+  for (let i = geschud.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [geschud[i], geschud[j]] = [geschud[j], geschud[i]];
+  }
+  return geschud;
+}
+
 function Flashcards({
   lessen,
   voortgang,
@@ -253,11 +262,14 @@ function Flashcards({
   setVoortgang: (v: Record<string, KaartVoortgang>) => void;
 }) {
   const kaarten = useMemo(() => maakKaarten(lessen), [lessen]);
-  const teDoen = kaarten.filter((k) =>
-    isVandaagAan(voortgang[k.id] ?? nieuweVoortgang(k.id))
-  );
-  const huidige = teDoen[0];
+  const [rij, setRij] = useState<Kaart[]>(() => {
+    const teDoen = kaarten.filter((k) =>
+      isVandaagAan(voortgang[k.id] ?? nieuweVoortgang(k.id))
+    );
+    return schudKaarten(teDoen);
+  });
   const [toon, setToon] = useState(false);
+  const huidige = rij[0] ?? null;
 
   function beoordeel(beoordeling: Beoordeling) {
     if (!huidige) return;
@@ -266,6 +278,11 @@ function Flashcards({
     setVoortgang(nieuw);
     bewaarVoortgang(nieuw);
     setToon(false);
+    if (beoordeling === "fout") {
+      setRij((r) => [...r.slice(1), r[0]]);
+    } else {
+      setRij((r) => r.slice(1));
+    }
   }
 
   if (kaarten.length === 0) return <p>Geen woorden in deze selectie.</p>;
@@ -273,7 +290,7 @@ function Flashcards({
 
   return (
     <section className="kaart-sectie">
-      <p className="teller">Nog te doen: {teDoen.length}</p>
+      <p className="teller">Nog te doen: {rij.length}</p>
       <div className="flashcard">
         <p className="voorkant">{huidige.voor}</p>
         {toon ? (

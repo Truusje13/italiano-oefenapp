@@ -146,3 +146,19 @@ git checkout <commit-hash> -- .
 - Communicatie: gewoontes en herinneringen uit het verleden vertellen, uiterlijk en persoonlijkheid beschrijven, vergelijkingen maken, een biografie schrijven
 
 **Resultaat:** Het leerpad toont nu twee hoofdstukken met een slingerende weg ertussen. Hoofdstuk 2 bevat alle zes oefenvormen: woorden, flashcards, meerkeuze, invullen, vertalen en grammatica.
+
+---
+
+## Stap 11 – Hoofdstuk 3 "Persone che contano" (2026-11-06)
+
+**Wat:** Hoofdstuk 3 toegevoegd met oefenstof over passato prossimo vs. imperfetto, indirecte voornaamwoorden en gevoelens uitdrukken.
+
+**Gewijzigde bestanden:**
+- `src/data/les-03.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 10 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: passato prossimo vs. imperfetto, imperfetto con mentre, pronomi tonici, pronomi indiretti, accordo pronome diretto e participio passato, verbi + preposizioni (provare a, cercare di, smettere di, aiutare a), avverbio ecco
+- Woordenschat: relaties (coppia, matrimonio, sposi), gevoelens (affetto, entusiasmo, stupore, rammarico), tijdsuitdrukkingen (a un certo punto, improvvisamente, prima, poi), uitroepen (Congratulazioni!, Davvero?, Che peccato!)
+- Communicatie: gewoontes en gebeurtenissen in het verleden vertellen, gevoelens uitdrukken, feliciteren, verbazing en teleurstelling uitdrukken
+
+**Resultaat:** Het leerpad slingert nu met drie hoofdstukken. Hoofdstuk 3 bevat alle zes oefenvormen.

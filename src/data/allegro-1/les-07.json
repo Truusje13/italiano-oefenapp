@@ -1,0 +1,203 @@
+{
+  "id": 7,
+  "titel": "Lezione 7 – Li vuole provare?",
+  "woorden": [
+    { "it": "la giacca", "nl": "het jasje / de jas", "voorbeeld": "Carma la giacca beige!", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la camicia", "nl": "het overhemd", "voorbeeld": "Una camicia bianca, per favore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "i pantaloni", "nl": "de broek", "voorbeeld": "Questi pantaloni sono troppo grandi.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la gonna", "nl": "de rok", "voorbeeld": "La gonna è di seta.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la maglietta", "nl": "het T-shirt", "voorbeeld": "Una maglietta a righe.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "le scarpe", "nl": "de schoenen", "voorbeeld": "Le scarpe da ginnastica.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la borsa", "nl": "de tas", "voorbeeld": "Una borsa di pelle.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la taglia", "nl": "de maat", "voorbeeld": "Che taglia porta?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il negozio", "nl": "de winkel", "voorbeeld": "Il negozio chiude alle sette.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il supermercato", "nl": "de supermarkt", "voorbeeld": "Vado al supermercato.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il mercato", "nl": "de markt", "voorbeeld": "Al mercato la frutta è fresca.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la panetteria", "nl": "de bakker", "voorbeeld": "Vado in panetteria.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la macelleria", "nl": "de slager", "voorbeeld": "Compro la carne in macelleria.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il pane", "nl": "het brood", "voorbeeld": "Un chilo di pane.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il latte", "nl": "de melk", "voorbeeld": "Un litro di latte.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la frutta", "nl": "het fruit", "voorbeeld": "Mezzo chilo di frutta.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "provare", "nl": "passen / proberen", "voorbeeld": "Li vuole provare?", "woordsoort": "werkwoord" },
+    { "it": "volere", "nl": "willen", "voorbeeld": "Vuole provare questa giacca?", "woordsoort": "werkwoord" },
+    { "it": "dire", "nl": "zeggen", "voorbeeld": "Come si dice in italiano?", "woordsoort": "werkwoord" },
+    { "it": "comprare", "nl": "kopen", "voorbeeld": "Compro un vestito nuovo.", "woordsoort": "werkwoord" },
+    { "it": "costare", "nl": "kosten", "voorbeeld": "Quanto costano queste scarpe?", "woordsoort": "werkwoord" },
+    { "it": "rosso", "nl": "rood", "voorbeeld": "La gonna rossa è bella.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "bianco", "nl": "wit", "voorbeeld": "Una camicia bianca.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "nero", "nl": "zwart", "voorbeeld": "I pantaloni neri.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "blu", "nl": "blauw", "voorbeeld": "La giacca blu.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "verde", "nl": "groen", "voorbeeld": "La maglietta verde.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "giallo", "nl": "geel", "voorbeeld": "La borsa gialla.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "beige", "nl": "beige", "voorbeeld": "La giacca beige.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "un chilo di", "nl": "een kilo", "voorbeeld": "Un chilo di pomodori.", "woordsoort": "uitdrukking" },
+    { "it": "un etto di", "nl": "een ons (100 gram)", "voorbeeld": "Due etti di prosciutto.", "woordsoort": "uitdrukking" }
+  ],
+  "zinnen": [
+    { "nl": "Wilt u ze passen?", "it": "Li vuole provare?" },
+    { "nl": "Welke maat draagt u?", "it": "Che taglia porta?" },
+    { "nl": "Hoeveel kosten deze schoenen?", "it": "Quanto costano queste scarpe?" },
+    { "nl": "Ik zoek een zwarte broek.", "it": "Cerco dei pantaloni neri." },
+    { "nl": "Het T-shirt met strepen bevalt me.", "it": "Mi piace la maglietta a righe." },
+    { "nl": "De tas is van leer.", "it": "La borsa è di pelle." },
+    { "nl": "De sportschoenen zijn comfortabel.", "it": "Le scarpe da ginnastica sono comode." },
+    { "nl": "Ik neem het, dank u.", "it": "Lo prendo, grazie." },
+    { "nl": "Een kilo tomaten, alstublieft.", "it": "Un chilo di pomodori, per favore." },
+    { "nl": "Twee ons ham, alstublieft.", "it": "Due etti di prosciutto, per favore." },
+    { "nl": "Wie is er aan de beurt?", "it": "A chi tocca?" },
+    { "nl": "Ik ga naar de bakker.", "it": "Vado in panetteria." },
+    { "nl": "Hoe zeg je dat in het Italiaans?", "it": "Come si dice in italiano?" },
+    { "nl": "Deze rok is te klein.", "it": "Questa gonna è troppo piccola." },
+    { "nl": "De witte blouse staat u goed.", "it": "La camicia bianca Le sta bene." }
+  ],
+  "invuloefeningen": [
+    { "zin": "Che taglia ___? (dragen, Lei)", "antwoord": "porta" },
+    { "zin": "___ vuole provare? (ze, mannelijk meervoud)", "antwoord": "Li" },
+    { "zin": "La borsa è ___ pelle. (van)", "antwoord": "di" },
+    { "zin": "Una maglietta ___ righe. (met)", "antwoord": "a" },
+    { "zin": "Le scarpe ___ ginnastica. (voor)", "antwoord": "da" },
+    { "zin": "La gonna ___ è bella. (rood, vrouwelijk)", "antwoord": "rossa" },
+    { "zin": "I pantaloni ___. (zwart, mannelijk meervoud)", "antwoord": "neri" },
+    { "zin": "Quanto ___ queste scarpe? (kosten)", "antwoord": "costano" },
+    { "zin": "Un ___ di pomodori. (kilo)", "antwoord": "chilo" },
+    { "zin": "Due ___ di prosciutto. (ons)", "antwoord": "etti" },
+    { "zin": "___ prendo, grazie. (het, mannelijk)", "antwoord": "Lo" },
+    { "zin": "Vado ___ panetteria. (naar de)", "antwoord": "in" },
+    { "zin": "Come si ___ in italiano? (zeggen)", "antwoord": "dice" },
+    { "zin": "Io ___ un vestito nuovo. (willen)", "antwoord": "voglio" },
+    { "zin": "A chi ___? (wiens beurt)", "antwoord": "tocca" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Io ___ un caffè.' (volere)",
+      "opties": ["voglio", "vuoi", "vuole", "volete"],
+      "antwoord": "voglio",
+      "uitleg": "Volere: io voglio, tu vuoi, lui/lei vuole, noi vogliamo, voi volete, loro vogliono."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Lei ___ provare la giacca.' (volere)",
+      "opties": ["vuole", "voglio", "vuoi", "volete"],
+      "antwoord": "vuole",
+      "uitleg": "Volere: lui/lei/Lei vuole. Vuole provare? = Wilt u passen?"
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Io ___ che è vero.' (dire)",
+      "opties": ["dico", "dici", "dice", "dite"],
+      "antwoord": "dico",
+      "uitleg": "Dire: io dico, tu dici, lui/lei dice, noi diciamo, voi dite, loro dicono. Onregelmatig werkwoord."
+    },
+    {
+      "vraag": "Welk lijdend voorwerp past? 'La giacca? ___ prendo.' (haar)",
+      "opties": ["La", "Lo", "Li", "Le"],
+      "antwoord": "La",
+      "uitleg": "Lijdend voorwerp: lo (mannelijk enk.), la (vrouwelijk enk.), li (mannelijk mv.), le (vrouwelijk mv.). La giacca → la prendo."
+    },
+    {
+      "vraag": "Welk lijdend voorwerp past? 'I pantaloni? ___ vuole provare.' (ze, m.mv.)",
+      "opties": ["Li", "Le", "Lo", "La"],
+      "antwoord": "Li",
+      "uitleg": "I pantaloni (mannelijk meervoud) → li. Li vuole provare? = Wilt u ze passen?"
+    },
+    {
+      "vraag": "Welk lijdend voorwerp past? 'Le scarpe? ___ prendo.' (ze, v.mv.)",
+      "opties": ["Le", "Li", "La", "Lo"],
+      "antwoord": "Le",
+      "uitleg": "Le scarpe (vrouwelijk meervoud) → le. Le prendo = ik neem ze."
+    },
+    {
+      "vraag": "Wat betekent 'di lana' in 'una gonna di lana'?",
+      "opties": ["van wol", "van leer", "van katoen", "van zijde"],
+      "antwoord": "van wol",
+      "uitleg": "Di + materiaal: di lana (wol), di pelle (leer), di cotone (katoen), di seta (zijde). Het voorzetsel 'di' geeft het materiaal aan."
+    },
+    {
+      "vraag": "Wat betekent 'a righe' in 'una maglietta a righe'?",
+      "opties": ["met strepen / gestreept", "met stippen", "effen", "met ruiten"],
+      "antwoord": "met strepen / gestreept",
+      "uitleg": "A + patroon: a righe (gestreept), a quadri (geruit), a fiori (gebloemd), a pois (met stippen). Het voorzetsel 'a' geeft het patroon aan."
+    },
+    {
+      "vraag": "Wat betekent 'da ginnastica' in 'scarpe da ginnastica'?",
+      "opties": ["sport- / voor gymnastiek", "van gymnastiek", "met gymnastiek", "gymnastiek-kleur"],
+      "antwoord": "sport- / voor gymnastiek",
+      "uitleg": "Da + doel/functie: scarpe da ginnastica (sportschoenen), occhiali da sole (zonnebril), costume da bagno (badpak). 'Da' geeft het doel aan."
+    },
+    {
+      "vraag": "Welke kleur verandert NIET in het meervoud?",
+      "opties": ["blu", "rosso", "nero", "bianco"],
+      "antwoord": "blu",
+      "uitleg": "Kleuren op een beklemtoonde klinker of medeklinker zijn onveranderlijk: blu, beige, rosa, viola, marrone. Il vestito blu → i vestiti blu."
+    },
+    {
+      "vraag": "Wat is het meervoud van 'la camicia bianca'?",
+      "opties": ["le camicie bianche", "le camice bianche", "le camicie bianchi", "le camicia bianche"],
+      "antwoord": "le camicie bianche",
+      "uitleg": "Camicia → camicie (let op: de i blijft). Bianca → bianche (let op: -ca → -che om de k-klank te behouden)."
+    },
+    {
+      "vraag": "Hoe vraag je in een winkel 'Welke maat draagt u?'",
+      "opties": ["Che taglia porta?", "Che numero porta?", "Che misura porta?", "Che grande porta?"],
+      "antwoord": "Che taglia porta?",
+      "uitleg": "'Taglia' is voor kledingmaten (S, M, L, 42, 44...). 'Numero' is voor schoenmaten (38, 39, 40...)."
+    },
+    {
+      "vraag": "Hoe zeg je 'Wie is er aan de beurt?'",
+      "opties": ["A chi tocca?", "Chi è primo?", "Chi viene?", "A chi è?"],
+      "antwoord": "A chi tocca?",
+      "uitleg": "'A chi tocca?' = Wie is er aan de beurt? Gebruikt in winkels en markten. Antwoord: Tocca a me! (Ik ben aan de beurt!)"
+    },
+    {
+      "vraag": "Welk voorzetsel gebruik je bij winkels? 'Vado ___ panetteria.'",
+      "opties": ["in", "al", "da", "a"],
+      "antwoord": "in",
+      "uitleg": "Bij winkels zonder lidwoord: vado in panetteria, in macelleria, in farmacia. Met lidwoord: vado al supermercato, al mercato."
+    },
+    {
+      "vraag": "Wat is 'un etto'?",
+      "opties": ["100 gram", "1 kilo", "1 liter", "10 gram"],
+      "antwoord": "100 gram",
+      "uitleg": "Un etto = 100 gram (un ettogrammo). Due etti di prosciutto = 200 gram ham. Mezzo chilo = 500 gram."
+    },
+    {
+      "vraag": "Hoe zeg je 'een halve kilo aardappelen'?",
+      "opties": ["Mezzo chilo di patate.", "Un mezzo chilo patate.", "Una mezza chilo di patate.", "Mezzo kilo di patate."],
+      "antwoord": "Mezzo chilo di patate.",
+      "uitleg": "Mezzo chilo di + product. 'Di' is verplicht tussen de hoeveelheid en het product: un chilo di, un litro di, un etto di."
+    },
+    {
+      "vraag": "Wat is het meervoud van 'la scarpa nera'?",
+      "opties": ["le scarpe nere", "le scarpe neri", "i scarpe nere", "le scarpa nere"],
+      "antwoord": "le scarpe nere",
+      "uitleg": "Scarpa → scarpe (vrouwelijk -a → -e). Nera → nere (bijvoeglijk naamwoord past zich aan)."
+    },
+    {
+      "vraag": "Welke kleur is 'giallo'?",
+      "opties": ["geel", "blauw", "groen", "grijs"],
+      "antwoord": "geel",
+      "uitleg": "Rosso (rood), bianco (wit), nero (zwart), blu (blauw), verde (groen), giallo (geel), grigio (grijs), marrone (bruin), rosa (roze), viola (paars)."
+    },
+    {
+      "vraag": "Waar staat het lijdend voorwerp in de zin?",
+      "opties": ["Voor het werkwoord: Lo prendo.", "Na het werkwoord: Prendo lo.", "Aan het eind: Prendo la giacca lo.", "Het maakt niet uit."],
+      "antwoord": "Voor het werkwoord: Lo prendo.",
+      "uitleg": "Het lijdend voorwerp staat vóór het vervoegde werkwoord: Lo prendo (ik neem het), La compro (ik koop haar/het), Li vuole? (wilt u ze?). Bij een infinitief kan het eraan vast: voglio prenderlo."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Loro ___ sempre la verità.' (dire)",
+      "opties": ["dicono", "diciamo", "dite", "dice"],
+      "antwoord": "dicono",
+      "uitleg": "Dire: loro dicono. Onregelmatig: dico, dici, dice, diciamo, dite, dicono."
+    }
+  ],
+  "grammatica": [
+    { "titel": "Volere (onregelmatig)", "uitleg": "io voglio, tu vuoi, lui/lei vuole, noi vogliamo, voi volete, loro vogliono. Volere + infinitief: Voglio comprare una giacca. Vuole provare? (Wilt u passen?)" },
+    { "titel": "Dire (onregelmatig)", "uitleg": "io dico, tu dici, lui/lei dice, noi diciamo, voi dite, loro dicono. Come si dice in italiano? (Hoe zeg je dat in het Italiaans?) Voltooid deelwoord: detto (Ho detto = ik heb gezegd)." },
+    { "titel": "Kleuren", "uitleg": "Veranderlijk (-o/-a): rosso/rossa, bianco/bianca, nero/nera, giallo/gialla. Veranderlijk (-e): verde, grigio → verdi, grigi. Onveranderlijk: blu, beige, rosa, viola, marrone. La gonna rossa, i pantaloni neri, la giacca blu." },
+    { "titel": "Voorzetsels di, a, da bij kleding", "uitleg": "Di + materiaal: di lana (wol), di pelle (leer), di cotone (katoen), di seta (zijde). A + patroon: a righe (gestreept), a quadri (geruit), a fiori (gebloemd), a pois (met stippen). Da + functie: da ginnastica (sport-), da sera (avond-), da bagno (bad-)." },
+    { "titel": "Lijdend voorwerp: lo, la, li, le", "uitleg": "lo = hem/het (mannelijk enk.): il libro → Lo prendo. la = haar/het (vrouwelijk enk.): la giacca → La compro. li = ze (mannelijk mv.): i pantaloni → Li vuole provare? le = ze (vrouwelijk mv.): le scarpe → Le prendo. Staat vóór het vervoegde werkwoord." },
+    { "titel": "Voorzetsels + namen van winkels", "uitleg": "Zonder lidwoord (in): vado in panetteria, in macelleria, in farmacia, in libreria. Met lidwoord (al/alla): vado al supermercato, al mercato, alla cassa. Naar een persoon (dal/dalla): vado dal macellaio, dalla parrucchiera." },
+    { "titel": "Hoeveelheidsaanduidingen met di", "uitleg": "Hoeveelheid + di + product: un chilo di pane (een kilo brood), un etto di prosciutto (100 gram ham), un litro di latte (een liter melk), mezzo chilo di pomodori (halve kilo tomaten), una bottiglia di vino (een fles wijn), un pacchetto di pasta (een pak pasta)." }
+  ],
+  "luisteroefeningen": [],
+  "schrijfopdrachten": []
+}

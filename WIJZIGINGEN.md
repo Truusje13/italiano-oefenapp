@@ -355,3 +355,19 @@ git checkout <commit-hash> -- .
 - Communicatie: reisdoel en reden aangeven, een treinkaartje kopen, een hotelkamer reserveren, ontkennen, spellen (alfabet met stadsnamen)
 
 **Resultaat:** Het leerpad Allegro 1 toont nu 2 lessen met alle zes oefenvormen.
+
+---
+
+## Stap 24 – Allegro 1: Hoofdstuk 3 "Prendi un caffè?" (2026-11-08)
+
+**Wat:** Het derde hoofdstuk van het leerpad Allegro 1 toegevoegd (boek-lezione 4). Thema: bestellen in een Italiaanse bar en restaurant.
+
+**Gewijzigde bestanden:**
+- `src/data/allegro-1/les-03.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 9 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: prendere (regelmatig -ere werkwoord), avere (onregelmatig), onbepaald lidwoord (un/uno/una/un'), telwoorden 1–20 en tientallen tot 2000, zelfstandig naamwoord meervoud (-o→-i, -a→-e, -e→-i, onveranderlijk), bijvoeglijk naamwoord enkelvoud (-o/-a, -e), bepaald lidwoord meervoud (i/gli/le), uitspraak van gn en gl
+- Woordenschat: dranken (caffè, cappuccino, tè, birra, vino, acqua), eten (cornetto, panino, gelato), restaurant (menù, primo, secondo, contorno, dolce, conto), bar (cassa, scontrino), smaak (buono, caldo, freddo, dolce, amaro)
+- Communicatie: bestellen aan de kassa van een Italiaanse bar, prijzen vragen en verstaan, bestellen in een café en restaurant, een menukaart begrijpen, eetgewoontes bij het ontbijt
+
+**Resultaat:** Het leerpad Allegro 1 toont nu 3 lessen met alle zes oefenvormen.

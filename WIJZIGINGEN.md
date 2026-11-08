@@ -323,3 +323,19 @@ git checkout <commit-hash> -- .
 - `src/styles.css` – Styling voor `.leerpaden-overzicht` en `.leerpad-kaart` (hover-effect, schaduw, oranje rand bij hover)
 
 **Resultaat:** Het startscherm toont twee leerpaden als klikbare kaarten: "Allegro 1" (bovenaan, nog zonder lessen) en "Dieci" (10 lessen). Nieuwe leerpaden toevoegen is nu een kwestie van een map aanmaken en een regel toevoegen aan `LEERPADEN_CONFIG`.
+
+---
+
+## Stap 22 – Allegro 1: Hoofdstuk 1 "Come va?" (2026-11-08)
+
+**Wat:** Het eerste hoofdstuk van het leerpad Allegro 1 toegevoegd, gebaseerd op de inhoudsopgave van het werkboek "Allegro – Italiaans voor beginners".
+
+**Gewijzigde bestanden:**
+- `src/data/allegro-1/les-01.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 6 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: stare (1e–3e persoon enkelvoud), essere (1e–3e persoon enkelvoud), abitare (1e–3e persoon enkelvoud), bepaald lidwoord enkelvoud (il/lo/l'/la), nationaliteitsaanduidingen (-o/-a vs. -ese), uitspraak van c en g (c/ch/g/gh voor klinkers)
+- Woordenschat: begroetingen (buongiorno, buonasera, ciao, arrivederci, salve), vragen hoe het gaat (come stai/sta, bene, male, così così), zich voorstellen (mi chiamo, piacere), nationaliteiten (olandese, italiano, tedesco, francese, spagnolo, inglese), woonplaats (dove abiti, abito a...)
+- Communicatie: begroeten en afscheid nemen (formeel/informeel), zich en iemand anders voorstellen, herkomst en woonplaats aangeven, nationaliteit aangeven
+
+**Resultaat:** Het leerpad Allegro 1 toont nu 1 les met alle zes oefenvormen: woorden, flashcards, meerkeuze, invullen, vertalen en grammatica.

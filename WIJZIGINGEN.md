@@ -435,3 +435,19 @@ git checkout <commit-hash> -- .
 - Communicatie: in een kledingzaak informatie vragen (Che taglia porta?), kleding beschrijven, winkelen en afrekenen, levensmiddelen kopen op de markt (A chi tocca?)
 
 **Resultaat:** Het leerpad Allegro 1 toont nu 7 lessen met alle zes oefenvormen.
+
+---
+
+## Stap 29 – Allegro 1: Hoofdstuk 8 "Cosa fate in vacanza?" (2026-11-08)
+
+**Wat:** Het achtste hoofdstuk van het leerpad Allegro 1 toegevoegd (boek-lezione 11). Thema: vakantie, weer, dagelijkse routine.
+
+**Gewijzigde bestanden:**
+- `src/data/allegro-1/les-08.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 7 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: wederkerende werkwoorden (rilassarsi, svegliarsi, alzarsi, vestirsi, divertirsi, addormentarsi — voornaamwoord mi/ti/si/ci/vi/si vóór werkwoord), dubbele ontkenning non...niente (niets) en non...mai (nooit), bijwoord op -mente (lento → lentamente, facile → facilmente), tijdsaanduidingen da/fa/fra (da = sinds, fa = geleden, fra/tra = over), datum (il + hoofdtelwoord + maand, uitzondering: il primo), weer (Che tempo fa?, fa caldo/freddo, piove, nevica)
+- Woordenschat: vakantiebestemmingen (mare, montagna, lago, spiaggia, campagna), weer (sole, pioggia, caldo, freddo, nuvoloso), dagelijkse routine (svegliarsi, alzarsi, vestirsi, addormentarsi), bijwoorden (lentamente, facilmente), tijdsuitdrukkingen (fa, fra/tra, da)
+- Communicatie: vakantieplannen beschrijven, informatie opvragen over feesten en reismogelijkheden (Vorrei un'informazione), over het weer praten, datums benoemen
+
+**Resultaat:** Het leerpad Allegro 1 toont nu 8 lessen met alle zes oefenvormen.

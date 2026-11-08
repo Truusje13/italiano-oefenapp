@@ -419,3 +419,19 @@ git checkout <commit-hash> -- .
 - Communicatie: vertellen wat je gedaan hebt, voorkeuren uitdrukken, over familie vertellen, geboortejaar en -plaats aangeven
 
 **Resultaat:** Het leerpad Allegro 1 toont nu 6 lessen met alle zes oefenvormen.
+
+---
+
+## Stap 28 – Allegro 1: Hoofdstuk 7 "Li vuole provare?" (2026-11-08)
+
+**Wat:** Het zevende hoofdstuk van het leerpad Allegro 1 toegevoegd (boek-lezione 10). Thema: kleding, winkelen, levensmiddelen kopen.
+
+**Gewijzigde bestanden:**
+- `src/data/allegro-1/les-07.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 7 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: volere (onregelmatig: voglio/vuoi/vuole/vogliamo/volete/vogliono), dire (onregelmatig: dico/dici/dice/diciamo/dite/dicono), kleuren (veranderlijk: rosso/bianco/nero/giallo vs. onveranderlijk: blu/beige/rosa/viola/marrone), voorzetsels di/a/da bij kleding (di lana = materiaal, a righe = patroon, da ginnastica = functie), lijdend voorwerp lo/la/li/le (positie vóór vervoegd werkwoord), voorzetsels + winkels (in panetteria vs. al supermercato), hoeveelheidsaanduidingen met di (un chilo di, un etto di, mezzo chilo di, un litro di)
+- Woordenschat: kledingstukken (giacca, camicia, pantaloni, gonna, maglietta, scarpe, borsa), kleuren (rosso, bianco, nero, blu, verde, giallo, beige), winkels (negozio, supermercato, mercato, panetteria, macelleria), levensmiddelen (pane, latte, frutta), maten en hoeveelheden (taglia, chilo, etto)
+- Communicatie: in een kledingzaak informatie vragen (Che taglia porta?), kleding beschrijven, winkelen en afrekenen, levensmiddelen kopen op de markt (A chi tocca?)
+
+**Resultaat:** Het leerpad Allegro 1 toont nu 7 lessen met alle zes oefenvormen.

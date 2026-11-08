@@ -1,0 +1,203 @@
+{
+  "id": 5,
+  "titel": "Lezione 5 – C'è una banca qui vicino?",
+  "woorden": [
+    { "it": "la banca", "nl": "de bank", "voorbeeld": "C'è una banca qui vicino?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la farmacia", "nl": "de apotheek", "voorbeeld": "La farmacia è in piazza.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'ufficio postale", "nl": "het postkantoor", "voorbeeld": "Dov'è l'ufficio postale?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la fermata", "nl": "de halte", "voorbeeld": "Dov'è la fermata dell'autobus?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'autobus", "nl": "de bus", "voorbeeld": "L'autobus arriva alle otto.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la piazza", "nl": "het plein", "voorbeeld": "La banca è in piazza.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la via", "nl": "de straat", "voorbeeld": "Abito in via Roma.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il semaforo", "nl": "het stoplicht", "voorbeeld": "Al semaforo giri a destra.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'incrocio", "nl": "het kruispunt", "voorbeeld": "All'incrocio vai dritto.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il ponte", "nl": "de brug", "voorbeeld": "Attraversi il ponte.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la chiesa", "nl": "de kerk", "voorbeeld": "La chiesa è di fronte alla banca.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il museo", "nl": "het museum", "voorbeeld": "Il museo apre alle nove.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "vicino", "nl": "dichtbij", "voorbeeld": "La banca è qui vicino.", "woordsoort": "bijwoord" },
+    { "it": "lontano", "nl": "ver", "voorbeeld": "La stazione è lontano?", "woordsoort": "bijwoord" },
+    { "it": "a destra", "nl": "rechts / naar rechts", "voorbeeld": "Giri a destra al semaforo.", "woordsoort": "bijwoord" },
+    { "it": "a sinistra", "nl": "links / naar links", "voorbeeld": "Giri a sinistra dopo il ponte.", "woordsoort": "bijwoord" },
+    { "it": "dritto / diritto", "nl": "rechtdoor", "voorbeeld": "Vada sempre dritto.", "woordsoort": "bijwoord" },
+    { "it": "di fronte a", "nl": "tegenover", "voorbeeld": "La farmacia è di fronte alla banca.", "woordsoort": "voorzetsel" },
+    { "it": "accanto a", "nl": "naast", "voorbeeld": "Il bar è accanto alla chiesa.", "woordsoort": "voorzetsel" },
+    { "it": "davanti a", "nl": "voor / ervoor", "voorbeeld": "C'è un parcheggio davanti al museo.", "woordsoort": "voorzetsel" },
+    { "it": "dietro", "nl": "achter", "voorbeeld": "Il parcheggio è dietro la chiesa.", "woordsoort": "voorzetsel" },
+    { "it": "tra / fra", "nl": "tussen", "voorbeeld": "La banca è tra la farmacia e il bar.", "woordsoort": "voorzetsel" },
+    { "it": "aprire", "nl": "openen", "voorbeeld": "Il museo apre alle nove.", "woordsoort": "werkwoord" },
+    { "it": "venire", "nl": "komen", "voorbeeld": "Vieni alla festa?", "woordsoort": "werkwoord" },
+    { "it": "uscire", "nl": "uitgaan / naar buiten gaan", "voorbeeld": "Esco di casa alle otto.", "woordsoort": "werkwoord" },
+    { "it": "sapere", "nl": "weten", "voorbeeld": "Sai dov'è la banca?", "woordsoort": "werkwoord" },
+    { "it": "girare", "nl": "draaien / afslaan", "voorbeeld": "Giri a destra.", "woordsoort": "werkwoord" },
+    { "it": "attraversare", "nl": "oversteken", "voorbeeld": "Attraversi la piazza.", "woordsoort": "werkwoord" },
+    { "it": "che ore sono?", "nl": "hoe laat is het?", "voorbeeld": "Scusi, che ore sono?", "woordsoort": "uitdrukking" },
+    { "it": "a che ora?", "nl": "hoe laat? / om hoe laat?", "voorbeeld": "A che ora apre il museo?", "woordsoort": "uitdrukking" }
+  ],
+  "zinnen": [
+    { "nl": "Is er een bank hier in de buurt?", "it": "C'è una banca qui vicino?" },
+    { "nl": "Waar is de bushalte?", "it": "Dov'è la fermata dell'autobus?" },
+    { "nl": "Sla rechtsaf bij het stoplicht.", "it": "Giri a destra al semaforo." },
+    { "nl": "Ga altijd rechtdoor.", "it": "Vada sempre dritto." },
+    { "nl": "De apotheek is tegenover de bank.", "it": "La farmacia è di fronte alla banca." },
+    { "nl": "Het museum opent om negen uur.", "it": "Il museo apre alle nove." },
+    { "nl": "Hoe laat is het?", "it": "Che ore sono?" },
+    { "nl": "Het is drie uur.", "it": "Sono le tre." },
+    { "nl": "Het is half twee.", "it": "Sono le due meno trenta." },
+    { "nl": "Weet u waar de bank is?", "it": "Sa dov'è la banca?" },
+    { "nl": "Kom je naar het feest?", "it": "Vieni alla festa?" },
+    { "nl": "Ik ga om acht uur het huis uit.", "it": "Esco di casa alle otto." },
+    { "nl": "De bar is naast de kerk.", "it": "Il bar è accanto alla chiesa." },
+    { "nl": "Steek het plein over.", "it": "Attraversi la piazza." },
+    { "nl": "Is het ver?", "it": "È lontano?" }
+  ],
+  "invuloefeningen": [
+    { "zin": "C'è una banca qui ___? (dichtbij)", "antwoord": "vicino" },
+    { "zin": "Dov'è la fermata ___ autobus? (van de)", "antwoord": "dell'" },
+    { "zin": "Giri a ___ al semaforo. (rechts)", "antwoord": "destra" },
+    { "zin": "La farmacia è di fronte ___ banca. (aan de)", "antwoord": "alla" },
+    { "zin": "Il bar è accanto ___ chiesa. (aan de)", "antwoord": "alla" },
+    { "zin": "Vado ___ museo. (naar het)", "antwoord": "al" },
+    { "zin": "___ ore sono? – Sono le tre. (hoe laat)", "antwoord": "Che" },
+    { "zin": "Il museo apre ___ nove. (om)", "antwoord": "alle" },
+    { "zin": "___ alla festa? (komen, tu)", "antwoord": "Vieni" },
+    { "zin": "___ di casa alle otto. (uitgaan, io)", "antwoord": "Esco" },
+    { "zin": "___ dov'è la banca? (weten, tu)", "antwoord": "Sai" },
+    { "zin": "C'è un parcheggio ___ al museo. (voor/ervoor)", "antwoord": "davanti" },
+    { "zin": "La banca è ___ la farmacia e il bar. (tussen)", "antwoord": "tra" },
+    { "zin": "Abito ___ via Roma. (in)", "antwoord": "in" },
+    { "zin": "___ la piazza e poi giri a sinistra. (oversteken, Lei)", "antwoord": "Attraversi" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Wat is de samengetrokken vorm van 'a + il'?",
+      "opties": ["al", "allo", "alla", "all'"],
+      "antwoord": "al",
+      "uitleg": "a + il = al. Voorbeelden: al semaforo, al bar, al ristorante."
+    },
+    {
+      "vraag": "Wat is de samengetrokken vorm van 'di + la'?",
+      "opties": ["della", "dalla", "nella", "alla"],
+      "antwoord": "della",
+      "uitleg": "di + la = della. Voorbeelden: della città, della chiesa. Di + il = del, di + l' = dell', di + i = dei, di + gli = degli, di + le = delle."
+    },
+    {
+      "vraag": "Wat is de samengetrokken vorm van 'in + il'?",
+      "opties": ["nel", "nello", "nella", "nell'"],
+      "antwoord": "nel",
+      "uitleg": "in + il = nel. In + la = nella, in + l' = nell', in + i = nei, in + gli = negli, in + le = nelle."
+    },
+    {
+      "vraag": "Welke samengetrokken vorm past? 'Vado ___ cinema.' (a + il)",
+      "opties": ["al", "nel", "del", "dal"],
+      "antwoord": "al",
+      "uitleg": "a + il = al. Vado al cinema, al bar, al ristorante. A + la = alla: vado alla stazione."
+    },
+    {
+      "vraag": "Hoe vraag je de weg in het Italiaans?",
+      "opties": ["Scusi, dov'è...?", "Scusi, come è...?", "Scusi, che è...?", "Scusi, qual è...?"],
+      "antwoord": "Scusi, dov'è...?",
+      "uitleg": "'Scusi, dov'è la banca?' = Neemt u me niet kwalijk, waar is de bank? 'Dov'è' = dove + è."
+    },
+    {
+      "vraag": "Wat betekent 'di fronte a'?",
+      "opties": ["tegenover", "naast", "achter", "voor"],
+      "antwoord": "tegenover",
+      "uitleg": "Di fronte a = tegenover. La farmacia è di fronte alla banca. Let op de samengetrokken vorm: di fronte alla (a + la)."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Io ___ alle otto.' (uscire)",
+      "opties": ["esco", "usco", "uscio", "uscisco"],
+      "antwoord": "esco",
+      "uitleg": "Uscire: io esco, tu esci, lui/lei esce, noi usciamo, voi uscite, loro escono. Onregelmatig in het enkelvoud."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Tu ___ alla festa?' (venire)",
+      "opties": ["vieni", "vengo", "viene", "veni"],
+      "antwoord": "vieni",
+      "uitleg": "Venire: io vengo, tu vieni, lui/lei viene, noi veniamo, voi venite, loro vengono."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Io ___ dove è la banca.' (sapere)",
+      "opties": ["so", "sai", "sa", "sapere"],
+      "antwoord": "so",
+      "uitleg": "Sapere: io so, tu sai, lui/lei sa, noi sappiamo, voi sapete, loro sanno."
+    },
+    {
+      "vraag": "Hoe zeg je 'het is drie uur'?",
+      "opties": ["Sono le tre.", "È le tre.", "Sono tre ore.", "È tre."],
+      "antwoord": "Sono le tre.",
+      "uitleg": "Kloktijden: Sono le + getal. Sono le tre (3:00), Sono le dieci (10:00). Uitzondering: È l'una (1:00), È mezzogiorno (12:00), È mezzanotte (0:00)."
+    },
+    {
+      "vraag": "Hoe zeg je 'het is één uur'?",
+      "opties": ["È l'una.", "Sono le una.", "È una.", "Sono l'una."],
+      "antwoord": "È l'una.",
+      "uitleg": "Alleen bij 1 uur gebruik je 'è' (enkelvoud): È l'una. Bij alle andere uren: Sono le due, Sono le tre, etc."
+    },
+    {
+      "vraag": "Hoe zeg je 'om drie uur'?",
+      "opties": ["alle tre", "a le tre", "a tre", "in tre"],
+      "antwoord": "alle tre",
+      "uitleg": "'Alle' = a + le (samengetrokken vorm). Il museo apre alle nove. La lezione comincia alle dieci. All'una (a + l')."
+    },
+    {
+      "vraag": "Welke samengetrokken vorm past? 'Abito ___ centro.' (in + il)",
+      "opties": ["nel", "al", "del", "dal"],
+      "antwoord": "nel",
+      "uitleg": "in + il = nel. Abito nel centro. In + la = nella: nella piazza. In + i = nei: nei negozi."
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'sapere' en 'conoscere'?",
+      "opties": ["Sapere = feiten/vaardigheden, conoscere = personen/plaatsen", "Ze zijn hetzelfde", "Sapere = personen, conoscere = feiten", "Sapere = formeel, conoscere = informeel"],
+      "antwoord": "Sapere = feiten/vaardigheden, conoscere = personen/plaatsen",
+      "uitleg": "So dov'è la banca (ik weet waar de bank is). Conosco Roma (ik ken Rome). So nuotare (ik kan zwemmen). Conosco Maria (ik ken Maria)."
+    },
+    {
+      "vraag": "Welke samengetrokken vorm past? 'La fermata ___ autobus.' (di + l')",
+      "opties": ["dell'", "del", "della", "dello"],
+      "antwoord": "dell'",
+      "uitleg": "di + l' = dell'. La fermata dell'autobus, l'inizio dell'anno. Gebruikt voor woorden die beginnen met een klinker."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Loro ___ alla festa.' (venire)",
+      "opties": ["vengono", "veniamo", "venite", "vieni"],
+      "antwoord": "vengono",
+      "uitleg": "Venire: loro vengono. Let op de g: vengo, vengono. Maar: vieni, viene, veniamo, venite."
+    },
+    {
+      "vraag": "Welke aanwijzing betekent 'naast'?",
+      "opties": ["accanto a", "di fronte a", "davanti a", "dietro"],
+      "antwoord": "accanto a",
+      "uitleg": "Accanto a = naast. Il bar è accanto alla chiesa. Di fronte a = tegenover, davanti a = voor, dietro = achter."
+    },
+    {
+      "vraag": "Hoe zeg je 'het is half drie' (14:30)?",
+      "opties": ["Sono le due e mezza.", "Sono le tre e mezza.", "Sono le due e trenta.", "Sono le due e mezzo."],
+      "antwoord": "Sono le due e mezza.",
+      "uitleg": "'E mezza' of 'e trenta' = en dertig / half. 14:30 = Sono le due e mezza (twee en een half). Let op: 'mezza' (vrouwelijk, verwijst naar ora)."
+    },
+    {
+      "vraag": "Welke samengetrokken vorm past? 'Vado ___ stazione.' (a + la)",
+      "opties": ["alla", "al", "nella", "della"],
+      "antwoord": "alla",
+      "uitleg": "a + la = alla. Vado alla stazione, alla festa, alla farmacia."
+    },
+    {
+      "vraag": "Hoe zeg je 'het is kwart over vier' (16:15)?",
+      "opties": ["Sono le quattro e un quarto.", "Sono le quattro e quindici.", "Sono le quattro e quarto.", "Sono le cinque meno un quarto."],
+      "antwoord": "Sono le quattro e un quarto.",
+      "uitleg": "'E un quarto' = en een kwartier (kwart over). 'Meno un quarto' = min een kwartier (kwart voor). Sono le quattro e un quarto = 16:15."
+    }
+  ],
+  "grammatica": [
+    { "titel": "Voorzetsels a, di, in + bepaald lidwoord", "uitleg": "Deze voorzetsels smelten samen met het lidwoord: a + il = al, a + la = alla, a + l' = all', a + i = ai, a + gli = agli, a + le = alle. Di + il = del, di + la = della, di + l' = dell', etc. In + il = nel, in + la = nella, in + l' = nell', etc." },
+    { "titel": "Meer samengetrokken voorzetsels: da, su", "uitleg": "Da + il = dal, da + la = dalla, da + l' = dall', da + i = dai, da + gli = dagli, da + le = dalle. Su + il = sul, su + la = sulla, su + l' = sull', etc. Voorbeeld: dal medico (bij de dokter), sulla tavola (op de tafel)." },
+    { "titel": "C'è en ci sono (herhaling en uitbreiding)", "uitleg": "C'è + enkelvoud: C'è una banca qui vicino? Ci sono + meervoud: Ci sono due farmacie. Ontkennend: Non c'è, non ci sono. Vragend: C'è un bancomat? Ci sono negozi?" },
+    { "titel": "Plaatsaanduidingen", "uitleg": "Di fronte a = tegenover, accanto a = naast, davanti a = voor, dietro = achter, tra/fra = tussen, vicino a = dichtbij, lontano da = ver van. Let op samengetrokken vormen: di fronte alla banca, accanto al bar, davanti all'ufficio." },
+    { "titel": "Aprire, venire, uscire, sapere", "uitleg": "Aprire: apro, apri, apre, apriamo, aprite, aprono (regelmatig). Venire: vengo, vieni, viene, veniamo, venite, vengono. Uscire: esco, esci, esce, usciamo, uscite, escono. Sapere: so, sai, sa, sappiamo, sapete, sanno." },
+    { "titel": "Kloktijden", "uitleg": "Che ore sono? / Che ora è? Sono le + getal: Sono le tre (3:00), Sono le dieci (10:00). Uitzonderingen: È l'una (1:00), È mezzogiorno (12:00), È mezzanotte (0:00). Toevoegingen: e mezza/e trenta (half), e un quarto (kwart over), meno un quarto (kwart voor)." },
+    { "titel": "Tijdsaanduidingen met a", "uitleg": "A che ora? = Hoe laat? Alle + uur: alle tre, alle dieci. All'una (1 uur). A mezzogiorno, a mezzanotte. 'Alle' is de samengetrokken vorm van a + le." }
+  ],
+  "luisteroefeningen": [],
+  "schrijfopdrachten": []
+}

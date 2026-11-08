@@ -1,0 +1,202 @@
+{
+  "id": 1,
+  "titel": "Lezione 1 – Come va?",
+  "woorden": [
+    { "it": "buongiorno", "nl": "goedemorgen / goedendag", "voorbeeld": "Buongiorno, signora Rossi!", "woordsoort": "begroeting" },
+    { "it": "buonasera", "nl": "goedenavond", "voorbeeld": "Buonasera, come sta?", "woordsoort": "begroeting" },
+    { "it": "buonanotte", "nl": "goedenacht", "voorbeeld": "Buonanotte, a domani!", "woordsoort": "begroeting" },
+    { "it": "ciao", "nl": "hoi / dag (informeel)", "voorbeeld": "Ciao, come stai?", "woordsoort": "begroeting" },
+    { "it": "arrivederci", "nl": "tot ziens (formeel)", "voorbeeld": "Arrivederci, signore!", "woordsoort": "begroeting" },
+    { "it": "salve", "nl": "hallo (neutraal)", "voorbeeld": "Salve, tutto bene?", "woordsoort": "begroeting" },
+    { "it": "piacere", "nl": "aangenaam", "voorbeeld": "Piacere, mi chiamo Marco.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "grazie", "nl": "dank je / dank u", "voorbeeld": "Grazie mille!", "woordsoort": "uitdrukking" },
+    { "it": "per favore", "nl": "alstublieft", "voorbeeld": "Un caffè, per favore.", "woordsoort": "uitdrukking" },
+    { "it": "scusi", "nl": "neemt u mij niet kwalijk (formeel)", "voorbeeld": "Scusi, come si chiama?", "woordsoort": "uitdrukking" },
+    { "it": "come", "nl": "hoe", "voorbeeld": "Come stai?", "woordsoort": "vraagwoord" },
+    { "it": "dove", "nl": "waar", "voorbeeld": "Dove abiti?", "woordsoort": "vraagwoord" },
+    { "it": "bene", "nl": "goed", "voorbeeld": "Sto bene, grazie.", "woordsoort": "bijwoord" },
+    { "it": "molto bene", "nl": "heel goed", "voorbeeld": "Sto molto bene!", "woordsoort": "bijwoord" },
+    { "it": "così così", "nl": "zo zo", "voorbeeld": "Come stai? Così così.", "woordsoort": "bijwoord" },
+    { "it": "male", "nl": "slecht", "voorbeeld": "Sto male oggi.", "woordsoort": "bijwoord" },
+    { "it": "stare", "nl": "zich bevinden, het maken", "voorbeeld": "Come stai? Sto bene.", "woordsoort": "werkwoord" },
+    { "it": "essere", "nl": "zijn", "voorbeeld": "Sono italiano.", "woordsoort": "werkwoord" },
+    { "it": "abitare", "nl": "wonen", "voorbeeld": "Abito a Roma.", "woordsoort": "werkwoord" },
+    { "it": "chiamarsi", "nl": "heten", "voorbeeld": "Mi chiamo Anna.", "woordsoort": "werkwoord" },
+    { "it": "presentare", "nl": "voorstellen", "voorbeeld": "Le presento il signor Rivelli.", "woordsoort": "werkwoord" },
+    { "it": "il signore", "nl": "de heer / meneer", "voorbeeld": "Buongiorno, signore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la signora", "nl": "mevrouw", "voorbeeld": "Buonasera, signora.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "olandese", "nl": "Nederlands", "voorbeeld": "Sono olandese.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "italiano", "nl": "Italiaans", "voorbeeld": "Lui è italiano.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "tedesco", "nl": "Duits", "voorbeeld": "Lei è tedesca.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "francese", "nl": "Frans", "voorbeeld": "Sei francese?", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "spagnolo", "nl": "Spaans", "voorbeeld": "Lui è spagnolo.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "inglese", "nl": "Engels", "voorbeeld": "Sono inglese.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "la città", "nl": "de stad", "voorbeeld": "Roma è una bella città.", "woordsoort": "zelfstandig naamwoord" }
+  ],
+  "zinnen": [
+    { "nl": "Goedemorgen, hoe gaat het?", "it": "Buongiorno, come sta?" },
+    { "nl": "Hoi, hoe gaat het met je?", "it": "Ciao, come stai?" },
+    { "nl": "Het gaat goed, dank je.", "it": "Sto bene, grazie." },
+    { "nl": "Aangenaam, ik heet Marco.", "it": "Piacere, mi chiamo Marco." },
+    { "nl": "Ik stel u meneer Rivelli voor.", "it": "Le presento il signor Rivelli." },
+    { "nl": "Waar woon je?", "it": "Dove abiti?" },
+    { "nl": "Ik woon in Amsterdam.", "it": "Abito ad Amsterdam." },
+    { "nl": "Ik ben Nederlands.", "it": "Sono olandese." },
+    { "nl": "Waar kom je vandaan?", "it": "Di dove sei?" },
+    { "nl": "Ik kom uit Nederland.", "it": "Sono dei Paesi Bassi." },
+    { "nl": "Hij is Italiaans.", "it": "Lui è italiano." },
+    { "nl": "Zij is Duitse.", "it": "Lei è tedesca." },
+    { "nl": "Hoe heet u?", "it": "Come si chiama?" },
+    { "nl": "Tot ziens, mevrouw.", "it": "Arrivederci, signora." },
+    { "nl": "Goedenacht, tot morgen!", "it": "Buonanotte, a domani!" }
+  ],
+  "invuloefeningen": [
+    { "zin": "Buongiorno, come ___? (formeel)", "antwoord": "sta" },
+    { "zin": "Ciao, come ___? (informeel)", "antwoord": "stai" },
+    { "zin": "___ bene, grazie.", "antwoord": "Sto" },
+    { "zin": "Mi ___ Anna.", "antwoord": "chiamo" },
+    { "zin": "___ olandese.", "antwoord": "Sono" },
+    { "zin": "Dove ___? – Abito a Roma.", "antwoord": "abiti" },
+    { "zin": "Lui ___ italiano.", "antwoord": "è" },
+    { "zin": "Le ___ il signor Rivelli.", "antwoord": "presento" },
+    { "zin": "Lei ___ tedesca.", "antwoord": "è" },
+    { "zin": "___, come sta? (goedenavond)", "antwoord": "Buonasera" },
+    { "zin": "Come si ___? – Mi chiamo Marco.", "antwoord": "chiama" },
+    { "zin": "Di dove ___? – Sono di Roma.", "antwoord": "sei" },
+    { "zin": "___ a Milano. (ik woon)", "antwoord": "Abito" },
+    { "zin": "Io ___ bene, e tu? (stare)", "antwoord": "sto" },
+    { "zin": "Tu ___ francese? (essere)", "antwoord": "sei" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Hoe zeg je formeel 'Hoe gaat het met u?'",
+      "opties": ["Come sta?", "Come stai?", "Come sei?", "Come vai?"],
+      "antwoord": "Come sta?",
+      "uitleg": "'Come sta?' is de formele vorm (Lei). 'Come stai?' is informeel (tu). 'Stare' gebruik je om te vragen hoe het gaat."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Io ___ bene.'",
+      "opties": ["sto", "sta", "stai", "sono"],
+      "antwoord": "sto",
+      "uitleg": "Stare: io sto, tu stai, lui/lei sta. 'Sto bene' = het gaat goed met mij."
+    },
+    {
+      "vraag": "Hoe stel je jezelf voor in het Italiaans?",
+      "opties": ["Mi chiamo...", "Io chiamo...", "Mi sono...", "Io mi presento..."],
+      "antwoord": "Mi chiamo...",
+      "uitleg": "'Chiamarsi' is een wederkerend werkwoord: mi chiamo = ik heet (letterlijk: ik noem mij)."
+    },
+    {
+      "vraag": "Welke begroeting gebruik je 's avonds?",
+      "opties": ["Buonasera", "Buongiorno", "Buonanotte", "Salve"],
+      "antwoord": "Buonasera",
+      "uitleg": "'Buonasera' = goedenavond. 'Buonanotte' gebruik je alleen als je gaat slapen."
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'ciao' en 'arrivederci'?",
+      "opties": ["Ciao is informeel, arrivederci is formeel", "Ciao is formeel, arrivederci is informeel", "Ze betekenen hetzelfde", "Ciao is alleen voor begroeten"],
+      "antwoord": "Ciao is informeel, arrivederci is formeel",
+      "uitleg": "'Ciao' gebruik je bij vrienden en bekenden (tu). 'Arrivederci' is beleefd/formeel (Lei)."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging van 'essere'? 'Tu ___ olandese.'",
+      "opties": ["sei", "è", "sono", "siamo"],
+      "antwoord": "sei",
+      "uitleg": "Essere: io sono, tu sei, lui/lei è. 'Tu sei olandese' = jij bent Nederlands."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging van 'abitare'? 'Lei ___ a Firenze.'",
+      "opties": ["abita", "abiti", "abito", "abitano"],
+      "antwoord": "abita",
+      "uitleg": "Abitare: io abito, tu abiti, lui/lei abita. Bij formeel 'Lei' gebruik je de derde persoon: Lei abita."
+    },
+    {
+      "vraag": "Hoe vraag je 'Waar woon je?' in het Italiaans?",
+      "opties": ["Dove abiti?", "Dove sei?", "Dove stai?", "Come abiti?"],
+      "antwoord": "Dove abiti?",
+      "uitleg": "'Dove' = waar. 'Abitare' = wonen. Dove abiti? = Waar woon je?"
+    },
+    {
+      "vraag": "Hoe zeg je 'Zij is Franse' (vrouw)?",
+      "opties": ["Lei è francese.", "Lei è franceso.", "Lei è francia.", "Lei è francesa."],
+      "antwoord": "Lei è francese.",
+      "uitleg": "Nationaliteiten op -ese (francese, inglese, olandese) veranderen niet voor mannelijk/vrouwelijk."
+    },
+    {
+      "vraag": "Hoe zeg je 'Zij is Italiaanse' (vrouw)?",
+      "opties": ["Lei è italiana.", "Lei è italiano.", "Lei è italiane.", "Lei è italianese."],
+      "antwoord": "Lei è italiana.",
+      "uitleg": "Nationaliteiten op -o/-a veranderen wel: italiano (man) → italiana (vrouw), tedesco → tedesca."
+    },
+    {
+      "vraag": "Welk bepaald lidwoord gebruik je bij 'signore'?",
+      "opties": ["il", "la", "lo", "l'"],
+      "antwoord": "il",
+      "uitleg": "'Il' is het mannelijk bepaald lidwoord enkelvoud: il signore, il libro. 'Lo' gebruik je voor s+medeklinker, z, gn, ps."
+    },
+    {
+      "vraag": "Welk bepaald lidwoord gebruik je bij 'amica'?",
+      "opties": ["l'", "la", "il", "lo"],
+      "antwoord": "l'",
+      "uitleg": "Voor vrouwelijke woorden die beginnen met een klinker gebruik je 'l'': l'amica, l'università."
+    },
+    {
+      "vraag": "Hoe spreek je 'ci' uit in 'arrivederci'?",
+      "opties": ["tsji", "ki", "si", "tsj"],
+      "antwoord": "tsji",
+      "uitleg": "De c voor e of i klinkt als 'tsj': ciao, città, arrivederci. Voor a, o, u klinkt c als 'k': casa, come, cuore."
+    },
+    {
+      "vraag": "Hoe spreek je 'che' uit in 'che'?",
+      "opties": ["ke", "tsje", "sje", "tse"],
+      "antwoord": "ke",
+      "uitleg": "De combinatie 'ch' voor e of i klinkt als 'k': che, chi, anche. De h maakt de c hard."
+    },
+    {
+      "vraag": "Hoe spreek je 'gi' uit in 'giorno'?",
+      "opties": ["dzji", "gi", "ji", "ki"],
+      "antwoord": "dzji",
+      "uitleg": "De g voor e of i klinkt als 'dzj': giorno, gente. Voor a, o, u klinkt g hard: gatto, grande."
+    },
+    {
+      "vraag": "Hoe spreek je 'ghi' uit in 'ghiaccio'?",
+      "opties": ["gi", "dzji", "ki", "chi"],
+      "antwoord": "gi",
+      "uitleg": "De combinatie 'gh' voor e of i klinkt als een harde g: ghiaccio, spaghetti. De h maakt de g hard."
+    },
+    {
+      "vraag": "Welke zin is een formeel afscheid?",
+      "opties": ["Arrivederci, signora.", "Ciao, ci vediamo!", "Ciao ciao!", "A dopo!"],
+      "antwoord": "Arrivederci, signora.",
+      "uitleg": "'Arrivederci' is het formele afscheid. 'Ciao' is informeel."
+    },
+    {
+      "vraag": "Hoe vraag je formeel 'Hoe heet u?'",
+      "opties": ["Come si chiama?", "Come ti chiami?", "Come si chiami?", "Come ti chiama?"],
+      "antwoord": "Come si chiama?",
+      "uitleg": "Formeel: 'Come si chiama?' (Lei). Informeel: 'Come ti chiami?' (tu)."
+    },
+    {
+      "vraag": "Wat antwoord je op 'Piacere!'?",
+      "opties": ["Piacere!", "Grazie!", "Bene!", "Ciao!"],
+      "antwoord": "Piacere!",
+      "uitleg": "Op 'Piacere!' (aangenaam!) antwoord je ook 'Piacere!' of 'Piacere mio!' (het genoegen is aan mij)."
+    },
+    {
+      "vraag": "Welk bepaald lidwoord gebruik je bij 'città'?",
+      "opties": ["la", "il", "lo", "l'"],
+      "antwoord": "la",
+      "uitleg": "Vrouwelijke woorden op -à krijgen 'la': la città, la libertà. Vrouwelijke woorden op een klinker + klinker krijgen 'l''."
+    }
+  ],
+  "grammatica": [
+    { "titel": "Stare (1e–3e persoon enkelvoud)", "uitleg": "io sto, tu stai, lui/lei sta. Gebruik 'stare' om te vragen/zeggen hoe het gaat: Come stai? – Sto bene. Formeel: Come sta? – Sto bene, grazie." },
+    { "titel": "Essere (1e–3e persoon enkelvoud)", "uitleg": "io sono, tu sei, lui/lei è. Gebruik 'essere' voor nationaliteit, beroep en identiteit: Sono olandese. Sei italiano? Lui è il signor Rivelli." },
+    { "titel": "Abitare (1e–3e persoon enkelvoud)", "uitleg": "io abito, tu abiti, lui/lei abita. Regelmatig werkwoord op -are. Dove abiti? – Abito a Roma. Lei abita a Milano." },
+    { "titel": "Bepaald lidwoord: enkelvoud", "uitleg": "Mannelijk: il (il signore, il libro), lo (voor s+medeklin., z, gn, ps: lo studente, lo zaino), l' (voor klinker: l'amico). Vrouwelijk: la (la signora, la città), l' (voor klinker: l'amica)." },
+    { "titel": "Nationaliteitsaanduidingen", "uitleg": "Op -o/-a: italiano/italiana, tedesco/tedesca, spagnolo/spagnola. Op -ese (onveranderlijk m/v): olandese, francese, inglese. Nationaliteiten schrijf je met een kleine letter: sono olandese." },
+    { "titel": "Uitspraak van c en g", "uitleg": "C voor e/i = 'tsj': ciao, città, cinema. C voor a/o/u = 'k': casa, come, cuore. CH voor e/i = 'k': che, chi. G voor e/i = 'dzj': giorno, gente. G voor a/o/u = harde g: gatto, grande. GH voor e/i = harde g: spaghetti, ghiaccio." }
+  ],
+  "luisteroefeningen": [],
+  "schrijfopdrachten": []
+}

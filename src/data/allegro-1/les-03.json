@@ -1,0 +1,205 @@
+{
+  "id": 3,
+  "titel": "Lezione 3 – Prendi un caffè?",
+  "woorden": [
+    { "it": "il caffè", "nl": "de koffie", "voorbeeld": "Prendo un caffè, per favore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il cappuccino", "nl": "de cappuccino", "voorbeeld": "Un cappuccino con brioche.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il tè", "nl": "de thee", "voorbeeld": "Un tè al limone.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'aperitivo", "nl": "de aperitief", "voorbeeld": "Prendiamo un aperitivo?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la birra", "nl": "het bier", "voorbeeld": "Una birra, per favore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il vino", "nl": "de wijn", "voorbeeld": "Un bicchiere di vino rosso.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'acqua", "nl": "het water", "voorbeeld": "Un'acqua minerale, per favore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il cornetto", "nl": "het croissantje", "voorbeeld": "Un cornetto alla crema.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il panino", "nl": "het broodje", "voorbeeld": "Un panino al prosciutto.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il gelato", "nl": "het ijs", "voorbeeld": "Un gelato alla fragola.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il conto", "nl": "de rekening", "voorbeeld": "Il conto, per favore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il ristorante", "nl": "het restaurant", "voorbeeld": "Andiamo al ristorante!", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il bar", "nl": "de bar / het café", "voorbeeld": "In Italia si paga alla cassa del bar.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il menù", "nl": "het menu", "voorbeeld": "Il menù, per favore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il primo", "nl": "het eerste gerecht", "voorbeeld": "Come primo prendo la pasta.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il secondo", "nl": "het hoofdgerecht", "voorbeeld": "Come secondo vorrei il pesce.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il contorno", "nl": "het bijgerecht", "voorbeeld": "Come contorno un'insalata.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il dolce", "nl": "het nagerecht", "voorbeeld": "Come dolce prendo il tiramisù.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "prendere", "nl": "nemen / pakken", "voorbeeld": "Cosa prendi? Prendo un caffè.", "woordsoort": "werkwoord" },
+    { "it": "avere", "nl": "hebben", "voorbeeld": "Avete un tavolo per due?", "woordsoort": "werkwoord" },
+    { "it": "ordinare", "nl": "bestellen", "voorbeeld": "Volete ordinare?", "woordsoort": "werkwoord" },
+    { "it": "buono", "nl": "goed / lekker", "voorbeeld": "Il caffè è buono.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "caldo", "nl": "warm / heet", "voorbeeld": "Il caffè è molto caldo.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "freddo", "nl": "koud", "voorbeeld": "Una birra fredda, per favore.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "dolce", "nl": "zoet", "voorbeeld": "Il cornetto è molto dolce.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "amaro", "nl": "bitter", "voorbeeld": "Il caffè è un po' amaro.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "la cassa", "nl": "de kassa", "voorbeeld": "Si paga alla cassa.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "lo scontrino", "nl": "het bonnetje / de kassabon", "voorbeeld": "Ecco lo scontrino.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la colazione", "nl": "het ontbijt", "voorbeeld": "A colazione prendo un cappuccino.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "quanto costa?", "nl": "hoeveel kost het?", "voorbeeld": "Quanto costa un caffè?", "woordsoort": "uitdrukking" }
+  ],
+  "zinnen": [
+    { "nl": "Nemen we een aperitief?", "it": "Prendiamo un aperitivo?" },
+    { "nl": "Wat neem jij?", "it": "Cosa prendi?" },
+    { "nl": "Ik neem een koffie.", "it": "Prendo un caffè." },
+    { "nl": "Willen jullie bestellen?", "it": "Volete ordinare?" },
+    { "nl": "Heeft u een tafel voor twee?", "it": "Avete un tavolo per due?" },
+    { "nl": "Een biertje, alstublieft.", "it": "Una birra, per favore." },
+    { "nl": "De rekening, alstublieft.", "it": "Il conto, per favore." },
+    { "nl": "Hoeveel kost het?", "it": "Quanto costa?" },
+    { "nl": "Hoe is de koffie?", "it": "Com'è il caffè?" },
+    { "nl": "De koffie is lekker.", "it": "Il caffè è buono." },
+    { "nl": "Wat heeft u vandaag lekkers?", "it": "Che cosa avete di buono oggi?" },
+    { "nl": "We gaan naar het restaurant!", "it": "Andiamo al ristorante!" },
+    { "nl": "Als eerste neem ik de pasta.", "it": "Come primo prendo la pasta." },
+    { "nl": "In Italië betaal je aan de kassa.", "it": "In Italia si paga alla cassa." },
+    { "nl": "Zij hebben twee kinderen.", "it": "Loro hanno due figli." }
+  ],
+  "invuloefeningen": [
+    { "zin": "Cosa ___? – Prendo un caffè. (prendere, tu)", "antwoord": "prendi" },
+    { "zin": "Noi ___ un aperitivo. (prendere)", "antwoord": "prendiamo" },
+    { "zin": "___ un tavolo per due? (avere, voi)", "antwoord": "Avete" },
+    { "zin": "Io ___ due fratelli. (avere)", "antwoord": "ho" },
+    { "zin": "Lei ___ fame? (avere)", "antwoord": "ha" },
+    { "zin": "___ birra, per favore. (onbepaald lidwoord, vrouwelijk)", "antwoord": "Una" },
+    { "zin": "___ caffè, per favore. (onbepaald lidwoord, mannelijk)", "antwoord": "Un" },
+    { "zin": "Quanto ___ un cappuccino? (kosten)", "antwoord": "costa" },
+    { "zin": "Il caffè è molto ___. (lekker)", "antwoord": "buono" },
+    { "zin": "I panini ___ buoni. (essere)", "antwoord": "sono" },
+    { "zin": "Le birre ___ fredde. (essere)", "antwoord": "sono" },
+    { "zin": "Due caffè e ___ cornetti. (twee)", "antwoord": "due" },
+    { "zin": "Come ___ prendo la pasta. (eerste gerecht)", "antwoord": "primo" },
+    { "zin": "Loro ___ tre figli. (avere)", "antwoord": "hanno" },
+    { "zin": "Noi ___ fame. (avere)", "antwoord": "abbiamo" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Io ___ un caffè.' (prendere)",
+      "opties": ["prendo", "prendi", "prende", "prendiamo"],
+      "antwoord": "prendo",
+      "uitleg": "Prendere: io prendo, tu prendi, lui/lei prende, noi prendiamo, voi prendete, loro prendono."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Noi ___ un cane.' (avere)",
+      "opties": ["abbiamo", "avete", "hanno", "ho"],
+      "antwoord": "abbiamo",
+      "uitleg": "Avere: io ho, tu hai, lui/lei ha, noi abbiamo, voi avete, loro hanno."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Loro ___ tre figli.' (avere)",
+      "opties": ["hanno", "abbiamo", "avete", "ha"],
+      "antwoord": "hanno",
+      "uitleg": "Avere: loro hanno. Let op de dubbele 'n': hanno."
+    },
+    {
+      "vraag": "Welk onbepaald lidwoord hoort bij 'caffè'?",
+      "opties": ["un", "uno", "una", "un'"],
+      "antwoord": "un",
+      "uitleg": "Mannelijk: 'un' voor de meeste woorden (un caffè, un panino). 'Uno' voor s+medeklinker, z, gn, ps (uno studente)."
+    },
+    {
+      "vraag": "Welk onbepaald lidwoord hoort bij 'amica'?",
+      "opties": ["un'", "una", "un", "uno"],
+      "antwoord": "un'",
+      "uitleg": "Vrouwelijk voor klinker: un'amica, un'acqua. De apostrof vervangt de weggevallen -a van 'una'."
+    },
+    {
+      "vraag": "Welk onbepaald lidwoord hoort bij 'birra'?",
+      "opties": ["una", "un'", "un", "uno"],
+      "antwoord": "una",
+      "uitleg": "Vrouwelijk voor medeklinker: una birra, una pizza. Bij klinker wordt het un': un'aranciata."
+    },
+    {
+      "vraag": "Welk onbepaald lidwoord hoort bij 'studente'?",
+      "opties": ["uno", "un", "una", "un'"],
+      "antwoord": "uno",
+      "uitleg": "'Uno' gebruik je voor mannelijke woorden die beginnen met s+medeklinker, z, gn, ps: uno studente, uno zaino."
+    },
+    {
+      "vraag": "Wat is het meervoud van 'il panino'?",
+      "opties": ["i panini", "le panine", "i paninos", "gli panini"],
+      "antwoord": "i panini",
+      "uitleg": "Mannelijk -o → -i: il panino → i panini. Lidwoord: il → i."
+    },
+    {
+      "vraag": "Wat is het meervoud van 'la birra'?",
+      "opties": ["le birre", "i birri", "la birre", "le birra"],
+      "antwoord": "le birre",
+      "uitleg": "Vrouwelijk -a → -e: la birra → le birre. Lidwoord: la → le."
+    },
+    {
+      "vraag": "Wat is het meervoud van 'il ristorante'?",
+      "opties": ["i ristoranti", "le ristoranti", "i ristorante", "gli ristoranti"],
+      "antwoord": "i ristoranti",
+      "uitleg": "Mannelijk -e → -i: il ristorante → i ristoranti. Lidwoord: il → i."
+    },
+    {
+      "vraag": "Wat is het meervoud van 'il bar'?",
+      "opties": ["i bar", "i bari", "le bar", "gli bar"],
+      "antwoord": "i bar",
+      "uitleg": "Woorden die eindigen op een beklemtoonde klinker of medeklinker veranderen niet in het meervoud: il bar → i bar, il caffè → i caffè."
+    },
+    {
+      "vraag": "Welk bijvoeglijk naamwoord past? 'La pizza è ___.' (lekker, vrouwelijk)",
+      "opties": ["buona", "buono", "buoni", "buone"],
+      "antwoord": "buona",
+      "uitleg": "Bijvoeglijk naamwoord enkelvoud past zich aan: buono (m), buona (v). Meervoud: buoni (m), buone (v)."
+    },
+    {
+      "vraag": "Wat betekent 'Quanto costa?'",
+      "opties": ["Hoeveel kost het?", "Wat is het?", "Hoe is het?", "Waar is het?"],
+      "antwoord": "Hoeveel kost het?",
+      "uitleg": "'Quanto' = hoeveel, 'costare' = kosten. Quanto costa? = Hoeveel kost het? Quanto costano? = Hoeveel kosten ze?"
+    },
+    {
+      "vraag": "Hoe vraag je wat er lekkers is in een restaurant?",
+      "opties": ["Che cosa avete di buono oggi?", "Cosa c'è di male oggi?", "Come è il menù?", "Quanto costa oggi?"],
+      "antwoord": "Che cosa avete di buono oggi?",
+      "uitleg": "'Che cosa avete di buono oggi?' = Wat heeft u vandaag lekkers? Een veelgebruikte zin in restaurants."
+    },
+    {
+      "vraag": "Wat is het bepaald lidwoord meervoud bij 'gli'?",
+      "opties": ["Voor mannelijke woorden op klinker, s+medeklin., z", "Voor alle mannelijke woorden", "Voor vrouwelijke woorden", "Voor alle meervoudswoorden"],
+      "antwoord": "Voor mannelijke woorden op klinker, s+medeklin., z",
+      "uitleg": "Bepaald lidwoord meervoud: i (il → i), gli (lo/l' → gli: gli studenti, gli amici), le (la/l' → le: le ragazze, le amiche)."
+    },
+    {
+      "vraag": "Hoe spreek je 'gn' uit in 'gnocchi'?",
+      "opties": ["nj", "gn", "n", "g"],
+      "antwoord": "nj",
+      "uitleg": "'Gn' klinkt als 'nj' (zoals in het Nederlandse 'oranje'): gnocchi, bagno, lavagna, cognome."
+    },
+    {
+      "vraag": "Hoe spreek je 'gl' uit in 'famiglia'?",
+      "opties": ["lj", "gl", "g", "l"],
+      "antwoord": "lj",
+      "uitleg": "'Gli' klinkt als 'lj': famiglia, figlio, moglie, bottiglia, aglio."
+    },
+    {
+      "vraag": "Wat is het correcte meervoud? 'Lo studente → ___'",
+      "opties": ["gli studenti", "i studenti", "le studenti", "lo studenti"],
+      "antwoord": "gli studenti",
+      "uitleg": "Lo → gli in het meervoud: lo studente → gli studenti, lo zaino → gli zaini."
+    },
+    {
+      "vraag": "Hoe betaal je in een Italiaanse bar?",
+      "opties": ["Eerst aan de kassa, dan met het bonnetje bestellen", "Direct aan de barman", "Na het drinken aan de ober", "Met een app"],
+      "antwoord": "Eerst aan de kassa, dan met het bonnetje bestellen",
+      "uitleg": "In een traditionele Italiaanse bar betaal je eerst aan de kassa (la cassa), krijg je een bonnetje (lo scontrino), en bestel je daarmee aan de bar."
+    },
+    {
+      "vraag": "Hoeveel is 'settantacinque'?",
+      "opties": ["75", "57", "175", "65"],
+      "antwoord": "75",
+      "uitleg": "Settanta (70) + cinque (5) = settantacinque (75). Tientallen: venti, trenta, quaranta, cinquanta, sessanta, settanta, ottanta, novanta."
+    }
+  ],
+  "grammatica": [
+    { "titel": "Prendere (regelmatig -ere werkwoord)", "uitleg": "io prendo, tu prendi, lui/lei prende, noi prendiamo, voi prendete, loro prendono. Regelmatige -ere werkwoorden volgen dit patroon. Andere voorbeelden: scrivere (schrijven), leggere (lezen), vivere (leven)." },
+    { "titel": "Avere (onregelmatig)", "uitleg": "io ho, tu hai, lui/lei ha, noi abbiamo, voi avete, loro hanno. Let op de stomme h in ho, hai, ha, hanno. Avere wordt ook gebruikt voor leeftijd: Ho 25 anni." },
+    { "titel": "Onbepaald lidwoord", "uitleg": "Mannelijk: un (un caffè, un gelato), uno (voor s+medeklin., z, gn, ps: uno studente, uno zaino). Vrouwelijk: una (una birra, una pizza), un' (voor klinker: un'amica, un'acqua)." },
+    { "titel": "Telwoorden 1–20", "uitleg": "1 uno, 2 due, 3 tre, 4 quattro, 5 cinque, 6 sei, 7 sette, 8 otto, 9 nove, 10 dieci, 11 undici, 12 dodici, 13 tredici, 14 quattordici, 15 quindici, 16 sedici, 17 diciassette, 18 diciotto, 19 diciannove, 20 venti." },
+    { "titel": "Telwoorden tientallen en honderdtallen", "uitleg": "20 venti, 30 trenta, 40 quaranta, 50 cinquanta, 60 sessanta, 70 settanta, 80 ottanta, 90 novanta, 100 cento. Samengesteld: ventuno (21), trentadue (32), quarantatré (43). 200 duecento, 500 cinquecento, 1000 mille, 2000 duemila." },
+    { "titel": "Zelfstandig naamwoord: meervoud", "uitleg": "Mannelijk -o → -i: il panino → i panini. Vrouwelijk -a → -e: la birra → le birre. Woorden op -e → -i: il ristorante → i ristoranti, la stazione → le stazioni. Onveranderlijk: il caffè → i caffè, il bar → i bar." },
+    { "titel": "Bijvoeglijk naamwoord: enkelvoud", "uitleg": "Op -o/-a: buono/buona, freddo/fredda, caldo/calda. Past aan aan het zelfstandig naamwoord: il caffè caldo, la birra fredda. Op -e (onveranderlijk m/v): grande, dolce: il caffè dolce, la torta grande." },
+    { "titel": "Bepaald lidwoord: meervoud", "uitleg": "il → i (i panini), lo → gli (gli studenti, gli zaini), l' (m) → gli (gli amici), la → le (le birre), l' (v) → le (le amiche). 'Gli' gebruik je voor mannelijke woorden die beginnen met een klinker, s+medeklin., z, gn, ps." },
+    { "titel": "Uitspraak van gn en gl", "uitleg": "Gn = 'nj': gnocchi, bagno, lavagna, cognome, ogni, campagna. Gli = 'lj': famiglia, figlio, moglie, bottiglia, aglio, foglio. Uitzondering: 'glicine' en woorden van Griekse oorsprong: gli = 'gli'." }
+  ],
+  "luisteroefeningen": [],
+  "schrijfopdrachten": []
+}

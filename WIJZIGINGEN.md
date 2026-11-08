@@ -403,3 +403,19 @@ git checkout <commit-hash> -- .
 - Communicatie: de weg vragen en wijzen, plaatsen beschrijven, kloktijden vragen en geven, openingstijden opvragen
 
 **Resultaat:** Het leerpad Allegro 1 toont nu 5 lessen met alle zes oefenvormen.
+
+---
+
+## Stap 27 – Allegro 1: Hoofdstuk 6 "Che cosa hai fatto ieri?" (2026-11-08)
+
+**Wat:** Het zesde hoofdstuk van het leerpad Allegro 1 toegevoegd (boek-lezione 8). Thema: vertellen wat je gedaan hebt, voorkeuren, familie.
+
+**Gewijzigde bestanden:**
+- `src/data/allegro-1/les-06.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 6 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: piacere (mi piace/mi piacciono, met persoonlijke voornaamwoorden), passato prossimo met essere (sono andato/a, sono nato/a), verschil essere vs. avere in passato prossimo, onregelmatig voltooid deelwoord (fatto, visto, letto, scritto, stato, nato, preso, aperto, detto, messo), familiebanden (padre, madre, fratello, sorella, marito, moglie, figlio, figlia, nonno, genitori), bezittelijk voornaamwoord alle vormen (mio/tuo/suo/nostro/vostro/loro, met en zonder lidwoord)
+- Woordenschat: familie, muziek en cultuur (concerto, film, festa), tijdsuitdrukkingen (ieri), werkwoorden met essere (nascere, andare, tornare, stare)
+- Communicatie: vertellen wat je gedaan hebt, voorkeuren uitdrukken, over familie vertellen, geboortejaar en -plaats aangeven
+
+**Resultaat:** Het leerpad Allegro 1 toont nu 6 lessen met alle zes oefenvormen.

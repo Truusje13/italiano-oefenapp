@@ -371,3 +371,19 @@ git checkout <commit-hash> -- .
 - Communicatie: bestellen aan de kassa van een Italiaanse bar, prijzen vragen en verstaan, bestellen in een café en restaurant, een menukaart begrijpen, eetgewoontes bij het ontbijt
 
 **Resultaat:** Het leerpad Allegro 1 toont nu 3 lessen met alle zes oefenvormen.
+
+---
+
+## Stap 25 – Allegro 1: Hoofdstuk 4 "Tu che cosa fai?" (2026-11-08)
+
+**Wat:** Het vierde hoofdstuk van het leerpad Allegro 1 toegevoegd (boek-lezione 5). Thema: beroepen, dagindeling en afzeggingen.
+
+**Gewijzigde bestanden:**
+- `src/data/allegro-1/les-04.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 9 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: fare (onregelmatig: faccio/fai/fa/facciamo/fate/fanno), finire en -isc-werkwoorden (finisco, pulisco, capisco), potere (posso/puoi/può/possiamo/potete/possono), dovere (devo/devi/deve/dobbiamo/dovete/devono), beroepsbenamingen met fare + lidwoord, bezittelijk voornaamwoord (mio/tuo/suo + uitzondering familieleden), bijvoeglijk naamwoord meervoud, dagdelen en dagen van de week, uitspraak dubbele medeklinkers
+- Woordenschat: beroepen (tassista, medico, insegnante, impiegato, cameriere, cuoco), werk (lavoro, ufficio), dagindeling (mattina, pomeriggio, sera), huishouden (cucinare, pulire, stirare), bezittelijk (mio/tuo/suo)
+- Communicatie: over je beroep vertellen, dagindeling beschrijven, leeftijd vragen en geven, een afzegging formuleren, een reden geven
+
+**Resultaat:** Het leerpad Allegro 1 toont nu 4 lessen met alle zes oefenvormen.

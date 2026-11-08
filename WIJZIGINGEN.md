@@ -339,3 +339,19 @@ git checkout <commit-hash> -- .
 - Communicatie: begroeten en afscheid nemen (formeel/informeel), zich en iemand anders voorstellen, herkomst en woonplaats aangeven, nationaliteit aangeven
 
 **Resultaat:** Het leerpad Allegro 1 toont nu 1 les met alle zes oefenvormen: woorden, flashcards, meerkeuze, invullen, vertalen en grammatica.
+
+---
+
+## Stap 23 – Allegro 1: Hoofdstuk 2 "Dove vai?" (2026-11-08)
+
+**Wat:** Het tweede hoofdstuk van het leerpad Allegro 1 toegevoegd, gebaseerd op de inhoudsopgave van het werkboek.
+
+**Gewijzigde bestanden:**
+- `src/data/allegro-1/les-02.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 8 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: essere (meervoud: siamo/siete/sono), abitare (meervoud: abitiamo/abitate/abitano), andare (onregelmatig: vado/vai/va/andiamo/andate/vanno), ontkenning met 'non', c'è/ci sono + bepaald lidwoord, zelfstandig naamwoord enkelvoud (geslacht -o/-a/-e), het alfabet en spellen, uitspraak van sc en sch
+- Woordenschat: trein en reizen (treno, biglietto, stazione, binario, andata e ritorno), hotel (albergo, camera singola/doppia, prenotazione, colazione), vakantie (viaggio, vacanza, mare, spiaggia), werkwoorden (andare, partire, arrivare, prenotare, pagare), vraagwoorden (quando, perché)
+- Communicatie: reisdoel en reden aangeven, een treinkaartje kopen, een hotelkamer reserveren, ontkennen, spellen (alfabet met stadsnamen)
+
+**Resultaat:** Het leerpad Allegro 1 toont nu 2 lessen met alle zes oefenvormen.

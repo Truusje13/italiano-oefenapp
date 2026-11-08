@@ -1,0 +1,204 @@
+{
+  "id": 2,
+  "titel": "Lezione 2 – Dove vai?",
+  "woorden": [
+    { "it": "il treno", "nl": "de trein", "voorbeeld": "Prendo il treno per Roma.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il biglietto", "nl": "het kaartje", "voorbeeld": "Un biglietto per Firenze, per favore.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la stazione", "nl": "het station", "voorbeeld": "La stazione è in centro.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il binario", "nl": "het perron / spoor", "voorbeeld": "Il treno parte dal binario 3.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'albergo", "nl": "het hotel", "voorbeeld": "L'albergo è vicino alla stazione.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la camera", "nl": "de kamer", "voorbeeld": "Vorrei prenotare una camera.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la camera singola", "nl": "de eenpersoonskamer", "voorbeeld": "Una camera singola per due notti.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la camera doppia", "nl": "de tweepersoonskamer", "voorbeeld": "Avete una camera doppia?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la prenotazione", "nl": "de reservering", "voorbeeld": "Ho una prenotazione a nome Rossi.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la notte", "nl": "de nacht", "voorbeeld": "Per quante notti?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la colazione", "nl": "het ontbijt", "voorbeeld": "La colazione è inclusa.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il viaggio", "nl": "de reis", "voorbeeld": "Buon viaggio!", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la vacanza", "nl": "de vakantie", "voorbeeld": "Vado in vacanza in Italia.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il mare", "nl": "de zee", "voorbeeld": "Senigallia è sul mare.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la spiaggia", "nl": "het strand", "voorbeeld": "La spiaggia è bellissima.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "andare", "nl": "gaan", "voorbeeld": "Dove vai? Vado a Roma.", "woordsoort": "werkwoord" },
+    { "it": "partire", "nl": "vertrekken", "voorbeeld": "Il treno parte alle otto.", "woordsoort": "werkwoord" },
+    { "it": "arrivare", "nl": "aankomen", "voorbeeld": "A che ora arrivi?", "woordsoort": "werkwoord" },
+    { "it": "prenotare", "nl": "reserveren", "voorbeeld": "Vorrei prenotare una camera.", "woordsoort": "werkwoord" },
+    { "it": "pagare", "nl": "betalen", "voorbeeld": "Come vuole pagare?", "woordsoort": "werkwoord" },
+    { "it": "c'è", "nl": "er is", "voorbeeld": "C'è un treno per Milano?", "woordsoort": "uitdrukking" },
+    { "it": "ci sono", "nl": "er zijn", "voorbeeld": "Ci sono due treni al giorno.", "woordsoort": "uitdrukking" },
+    { "it": "vorrei", "nl": "ik zou willen", "voorbeeld": "Vorrei un'informazione.", "woordsoort": "werkwoord" },
+    { "it": "quando", "nl": "wanneer", "voorbeeld": "Quando parte il treno?", "woordsoort": "vraagwoord" },
+    { "it": "perché", "nl": "waarom / omdat", "voorbeeld": "Perché vai a Roma? – Per lavoro.", "woordsoort": "vraagwoord" },
+    { "it": "andata e ritorno", "nl": "retour (heen en terug)", "voorbeeld": "Un biglietto andata e ritorno.", "woordsoort": "uitdrukking" },
+    { "it": "solo andata", "nl": "enkele reis", "voorbeeld": "Un biglietto solo andata.", "woordsoort": "uitdrukking" },
+    { "it": "non", "nl": "niet", "voorbeeld": "Non vado a Roma.", "woordsoort": "bijwoord" },
+    { "it": "l'alfabeto", "nl": "het alfabet", "voorbeeld": "Come si scrive? Può ripetere lettera per lettera?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "come si scrive?", "nl": "hoe schrijf je dat?", "voorbeeld": "Come si scrive il suo cognome?", "woordsoort": "uitdrukking" }
+  ],
+  "zinnen": [
+    { "nl": "Waar ga je naartoe?", "it": "Dove vai?" },
+    { "nl": "Ik ga naar Rome.", "it": "Vado a Roma." },
+    { "nl": "Wanneer vertrekt de trein?", "it": "Quando parte il treno?" },
+    { "nl": "Is er een trein naar Milaan?", "it": "C'è un treno per Milano?" },
+    { "nl": "Een retourkaartje naar Florence, alstublieft.", "it": "Un biglietto andata e ritorno per Firenze, per favore." },
+    { "nl": "Ik zou graag een kamer willen reserveren.", "it": "Vorrei prenotare una camera." },
+    { "nl": "Heeft u een tweepersoonskamer?", "it": "Avete una camera doppia?" },
+    { "nl": "Voor hoeveel nachten?", "it": "Per quante notti?" },
+    { "nl": "Is het ontbijt inbegrepen?", "it": "La colazione è inclusa?" },
+    { "nl": "Ik ga niet naar Milaan.", "it": "Non vado a Milano." },
+    { "nl": "Wij gaan naar het strand.", "it": "Andiamo alla spiaggia." },
+    { "nl": "Hoe schrijf je dat?", "it": "Come si scrive?" },
+    { "nl": "Hoe heet u van achternaam?", "it": "Come si chiama di cognome?" },
+    { "nl": "De trein vertrekt van spoor 3.", "it": "Il treno parte dal binario 3." },
+    { "nl": "Er zijn twee treinen per dag.", "it": "Ci sono due treni al giorno." }
+  ],
+  "invuloefeningen": [
+    { "zin": "Dove ___? – Vado a Roma. (andare, tu)", "antwoord": "vai" },
+    { "zin": "___ un treno per Milano? (er is)", "antwoord": "C'è" },
+    { "zin": "Noi ___ in vacanza in Italia. (andare)", "antwoord": "andiamo" },
+    { "zin": "Il treno ___ alle otto. (vertrekken)", "antwoord": "parte" },
+    { "zin": "___ prenotare una camera. (ik zou willen)", "antwoord": "Vorrei" },
+    { "zin": "Loro ___ a Firenze domani. (andare)", "antwoord": "vanno" },
+    { "zin": "Io ___ vado a Milano. (ontkenning)", "antwoord": "non" },
+    { "zin": "___ si scrive il suo cognome?", "antwoord": "Come" },
+    { "zin": "Un biglietto ___ e ritorno per Roma.", "antwoord": "andata" },
+    { "zin": "La colazione ___ inclusa? (essere)", "antwoord": "è" },
+    { "zin": "Voi ___ a Venezia? (andare)", "antwoord": "andate" },
+    { "zin": "___ due treni al giorno. (er zijn)", "antwoord": "Ci sono" },
+    { "zin": "L'albergo ___ vicino alla stazione. (essere)", "antwoord": "è" },
+    { "zin": "Per ___ notti? – Per tre notti. (hoeveel)", "antwoord": "quante" },
+    { "zin": "Noi ___ olandesi. (essere)", "antwoord": "siamo" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Noi ___ a Roma.' (andare)",
+      "opties": ["andiamo", "vanno", "andate", "vado"],
+      "antwoord": "andiamo",
+      "uitleg": "Andare: io vado, tu vai, lui/lei va, noi andiamo, voi andate, loro vanno."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Loro ___ in Italia.' (andare)",
+      "opties": ["vanno", "andiamo", "andate", "vai"],
+      "antwoord": "vanno",
+      "uitleg": "Andare: loro vanno. Let op: andare is onregelmatig in alle personen."
+    },
+    {
+      "vraag": "Hoe zeg je 'er is' in het Italiaans?",
+      "opties": ["c'è", "ci sono", "è", "sono"],
+      "antwoord": "c'è",
+      "uitleg": "'C'è' = er is (enkelvoud). 'Ci sono' = er zijn (meervoud). C'è un treno. Ci sono due treni."
+    },
+    {
+      "vraag": "Welke zin is correct? 'Er zijn drie kamers.'",
+      "opties": ["Ci sono tre camere.", "C'è tre camere.", "Ci è tre camere.", "Ce sono tre camere."],
+      "antwoord": "Ci sono tre camere.",
+      "uitleg": "'Ci sono' gebruik je voor meervoud: ci sono tre camere, ci sono due treni."
+    },
+    {
+      "vraag": "Hoe ontken je een zin in het Italiaans?",
+      "opties": ["Zet 'non' voor het werkwoord", "Zet 'no' voor het werkwoord", "Zet 'non' na het werkwoord", "Zet 'niente' voor het werkwoord"],
+      "antwoord": "Zet 'non' voor het werkwoord",
+      "uitleg": "Ontkenning: non + werkwoord. Non vado = ik ga niet. Non parto = ik vertrek niet."
+    },
+    {
+      "vraag": "Welke zin is correct? 'Ik ga niet naar Rome.'",
+      "opties": ["Non vado a Roma.", "No vado a Roma.", "Vado non a Roma.", "Non a Roma vado."],
+      "antwoord": "Non vado a Roma.",
+      "uitleg": "'Non' staat altijd direct voor het werkwoord: Non vado, non parto, non sono."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging van 'essere'? 'Noi ___ italiani.'",
+      "opties": ["siamo", "sono", "siete", "sei"],
+      "antwoord": "siamo",
+      "uitleg": "Essere meervoud: noi siamo, voi siete, loro sono."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging van 'essere'? 'Voi ___ tedeschi.'",
+      "opties": ["siete", "siamo", "sono", "sei"],
+      "antwoord": "siete",
+      "uitleg": "Essere: voi siete. Let op: 'loro sono' (zij zijn) is dezelfde vorm als 'io sono' (ik ben)."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging van 'abitare'? 'Loro ___ a Milano.'",
+      "opties": ["abitano", "abitiamo", "abitate", "abita"],
+      "antwoord": "abitano",
+      "uitleg": "Abitare meervoud: noi abitiamo, voi abitate, loro abitano."
+    },
+    {
+      "vraag": "Hoe vraag je 'Waar ga je naartoe?'",
+      "opties": ["Dove vai?", "Dove stai?", "Dove sei?", "Come vai?"],
+      "antwoord": "Dove vai?",
+      "uitleg": "'Dove vai?' = Waar ga je naartoe? 'Andare' gebruik je voor beweging/richting."
+    },
+    {
+      "vraag": "Wat betekent 'vorrei'?",
+      "opties": ["ik zou willen", "ik wil", "ik moet", "ik kan"],
+      "antwoord": "ik zou willen",
+      "uitleg": "'Vorrei' is de beleefde vorm (condizionale) van 'volere'. Vorrei un caffè = ik zou graag een koffie willen."
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'andata e ritorno' en 'solo andata'?",
+      "opties": ["Retour vs. enkele reis", "Eerste klas vs. tweede klas", "Snel vs. langzaam", "Vroeg vs. laat"],
+      "antwoord": "Retour vs. enkele reis",
+      "uitleg": "'Andata e ritorno' = heen en terug (retour). 'Solo andata' = alleen heen (enkele reis)."
+    },
+    {
+      "vraag": "Welk lidwoord hoort bij 'stazione'?",
+      "opties": ["la", "il", "lo", "l'"],
+      "antwoord": "la",
+      "uitleg": "'Stazione' is vrouwelijk en begint met een medeklinker: la stazione."
+    },
+    {
+      "vraag": "Welk lidwoord hoort bij 'albergo'?",
+      "opties": ["l'", "il", "lo", "la"],
+      "antwoord": "l'",
+      "uitleg": "'Albergo' is mannelijk en begint met een klinker: l'albergo. Voor mannelijke woorden op een klinker gebruik je 'l''."
+    },
+    {
+      "vraag": "Hoe spreek je 'sc' uit in 'scuola'?",
+      "opties": ["sk", "sj", "stj", "s"],
+      "antwoord": "sk",
+      "uitleg": "'Sc' voor a, o, u klinkt als 'sk': scuola, sconto, scuro. Voor e, i klinkt sc als 'sj': scena, sci."
+    },
+    {
+      "vraag": "Hoe spreek je 'sci' uit in 'prosciutto'?",
+      "opties": ["sji", "ski", "stji", "si"],
+      "antwoord": "sji",
+      "uitleg": "'Sc' voor e of i klinkt als 'sj': sci, scena, pesce, prosciutto."
+    },
+    {
+      "vraag": "Hoe spreek je 'sch' uit in 'schiuma'?",
+      "opties": ["sk", "sj", "stj", "s"],
+      "antwoord": "sk",
+      "uitleg": "'Sch' voor e of i klinkt als 'sk': schema, schiuma. De h maakt de sc hard, net als bij ch en gh."
+    },
+    {
+      "vraag": "Welk zelfstandig naamwoord is vrouwelijk?",
+      "opties": ["la camera", "il treno", "il biglietto", "il binario"],
+      "antwoord": "la camera",
+      "uitleg": "Woorden op -a zijn meestal vrouwelijk: la camera, la stazione, la spiaggia. Woorden op -o zijn meestal mannelijk."
+    },
+    {
+      "vraag": "Hoe vraag je beleefd naar iemands achternaam?",
+      "opties": ["Come si chiama di cognome?", "Come ti chiami di cognome?", "Qual è il nome?", "Come sei di cognome?"],
+      "antwoord": "Come si chiama di cognome?",
+      "uitleg": "Formeel: 'Come si chiama di cognome?' Het woord 'cognome' betekent achternaam, 'nome' is voornaam."
+    },
+    {
+      "vraag": "Wat antwoord je op 'Per quante notti?'",
+      "opties": ["Per tre notti.", "Tre camere.", "Alle tre.", "Tre biglietti."],
+      "antwoord": "Per tre notti.",
+      "uitleg": "'Per quante notti?' = Voor hoeveel nachten? Het antwoord is: Per + aantal + notti."
+    }
+  ],
+  "grammatica": [
+    { "titel": "Essere (meervoud)", "uitleg": "noi siamo, voi siete, loro sono. Let op: 'loro sono' is dezelfde vorm als 'io sono'. Voorbeeld: Noi siamo olandesi. Voi siete italiani. Loro sono tedeschi." },
+    { "titel": "Abitare (meervoud)", "uitleg": "noi abitiamo, voi abitate, loro abitano. Alle regelmatige -are werkwoorden volgen dit patroon: -o, -i, -a, -iamo, -ate, -ano." },
+    { "titel": "Andare (onregelmatig)", "uitleg": "io vado, tu vai, lui/lei va, noi andiamo, voi andate, loro vanno. Onregelmatig in alle personen. Dove vai? – Vado a Roma. Andiamo in vacanza." },
+    { "titel": "Ontkenning met 'non'", "uitleg": "'Non' staat direct voor het werkwoord: Non vado (ik ga niet), Non parto (ik vertrek niet), Non è lontano (het is niet ver). Bij c'è/ci sono: Non c'è, Non ci sono." },
+    { "titel": "C'è en ci sono + bepaald lidwoord", "uitleg": "C'è = er is (enkelvoud), ci sono = er zijn (meervoud). C'è un treno per Milano. Ci sono due alberghi. Vraagvorm: C'è un ristorante? Ci sono camere libere?" },
+    { "titel": "Zelfstandig naamwoord: enkelvoud (geslacht)", "uitleg": "Mannelijk: meestal op -o (il treno, il biglietto). Vrouwelijk: meestal op -a (la camera, la stazione). Uitzonderingen op -e: mannelijk (il mare) of vrouwelijk (la stazione) → uit het hoofd leren." },
+    { "titel": "Het alfabet en spellen", "uitleg": "Mi chiamo Maes: M come Milano, A come Ancona, E come Empoli, S come Siena. Italiaanse steden worden gebruikt om letters te spellen. Lettere straniere: j (i lunga), k (kappa), w (doppia vu), x (ics), y (ipsilon)." },
+    { "titel": "Uitspraak van sc en sch", "uitleg": "Sc voor a/o/u = 'sk': scuola, sconto, scuro. Sc voor e/i = 'sj': scena, sci, pesce, uscire. Sch voor e/i = 'sk': schema, schiuma, schiena. De h maakt de sc hard, net als bij c→ch en g→gh." }
+  ],
+  "luisteroefeningen": [],
+  "schrijfopdrachten": []
+}

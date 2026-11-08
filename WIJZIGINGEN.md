@@ -387,3 +387,19 @@ git checkout <commit-hash> -- .
 - Communicatie: over je beroep vertellen, dagindeling beschrijven, leeftijd vragen en geven, een afzegging formuleren, een reden geven
 
 **Resultaat:** Het leerpad Allegro 1 toont nu 4 lessen met alle zes oefenvormen.
+
+---
+
+## Stap 26 – Allegro 1: Hoofdstuk 5 "C'è una banca qui vicino?" (2026-11-08)
+
+**Wat:** Het vijfde hoofdstuk van het leerpad Allegro 1 toegevoegd (boek-lezione 7). Thema: de weg vragen en wijzen, plaatsen in de stad, kloktijden.
+
+**Gewijzigde bestanden:**
+- `src/data/allegro-1/les-05.json` – Nieuw lesbestand met 30 woorden, 20 meerkeuzevragen, 15 invuloefeningen, 15 vertaalzinnen en 7 grammatica-uitleg.
+
+**Content omvat:**
+- Grammatica: voorzetsels a/di/in/da/su + bepaald lidwoord (al, della, nel, dal, sul, etc.), c'è/ci sono uitbreiding, plaatsaanduidingen (di fronte a, accanto a, davanti a, dietro, tra/fra), onregelmatige werkwoorden aprire/venire/uscire/sapere, kloktijden (Sono le tre, È l'una, e mezza, e un quarto), tijdsaanduidingen met a (alle tre, all'una)
+- Woordenschat: plaatsen in de stad (banca, farmacia, ufficio postale, fermata, chiesa, museo, piazza), richtingaanwijzingen (a destra, a sinistra, dritto, semaforo, incrocio, ponte), werkwoorden (girare, attraversare, aprire, venire, uscire, sapere)
+- Communicatie: de weg vragen en wijzen, plaatsen beschrijven, kloktijden vragen en geven, openingstijden opvragen
+
+**Resultaat:** Het leerpad Allegro 1 toont nu 5 lessen met alle zes oefenvormen.

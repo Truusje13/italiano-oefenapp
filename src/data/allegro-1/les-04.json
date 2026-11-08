@@ -1,0 +1,205 @@
+{
+  "id": 4,
+  "titel": "Lezione 4 – Tu che cosa fai?",
+  "woorden": [
+    { "it": "fare", "nl": "doen / maken", "voorbeeld": "Che cosa fai? Faccio il tassista.", "woordsoort": "werkwoord" },
+    { "it": "finire", "nl": "eindigen / afmaken", "voorbeeld": "Finisco di lavorare alle sei.", "woordsoort": "werkwoord" },
+    { "it": "potere", "nl": "kunnen / mogen", "voorbeeld": "Non posso venire domani.", "woordsoort": "werkwoord" },
+    { "it": "dovere", "nl": "moeten", "voorbeeld": "Devo lavorare sabato.", "woordsoort": "werkwoord" },
+    { "it": "lavorare", "nl": "werken", "voorbeeld": "Lavoro in un ufficio.", "woordsoort": "werkwoord" },
+    { "it": "cucinare", "nl": "koken", "voorbeeld": "Cucino la cena ogni sera.", "woordsoort": "werkwoord" },
+    { "it": "pulire", "nl": "schoonmaken", "voorbeeld": "Pulisco la casa il sabato.", "woordsoort": "werkwoord" },
+    { "it": "stirare", "nl": "strijken", "voorbeeld": "Non mi piace stirare.", "woordsoort": "werkwoord" },
+    { "it": "il lavoro", "nl": "het werk", "voorbeeld": "Com'è il nuovo lavoro?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il tassista", "nl": "de taxichauffeur", "voorbeeld": "Faccio il tassista.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il medico", "nl": "de arts", "voorbeeld": "Mia sorella fa il medico.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'insegnante", "nl": "de leraar / lerares", "voorbeeld": "Faccio l'insegnante.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'impiegato", "nl": "de kantoormedewerker", "voorbeeld": "Lavoro come impiegato in banca.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il cameriere", "nl": "de ober", "voorbeeld": "Il cameriere è molto gentile.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il cuoco", "nl": "de kok", "voorbeeld": "Mio marito fa il cuoco.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'ufficio", "nl": "het kantoor", "voorbeeld": "Lavoro in un ufficio.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la mattina", "nl": "de ochtend", "voorbeeld": "La mattina mi alzo presto.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il pomeriggio", "nl": "de middag", "voorbeeld": "Il pomeriggio lavoro.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la sera", "nl": "de avond", "voorbeeld": "La sera guardo la TV.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "contento", "nl": "tevreden / blij", "voorbeeld": "Sono molto contento del lavoro.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "nuovo", "nl": "nieuw", "voorbeeld": "Com'è il nuovo lavoro?", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "mi dispiace", "nl": "het spijt me", "voorbeeld": "Mi dispiace, ma non posso.", "woordsoort": "uitdrukking" },
+    { "it": "purtroppo", "nl": "helaas", "voorbeeld": "Purtroppo devo lavorare.", "woordsoort": "bijwoord" },
+    { "it": "presto", "nl": "vroeg / snel", "voorbeeld": "Mi alzo presto la mattina.", "woordsoort": "bijwoord" },
+    { "it": "tardi", "nl": "laat", "voorbeeld": "Finisco tardi il venerdì.", "woordsoort": "bijwoord" },
+    { "it": "mio / mia", "nl": "mijn", "voorbeeld": "Mio marito fa il cuoco.", "woordsoort": "bezittelijk voornaamwoord" },
+    { "it": "tuo / tua", "nl": "jouw", "voorbeeld": "Com'è il tuo lavoro?", "woordsoort": "bezittelijk voornaamwoord" },
+    { "it": "suo / sua", "nl": "zijn / haar / uw", "voorbeeld": "Sua moglie è insegnante.", "woordsoort": "bezittelijk voornaamwoord" },
+    { "it": "quanti anni hai?", "nl": "hoe oud ben je?", "voorbeeld": "Quanti anni hai? – Ho trent'anni.", "woordsoort": "uitdrukking" },
+    { "it": "gli anni", "nl": "de jaren / de leeftijd", "voorbeeld": "Ho venticinque anni.", "woordsoort": "zelfstandig naamwoord" }
+  ],
+  "zinnen": [
+    { "nl": "Wat doe je (voor werk)?", "it": "Che cosa fai?" },
+    { "nl": "Ik ben taxichauffeur.", "it": "Faccio il tassista." },
+    { "nl": "Hoe is het nieuwe werk?", "it": "Com'è il nuovo lavoro?" },
+    { "nl": "Ik werk op een kantoor.", "it": "Lavoro in un ufficio." },
+    { "nl": "Ik eindig om zes uur met werken.", "it": "Finisco di lavorare alle sei." },
+    { "nl": "Ik kan morgen niet komen.", "it": "Non posso venire domani." },
+    { "nl": "Ik moet zaterdag werken.", "it": "Devo lavorare sabato." },
+    { "nl": "Het spijt me, maar ik kan niet.", "it": "Mi dispiace, ma non posso." },
+    { "nl": "Ik kook, maak schoon en strijk.", "it": "Cucino, pulisco e stiro." },
+    { "nl": "'s Ochtends sta ik vroeg op.", "it": "La mattina mi alzo presto." },
+    { "nl": "Hoe oud ben je?", "it": "Quanti anni hai?" },
+    { "nl": "Ik ben dertig jaar.", "it": "Ho trent'anni." },
+    { "nl": "Mijn vrouw is lerares.", "it": "Mia moglie è insegnante." },
+    { "nl": "Op maandag werk ik niet.", "it": "Il lunedì non lavoro." },
+    { "nl": "Helaas moet ik vanavond werken.", "it": "Purtroppo devo lavorare stasera." }
+  ],
+  "invuloefeningen": [
+    { "zin": "Che cosa ___? – Faccio il medico. (fare, tu)", "antwoord": "fai" },
+    { "zin": "Io ___ il tassista. (fare)", "antwoord": "faccio" },
+    { "zin": "Lui ___ l'insegnante. (fare)", "antwoord": "fa" },
+    { "zin": "___ di lavorare alle sei. (finire, io)", "antwoord": "Finisco" },
+    { "zin": "Non ___ venire domani. (potere, io)", "antwoord": "posso" },
+    { "zin": "Tu ___ lavorare sabato? (dovere)", "antwoord": "devi" },
+    { "zin": "Noi ___ partire presto. (dovere)", "antwoord": "dobbiamo" },
+    { "zin": "Mi ___, ma non posso. (het spijt me)", "antwoord": "dispiace" },
+    { "zin": "___ marito fa il cuoco. (mijn)", "antwoord": "Mio" },
+    { "zin": "Com'è il ___ lavoro? (jouw)", "antwoord": "tuo" },
+    { "zin": "___ moglie è insegnante. (zijn/haar)", "antwoord": "Sua" },
+    { "zin": "Quanti ___ hai? – Ho venticinque anni.", "antwoord": "anni" },
+    { "zin": "La ___ mi alzo presto. (ochtend)", "antwoord": "mattina" },
+    { "zin": "Il lunedì non ___. (werken, io)", "antwoord": "lavoro" },
+    { "zin": "Loro ___ i camerieri. (fare)", "antwoord": "fanno" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Io ___ il medico.' (fare)",
+      "opties": ["faccio", "fai", "fa", "fanno"],
+      "antwoord": "faccio",
+      "uitleg": "Fare: io faccio, tu fai, lui/lei fa, noi facciamo, voi fate, loro fanno. Onregelmatig werkwoord."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Noi ___ la spesa.' (fare)",
+      "opties": ["facciamo", "faccio", "fanno", "fate"],
+      "antwoord": "facciamo",
+      "uitleg": "Fare: noi facciamo. Let op de dubbele c: faccio, facciamo."
+    },
+    {
+      "vraag": "Hoe zeg je 'Ik ben leraar' met het werkwoord fare?",
+      "opties": ["Faccio l'insegnante.", "Sono l'insegnante.", "Faccio insegnante.", "Io insegnante."],
+      "antwoord": "Faccio l'insegnante.",
+      "uitleg": "Met fare + lidwoord + beroep: Faccio il medico, Faccio l'insegnante. Het lidwoord is verplicht."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Io ___ alle otto.' (finire)",
+      "opties": ["finisco", "finisso", "finio", "fini"],
+      "antwoord": "finisco",
+      "uitleg": "Finire is een -ire werkwoord met -isc-: io finisco, tu finisci, lui/lei finisce, noi finiamo, voi finite, loro finiscono."
+    },
+    {
+      "vraag": "Welk werkwoord is ook een -isc- werkwoord, net als finire?",
+      "opties": ["pulire (pulisco)", "partire (parto)", "dormire (dormo)", "sentire (sento)"],
+      "antwoord": "pulire (pulisco)",
+      "uitleg": "Sommige -ire werkwoorden krijgen -isc-: finire → finisco, pulire → pulisco, capire → capisco. Andere niet: partire → parto, dormire → dormo."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Io non ___ venire.' (potere)",
+      "opties": ["posso", "puoi", "può", "potere"],
+      "antwoord": "posso",
+      "uitleg": "Potere: io posso, tu puoi, lui/lei può, noi possiamo, voi potete, loro possono."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Tu ___ lavorare domani.' (dovere)",
+      "opties": ["devi", "devo", "deve", "dovere"],
+      "antwoord": "devi",
+      "uitleg": "Dovere: io devo, tu devi, lui/lei deve, noi dobbiamo, voi dovete, loro devono."
+    },
+    {
+      "vraag": "Hoe vraag je in het Italiaans hoe oud iemand is?",
+      "opties": ["Quanti anni hai?", "Come anni hai?", "Quanto sei vecchio?", "Quale età hai?"],
+      "antwoord": "Quanti anni hai?",
+      "uitleg": "Leeftijd wordt uitgedrukt met 'avere': Quanti anni hai? – Ho 25 anni. (Hoeveel jaren heb je?)"
+    },
+    {
+      "vraag": "Welk bezittelijk voornaamwoord is correct? '___ sorella è medico.' (mijn)",
+      "opties": ["Mia", "Mio", "Il mia", "La mia"],
+      "antwoord": "Mia",
+      "uitleg": "Bij familieleden enkelvoud geen lidwoord: mio padre, mia madre, mio fratello, mia sorella. Wél bij hun meervoud: i miei fratelli, le mie sorelle."
+    },
+    {
+      "vraag": "Wanneer gebruik je wél een lidwoord bij bezittelijk voornaamwoord + familielid?",
+      "opties": ["Bij meervoud: i miei fratelli", "Altijd: il mio padre", "Nooit", "Alleen bij formeel taalgebruik"],
+      "antwoord": "Bij meervoud: i miei fratelli",
+      "uitleg": "Enkelvoud zonder lidwoord: mio padre, mia madre. Meervoud mét lidwoord: i miei fratelli, le mie sorelle. Ook met verkleining: la mia sorellina."
+    },
+    {
+      "vraag": "Wat is het meervoud van 'contento'? 'Le ragazze sono ___.'",
+      "opties": ["contente", "contenti", "contenta", "contento"],
+      "antwoord": "contente",
+      "uitleg": "Bijvoeglijk naamwoord meervoud: -o → -i (m.mv), -a → -e (v.mv). Le ragazze sono contente. I ragazzi sono contenti."
+    },
+    {
+      "vraag": "Wat is het meervoud van 'nuovo'? 'I lavori sono ___.'",
+      "opties": ["nuovi", "nuove", "nuovos", "nuovo"],
+      "antwoord": "nuovi",
+      "uitleg": "Mannelijk meervoud: -o → -i. I lavori nuovi. Vrouwelijk meervoud: -a → -e. Le case nuove."
+    },
+    {
+      "vraag": "Welke dagdelen zijn er in het Italiaans?",
+      "opties": ["la mattina, il pomeriggio, la sera, la notte", "il mattino, il giorno, il sera, il notte", "la mattina, la giornata, il sera", "il giorno, la notte"],
+      "antwoord": "la mattina, il pomeriggio, la sera, la notte",
+      "uitleg": "La mattina (ochtend), il pomeriggio (middag), la sera (avond), la notte (nacht). Let op: pomeriggio is mannelijk."
+    },
+    {
+      "vraag": "Hoe zeg je 'op maandag' (elke maandag)?",
+      "opties": ["il lunedì", "lunedì", "al lunedì", "nel lunedì"],
+      "antwoord": "il lunedì",
+      "uitleg": "Met lidwoord = elke week: il lunedì (elke maandag). Zonder lidwoord = deze specifieke: lunedì (aanstaande maandag)."
+    },
+    {
+      "vraag": "Welke dagen van de week zijn er in het Italiaans?",
+      "opties": ["lunedì, martedì, mercoledì, giovedì, venerdì, sabato, domenica", "lundi, mardi, mercredi, giovedì, venerdì, sabato, domenica", "lunedì, martedì, mercoledì, giovedì, venerdì, sábado, domingo", "lunedì, marti, mercuri, giovi, veneri, sabato, domenica"],
+      "antwoord": "lunedì, martedì, mercoledì, giovedì, venerdì, sabato, domenica",
+      "uitleg": "Ma t/m vr eindigen op -dì. Sabato en domenica zijn anders. Alleen domenica is vrouwelijk (la domenica), de rest is mannelijk."
+    },
+    {
+      "vraag": "Hoe formuleer je een afzegging beleefd?",
+      "opties": ["Mi dispiace, ma non posso.", "No, non vengo.", "Non voglio.", "È impossibile."],
+      "antwoord": "Mi dispiace, ma non posso.",
+      "uitleg": "'Mi dispiace, ma non posso' = Het spijt me, maar ik kan niet. Beleefd en gangbaar. Je kunt een reden toevoegen: ...devo lavorare."
+    },
+    {
+      "vraag": "Wat is het verschil tussen 'sapere' en 'potere'?",
+      "opties": ["Sapere = vaardigheid, potere = mogelijkheid", "Ze zijn hetzelfde", "Sapere = mogen, potere = kunnen", "Sapere = moeten, potere = willen"],
+      "antwoord": "Sapere = vaardigheid, potere = mogelijkheid",
+      "uitleg": "So nuotare = ik kan zwemmen (vaardigheid). Non posso nuotare = ik kan niet zwemmen (nu niet mogelijk, bijv. geblesseerd)."
+    },
+    {
+      "vraag": "Waarom is 'dubbele medeklinker' belangrijk in het Italiaans?",
+      "opties": ["Het verandert de betekenis van woorden", "Het is alleen een schrijfregel", "Het maakt geen verschil", "Het is een dialectkenmerk"],
+      "antwoord": "Het verandert de betekenis van woorden",
+      "uitleg": "Dubbele medeklinkers veranderen de betekenis: pala (schep) – palla (bal), casa (huis) – cassa (kassa), sono (ik ben) – sonno (slaap)."
+    },
+    {
+      "vraag": "Welk paar toont het verschil door een dubbele medeklinker?",
+      "opties": ["nota (noot) – notte (nacht)", "casa – cassa (beide: huis)", "fare – ffare", "bene – benne"],
+      "antwoord": "nota (noot) – notte (nacht)",
+      "uitleg": "Enkele vs. dubbele medeklinker verandert de betekenis: nota/notte, pala/palla, sete (dorst)/sette (zeven), caro (lief)/carro (kar)."
+    },
+    {
+      "vraag": "Wat is de juiste vervoeging? 'Loro ___ partire domani.' (dovere)",
+      "opties": ["devono", "dobbiamo", "dovete", "deve"],
+      "antwoord": "devono",
+      "uitleg": "Dovere: io devo, tu devi, lui/lei deve, noi dobbiamo, voi dovete, loro devono."
+    }
+  ],
+  "grammatica": [
+    { "titel": "Fare (onregelmatig)", "uitleg": "io faccio, tu fai, lui/lei fa, noi facciamo, voi fate, loro fanno. Gebruikt voor beroep: Faccio il medico (ik ben arts). Fare + lidwoord + beroep." },
+    { "titel": "Finire en -isc- werkwoorden", "uitleg": "Sommige -ire werkwoorden krijgen -isc- in het enkelvoud en 3e persoon meervoud: io finisco, tu finisci, lui/lei finisce, noi finiamo, voi finite, loro finiscono. Ook: pulire (pulisco), capire (capisco), preferire (preferisco)." },
+    { "titel": "Potere (modaal hulpwerkwoord)", "uitleg": "io posso, tu puoi, lui/lei può, noi possiamo, voi potete, loro possono. Potere + infinitief: Posso venire = ik kan komen. Non posso partire = ik kan niet vertrekken." },
+    { "titel": "Dovere (modaal hulpwerkwoord)", "uitleg": "io devo, tu devi, lui/lei deve, noi dobbiamo, voi dovete, loro devono. Dovere + infinitief: Devo lavorare = ik moet werken. Devi partire = je moet vertrekken." },
+    { "titel": "Beroepsbenamingen met fare", "uitleg": "Fare + bepaald lidwoord + beroep: Faccio il medico, Faccio la cameriera, Faccio l'insegnante. Mannelijk/vrouwelijk: il cameriere/la cameriera, il cuoco/la cuoca. Sommige zijn gelijk: l'insegnante (m/v)." },
+    { "titel": "Bezittelijk voornaamwoord", "uitleg": "mio/mia (mijn), tuo/tua (jouw), suo/sua (zijn/haar/uw). Meervoud: miei/mie, tuoi/tue, suoi/sue. Normaal met lidwoord: il mio lavoro, la tua casa. Uitzondering: bij familieleden enkelvoud zonder lidwoord: mio padre, mia sorella." },
+    { "titel": "Dagdelen en dagen van de week", "uitleg": "Dagdelen: la mattina, il pomeriggio, la sera, la notte. Dagen: lunedì, martedì, mercoledì, giovedì, venerdì, sabato, domenica. Met lidwoord = gewoonte: il lunedì = elke maandag. Zonder = specifiek: lunedì = aanstaande maandag." },
+    { "titel": "Bijvoeglijk naamwoord: meervoud", "uitleg": "Op -o/-a: m.mv -i, v.mv -e. Contento → contenti (m), contente (v). Nuovo → nuovi (m), nuove (v). Op -e: m.mv -i, v.mv -i. Grande → grandi (m en v). Het bijvoeglijk naamwoord past zich aan aan het zelfstandig naamwoord." },
+    { "titel": "Uitspraak van dubbele medeklinkers", "uitleg": "Dubbele medeklinkers worden langer uitgesproken en veranderen de betekenis: pala (schep) – palla (bal), casa (huis) – cassa (kassa), sete (dorst) – sette (zeven), sono (ik ben) – sonno (slaap), note (noten) – notte (nacht), caro (lief) – carro (kar)." }
+  ],
+  "luisteroefeningen": [],
+  "schrijfopdrachten": []
+}

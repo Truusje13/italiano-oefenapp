@@ -1,0 +1,203 @@
+{
+  "id": 8,
+  "titel": "Lezione 8 – Cosa fate in vacanza?",
+  "woorden": [
+    { "it": "la vacanza", "nl": "de vakantie", "voorbeeld": "Cosa fate in vacanza?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il mare", "nl": "de zee", "voorbeeld": "Andiamo al mare in agosto.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la montagna", "nl": "de berg / het gebergte", "voorbeeld": "D'inverno vado in montagna.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il lago", "nl": "het meer", "voorbeeld": "Il lago di Garda è bellissimo.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la spiaggia", "nl": "het strand", "voorbeeld": "Mi rilasso in spiaggia.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il sole", "nl": "de zon", "voorbeeld": "C'è un sole stupendo.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la pioggia", "nl": "de regen", "voorbeeld": "Domani c'è pioggia.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il tempo", "nl": "het weer / de tijd", "voorbeeld": "Che tempo fa?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la festa", "nl": "het feest", "voorbeeld": "C'è una festa in piazza.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "l'informazione", "nl": "de informatie", "voorbeeld": "Vorrei un'informazione.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il depliant", "nl": "de folder", "voorbeeld": "Avete un depliant?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la data", "nl": "de datum", "voorbeeld": "Qual è la data di oggi?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "rilassarsi", "nl": "zich ontspannen", "voorbeeld": "In vacanza mi rilasso.", "woordsoort": "werkwoord" },
+    { "it": "svegliarsi", "nl": "wakker worden", "voorbeeld": "Mi sveglio alle otto.", "woordsoort": "werkwoord" },
+    { "it": "alzarsi", "nl": "opstaan", "voorbeeld": "Mi alzo tardi in vacanza.", "woordsoort": "werkwoord" },
+    { "it": "vestirsi", "nl": "zich aankleden", "voorbeeld": "Mi vesto in fretta.", "woordsoort": "werkwoord" },
+    { "it": "divertirsi", "nl": "zich vermaken", "voorbeeld": "Ci divertiamo molto.", "woordsoort": "werkwoord" },
+    { "it": "addormentarsi", "nl": "in slaap vallen", "voorbeeld": "Mi addormento tardi.", "woordsoort": "werkwoord" },
+    { "it": "piovere", "nl": "regenen", "voorbeeld": "Oggi piove.", "woordsoort": "werkwoord" },
+    { "it": "nevicare", "nl": "sneeuwen", "voorbeeld": "D'inverno nevica spesso.", "woordsoort": "werkwoord" },
+    { "it": "caldo", "nl": "warm", "voorbeeld": "Fa molto caldo.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "freddo", "nl": "koud", "voorbeeld": "D'inverno fa freddo.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "nuvoloso", "nl": "bewolkt", "voorbeeld": "Il cielo è nuvoloso.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "niente", "nl": "niets", "voorbeeld": "Non faccio niente.", "woordsoort": "onbepaald voornaamwoord" },
+    { "it": "mai", "nl": "nooit", "voorbeeld": "Non vado mai in montagna.", "woordsoort": "bijwoord" },
+    { "it": "lentamente", "nl": "langzaam", "voorbeeld": "Cammino lentamente.", "woordsoort": "bijwoord" },
+    { "it": "facilmente", "nl": "gemakkelijk", "voorbeeld": "Si impara facilmente.", "woordsoort": "bijwoord" },
+    { "it": "fa", "nl": "geleden", "voorbeeld": "Due anni fa.", "woordsoort": "bijwoord" },
+    { "it": "fra / tra", "nl": "over (toekomst)", "voorbeeld": "Fra una settimana partiamo.", "woordsoort": "voorzetsel" },
+    { "it": "da", "nl": "sinds", "voorbeeld": "Abito qui da tre anni.", "woordsoort": "voorzetsel" }
+  ],
+  "zinnen": [
+    { "nl": "Wat doen jullie in de vakantie?", "it": "Cosa fate in vacanza?" },
+    { "nl": "In de vakantie ontspan ik me.", "it": "In vacanza mi rilasso." },
+    { "nl": "Ik word om acht uur wakker.", "it": "Mi sveglio alle otto." },
+    { "nl": "We vermaken ons erg.", "it": "Ci divertiamo molto." },
+    { "nl": "Ik doe niets.", "it": "Non faccio niente." },
+    { "nl": "Ik ga nooit naar de bergen.", "it": "Non vado mai in montagna." },
+    { "nl": "Wat voor weer is het?", "it": "Che tempo fa?" },
+    { "nl": "Het is erg warm.", "it": "Fa molto caldo." },
+    { "nl": "Er is een prachtige zon.", "it": "C'è un sole stupendo." },
+    { "nl": "Het regent morgen.", "it": "Domani piove." },
+    { "nl": "Ik zou graag informatie willen.", "it": "Vorrei un'informazione." },
+    { "nl": "Twee jaar geleden ben ik naar Italië gegaan.", "it": "Due anni fa sono andato in Italia." },
+    { "nl": "Over een week vertrekken we.", "it": "Fra una settimana partiamo." },
+    { "nl": "Ik woon hier sinds drie jaar.", "it": "Abito qui da tre anni." },
+    { "nl": "Wat is de datum van vandaag?", "it": "Qual è la data di oggi?" }
+  ],
+  "invuloefeningen": [
+    { "zin": "In vacanza ___ rilasso. (ik ontspan me)", "antwoord": "mi" },
+    { "zin": "___ sveglio alle otto. (ik word wakker)", "antwoord": "Mi" },
+    { "zin": "Ci ___ molto. (vermaken, noi)", "antwoord": "divertiamo" },
+    { "zin": "Non faccio ___. (niets)", "antwoord": "niente" },
+    { "zin": "Non vado ___ in montagna. (nooit)", "antwoord": "mai" },
+    { "zin": "Che tempo ___? (doen, weer)", "antwoord": "fa" },
+    { "zin": "Due anni ___ sono andato in Italia. (geleden)", "antwoord": "fa" },
+    { "zin": "___ una settimana partiamo. (over)", "antwoord": "Fra" },
+    { "zin": "Abito qui ___ tre anni. (sinds)", "antwoord": "da" },
+    { "zin": "Cammino ___. (langzaam, bijwoord)", "antwoord": "lentamente" },
+    { "zin": "Si impara ___. (gemakkelijk, bijwoord)", "antwoord": "facilmente" },
+    { "zin": "Mi ___ tardi in vacanza. (opstaan)", "antwoord": "alzo" },
+    { "zin": "Il cielo è ___. (bewolkt)", "antwoord": "nuvoloso" },
+    { "zin": "D'inverno ___ freddo. (het is)", "antwoord": "fa" },
+    { "zin": "Mi ___ in fretta. (aankleden)", "antwoord": "vesto" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Wat is de juiste vorm? 'Io ___ alle sette.' (svegliarsi)",
+      "opties": ["mi sveglio", "si sveglio", "mi svegli", "sveglio mi"],
+      "antwoord": "mi sveglio",
+      "uitleg": "Wederkerende werkwoorden: mi sveglio, ti svegli, si sveglia, ci svegliamo, vi svegliate, si svegliano. Het wederkerend voornaamwoord staat vóór het werkwoord."
+    },
+    {
+      "vraag": "Wat is de juiste vorm? 'Noi ___ molto in vacanza.' (divertirsi)",
+      "opties": ["ci divertiamo", "si divertiamo", "ci divertono", "vi divertiamo"],
+      "antwoord": "ci divertiamo",
+      "uitleg": "Divertirsi: mi diverto, ti diverti, si diverte, ci divertiamo, vi divertite, si divertono. 'Ci' hoort bij 'noi'."
+    },
+    {
+      "vraag": "Wat is de juiste vorm? 'Maria ___ tardi.' (alzarsi)",
+      "opties": ["si alza", "mi alza", "si alzo", "ti alza"],
+      "antwoord": "si alza",
+      "uitleg": "Alzarsi: mi alzo, ti alzi, si alza (lei), ci alziamo, vi alzate, si alzano. 'Si' hoort bij de derde persoon."
+    },
+    {
+      "vraag": "Hoe zeg je 'Ik doe niets'?",
+      "opties": ["Non faccio niente.", "Non faccio mai.", "Faccio non niente.", "Niente faccio non."],
+      "antwoord": "Non faccio niente.",
+      "uitleg": "Dubbele ontkenning: non + werkwoord + niente. In het Italiaans is de dubbele ontkenning verplicht, anders dan in het Nederlands."
+    },
+    {
+      "vraag": "Hoe zeg je 'Ik ga nooit naar het strand'?",
+      "opties": ["Non vado mai in spiaggia.", "Non mai vado in spiaggia.", "Vado non mai in spiaggia.", "Mai non vado in spiaggia."],
+      "antwoord": "Non vado mai in spiaggia.",
+      "uitleg": "Dubbele ontkenning: non + werkwoord + mai. 'Mai' staat na het vervoegde werkwoord."
+    },
+    {
+      "vraag": "Wat betekent 'non ... niente'?",
+      "opties": ["niets", "nooit", "niemand", "nergens"],
+      "antwoord": "niets",
+      "uitleg": "Non ... niente = niets. Non ... mai = nooit. Non ... nessuno = niemand. Non ... nemmeno = zelfs niet."
+    },
+    {
+      "vraag": "Hoe maak je van 'lento' een bijwoord?",
+      "opties": ["lentamente", "lentement", "lentoso", "lentico"],
+      "antwoord": "lentamente",
+      "uitleg": "Bijwoord op -mente: vrouwelijke vorm van het bijvoeglijk naamwoord + -mente. Lento → lenta → lentamente. Rapido → rapida → rapidamente."
+    },
+    {
+      "vraag": "Hoe maak je van 'facile' een bijwoord?",
+      "opties": ["facilmente", "facilemente", "facillamente", "facilimente"],
+      "antwoord": "facilmente",
+      "uitleg": "Bijvoeglijke naamwoorden op -le en -re verliezen de eind-e vóór -mente: facile → facilmente, regolare → regolarmente. Uitzondering op de basisregel."
+    },
+    {
+      "vraag": "Wat betekent 'due anni fa'?",
+      "opties": ["twee jaar geleden", "over twee jaar", "sinds twee jaar", "twee jaar lang"],
+      "antwoord": "twee jaar geleden",
+      "uitleg": "'Fa' = geleden (verleden): due anni fa, tre giorni fa, un mese fa. Altijd na de tijdsaanduiding."
+    },
+    {
+      "vraag": "Wat betekent 'fra una settimana'?",
+      "opties": ["over een week", "een week geleden", "sinds een week", "een week lang"],
+      "antwoord": "over een week",
+      "uitleg": "'Fra' (of 'tra') = over (toekomst): fra una settimana, tra due mesi, fra un'ora. Let op het verschil met 'fa' (verleden)."
+    },
+    {
+      "vraag": "Wat betekent 'da tre anni'?",
+      "opties": ["sinds drie jaar", "drie jaar geleden", "over drie jaar", "drie jaar lang"],
+      "antwoord": "sinds drie jaar",
+      "uitleg": "'Da' + tijdsduur = sinds: da tre anni, da due mesi, da un'ora. Gebruikt met het presens: Abito qui da tre anni (ik woon hier sinds drie jaar)."
+    },
+    {
+      "vraag": "Hoe vraag je 'Wat voor weer is het?'",
+      "opties": ["Che tempo fa?", "Come è il tempo?", "Qual è il tempo?", "Che fa il tempo?"],
+      "antwoord": "Che tempo fa?",
+      "uitleg": "'Che tempo fa?' is de standaardvraag over het weer. Antwoorden: Fa caldo/freddo, c'è il sole, piove, nevica, è nuvoloso."
+    },
+    {
+      "vraag": "Hoe zeg je 'Het is koud'?",
+      "opties": ["Fa freddo.", "È freddo.", "Ha freddo.", "Sta freddo."],
+      "antwoord": "Fa freddo.",
+      "uitleg": "Weeruitdrukkingen met 'fare': fa caldo (warm), fa freddo (koud), fa bel tempo (mooi weer), fa brutto tempo (slecht weer). Let op: 'Ho freddo' = ik heb het koud (persoon)."
+    },
+    {
+      "vraag": "Hoe zeg je 'Het regent'?",
+      "opties": ["Piove.", "Fa pioggia.", "È pioggia.", "Ha pioggia."],
+      "antwoord": "Piove.",
+      "uitleg": "Weerwerkwoorden zijn onpersoonlijk: piove (het regent), nevica (het sneeuwt), tira vento (het waait). Geen onderwerp nodig."
+    },
+    {
+      "vraag": "Wat is het bijwoord van 'veloce' (snel)?",
+      "opties": ["velocemente", "veloce", "velocamente", "velocimente"],
+      "antwoord": "velocemente",
+      "uitleg": "Veloce (op -e): de eind-e valt weg vóór -mente → velocemente. Net als facile → facilmente."
+    },
+    {
+      "vraag": "Waar staat het wederkerend voornaamwoord?",
+      "opties": ["Vóór het vervoegde werkwoord: mi alzo.", "Na het werkwoord: alzo mi.", "Aan het eind van de zin.", "Het maakt niet uit."],
+      "antwoord": "Vóór het vervoegde werkwoord: mi alzo.",
+      "uitleg": "Het wederkerend voornaamwoord (mi, ti, si, ci, vi, si) staat altijd vóór het vervoegde werkwoord. Bij een infinitief wordt het achteraan geplakt: voglio alzarmi."
+    },
+    {
+      "vraag": "Welke maand valt NIET in de zomer in Italië?",
+      "opties": ["gennaio", "luglio", "agosto", "giugno"],
+      "antwoord": "gennaio",
+      "uitleg": "Gennaio (januari) is winter. De zomermaanden zijn giugno (juni), luglio (juli) en agosto (augustus)."
+    },
+    {
+      "vraag": "Hoe zeg je 'Ik zou graag informatie willen'?",
+      "opties": ["Vorrei un'informazione.", "Voglio un'informazione.", "Volevo un'informazione.", "Ho voluto un'informazione."],
+      "antwoord": "Vorrei un'informazione.",
+      "uitleg": "'Vorrei' is de beleefde conditionalis van 'volere' (ik zou willen). Beleefder dan 'voglio' (ik wil). Vorrei + zelfstandig naamwoord of + infinitief."
+    },
+    {
+      "vraag": "Wat is de juiste datumvorm voor 15 maart?",
+      "opties": ["il quindici marzo", "il quindicesimo marzo", "quindici di marzo", "marzo quindici"],
+      "antwoord": "il quindici marzo",
+      "uitleg": "Datum: il + hoofdtelwoord + maand. Il quindici marzo, il tre aprile, il venti giugno. Uitzondering: il primo (1e) gennaio."
+    },
+    {
+      "vraag": "Wat is de juiste vorm? 'I bambini ___ presto.' (addormentarsi)",
+      "opties": ["si addormentano", "si addormenta", "mi addormentano", "ci addormentano"],
+      "antwoord": "si addormentano",
+      "uitleg": "Addormentarsi (loro): si addormentano. Wederkerend voornaamwoord 'si' voor de derde persoon enkelvoud én meervoud."
+    }
+  ],
+  "grammatica": [
+    { "titel": "Wederkerende werkwoorden", "uitleg": "Infinitief eindigt op -arsi/-ersi/-irsi: rilassarsi, svegliarsi, alzarsi, vestirsi, divertirsi, addormentarsi. Vervoegen: mi rilasso, ti rilassi, si rilassa, ci rilassiamo, vi rilassate, si rilassano. Het voornaamwoord (mi/ti/si/ci/vi/si) staat vóór het vervoegde werkwoord. Bij infinitief achteraan: voglio rilassarmi." },
+    { "titel": "Ontkenning: non ... niente en non ... mai", "uitleg": "Dubbele ontkenning is verplicht in het Italiaans. Non faccio niente (ik doe niets). Non vado mai in montagna (ik ga nooit naar de bergen). Non bevo mai vino (ik drink nooit wijn). Non mangio niente (ik eet niets). 'Niente' en 'mai' staan na het vervoegde werkwoord." },
+    { "titel": "Bijwoord op -mente", "uitleg": "Vorming: vrouwelijke vorm bijv.nw. + -mente. Lento → lenta → lentamente. Rapido → rapida → rapidamente. Tranquillo → tranquilla → tranquillamente. Bijv.nw. op -le/-re verliezen de eind-e: facile → facilmente, regolare → regolarmente, veloce → velocemente." },
+    { "titel": "Tijdsaanduidingen: da, fa en fra/tra", "uitleg": "Da = sinds (+ presens): Abito qui da tre anni. Fa = geleden (na tijdsduur): Due anni fa sono andato in Italia. Fra/tra = over (toekomst): Fra una settimana partiamo. Tra due mesi ho l'esame. Let op: 'fa' staat altijd NA de tijdsaanduiding, 'fra/tra' staat altijd ERVOOR." },
+    { "titel": "Plaatsaanduidingen bij vakantie", "uitleg": "Al mare (aan zee), in montagna (in de bergen), al lago (aan het meer), in spiaggia (op het strand), in campagna (op het platteland), in città (in de stad), all'estero (in het buitenland). Let op de voorzetsels: al (a+il), in (zonder lidwoord bij sommige)." },
+    { "titel": "Datum", "uitleg": "Il + hoofdtelwoord + maand: il tre marzo, il quindici aprile, il venti giugno. Uitzondering: il primo (1e) + maand: il primo gennaio. Giorno/mese/anno: il 15 marzo 2024 = il quindici marzo duemilaventiquattro. Quale è la data di oggi? Oggi è il dieci novembre." },
+    { "titel": "Weer", "uitleg": "Che tempo fa? (Wat voor weer is het?) Fa caldo/freddo/bel tempo/brutto tempo. C'è il sole/vento/nebbia. È nuvoloso/sereno. Piove (het regent), nevica (het sneeuwt), tira vento (het waait). Let op verschil: fa freddo (het is koud, weer) vs. ho freddo (ik heb het koud, persoon)." }
+  ],
+  "luisteroefeningen": [],
+  "schrijfopdrachten": []
+}

@@ -1,0 +1,202 @@
+{
+  "id": 6,
+  "titel": "Lezione 6 – Che cosa hai fatto ieri?",
+  "woorden": [
+    { "it": "ieri", "nl": "gisteren", "voorbeeld": "Che cosa hai fatto ieri?", "woordsoort": "bijwoord" },
+    { "it": "la musica", "nl": "de muziek", "voorbeeld": "Ti piace la musica italiana?", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il film", "nl": "de film", "voorbeeld": "Ieri ho visto un bel film.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il concerto", "nl": "het concert", "voorbeeld": "Sono andato a un concerto.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la festa", "nl": "het feest", "voorbeeld": "È stata una bella festa.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la giornata", "nl": "de dag (de hele dag)", "voorbeeld": "È stata proprio una bella giornata.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il padre", "nl": "de vader", "voorbeeld": "Mio padre è nato nel 1960.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la madre", "nl": "de moeder", "voorbeeld": "Mia madre è italiana.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il fratello", "nl": "de broer", "voorbeeld": "Ho due fratelli.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la sorella", "nl": "de zus", "voorbeeld": "Mia sorella abita a Milano.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il marito", "nl": "de echtgenoot", "voorbeeld": "Mio marito lavora in banca.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la moglie", "nl": "de echtgenote", "voorbeeld": "Sua moglie è medico.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il figlio", "nl": "de zoon", "voorbeeld": "Nostro figlio ha dieci anni.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "la figlia", "nl": "de dochter", "voorbeeld": "La loro figlia studia a Roma.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "i genitori", "nl": "de ouders", "voorbeeld": "I miei genitori abitano a Utrecht.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "il nonno / la nonna", "nl": "de opa / de oma", "voorbeeld": "I miei nonni sono nati in Italia.", "woordsoort": "zelfstandig naamwoord" },
+    { "it": "piacere", "nl": "bevallen / leuk vinden", "voorbeeld": "Ti piace la musica italiana?", "woordsoort": "werkwoord" },
+    { "it": "nascere", "nl": "geboren worden", "voorbeeld": "Sono nato nel 1935.", "woordsoort": "werkwoord" },
+    { "it": "andare", "nl": "gaan", "voorbeeld": "Sono andato al cinema.", "woordsoort": "werkwoord" },
+    { "it": "stare", "nl": "blijven / zich bevinden", "voorbeeld": "Sono stato a casa.", "woordsoort": "werkwoord" },
+    { "it": "tornare", "nl": "terugkeren", "voorbeeld": "Sono tornato tardi.", "woordsoort": "werkwoord" },
+    { "it": "vedere", "nl": "zien", "voorbeeld": "Ho visto un bel film.", "woordsoort": "werkwoord" },
+    { "it": "fare", "nl": "doen / maken", "voorbeeld": "Cosa hai fatto di bello?", "woordsoort": "werkwoord" },
+    { "it": "scrivere", "nl": "schrijven", "voorbeeld": "Ho scritto una lettera.", "woordsoort": "werkwoord" },
+    { "it": "leggere", "nl": "lezen", "voorbeeld": "Ho letto un libro.", "woordsoort": "werkwoord" },
+    { "it": "nato", "nl": "geboren", "voorbeeld": "Sono nato a Roma.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "bello", "nl": "mooi", "voorbeeld": "È stata una bella giornata.", "woordsoort": "bijvoeglijk naamwoord" },
+    { "it": "nostro / nostra", "nl": "ons / onze", "voorbeeld": "Nostro figlio ha dieci anni.", "woordsoort": "bezittelijk voornaamwoord" },
+    { "it": "vostro / vostra", "nl": "jullie", "voorbeeld": "Vostra figlia studia?", "woordsoort": "bezittelijk voornaamwoord" },
+    { "it": "il loro", "nl": "hun", "voorbeeld": "Il loro figlio è molto bravo.", "woordsoort": "bezittelijk voornaamwoord" }
+  ],
+  "zinnen": [
+    { "nl": "Wat heb je gisteren gedaan?", "it": "Che cosa hai fatto ieri?" },
+    { "nl": "Vind je Italiaanse muziek leuk?", "it": "Ti piace la musica italiana?" },
+    { "nl": "Ja, die vind ik heel leuk.", "it": "Sì, mi piace molto." },
+    { "nl": "Ik ben naar een concert geweest.", "it": "Sono andato a un concerto." },
+    { "nl": "Het was echt een mooie dag.", "it": "È stata proprio una bella giornata." },
+    { "nl": "Ik ben in 1990 geboren.", "it": "Sono nato nel 1990." },
+    { "nl": "Ik heb een mooie film gezien.", "it": "Ho visto un bel film." },
+    { "nl": "Ik heb een boek gelezen.", "it": "Ho letto un libro." },
+    { "nl": "Ik heb een brief geschreven.", "it": "Ho scritto una lettera." },
+    { "nl": "Mijn ouders wonen in Utrecht.", "it": "I miei genitori abitano a Utrecht." },
+    { "nl": "Mijn broer is naar Italië gegaan.", "it": "Mio fratello è andato in Italia." },
+    { "nl": "Ik ben laat thuisgekomen.", "it": "Sono tornato tardi a casa." },
+    { "nl": "Houden jullie van pizza?", "it": "Vi piace la pizza?" },
+    { "nl": "Onze zoon is tien jaar oud.", "it": "Nostro figlio ha dieci anni." },
+    { "nl": "Hun dochter studeert in Rome.", "it": "La loro figlia studia a Roma." }
+  ],
+  "invuloefeningen": [
+    { "zin": "Ti ___ la musica italiana? (bevallen)", "antwoord": "piace" },
+    { "zin": "Mi ___ molto i film italiani. (bevallen, meervoud)", "antwoord": "piacciono" },
+    { "zin": "Che cosa hai ___ ieri? (doen)", "antwoord": "fatto" },
+    { "zin": "Sono ___ al cinema. (gaan, mannelijk)", "antwoord": "andato" },
+    { "zin": "Ho ___ un bel film. (zien)", "antwoord": "visto" },
+    { "zin": "Ho ___ un libro. (lezen)", "antwoord": "letto" },
+    { "zin": "Ho ___ una lettera. (schrijven)", "antwoord": "scritto" },
+    { "zin": "Sono ___ nel 1990. (geboren worden, mannelijk)", "antwoord": "nato" },
+    { "zin": "Lei è ___ a Roma. (geboren worden, vrouwelijk)", "antwoord": "nata" },
+    { "zin": "È ___ una bella giornata. (zijn, vrouwelijk)", "antwoord": "stata" },
+    { "zin": "___ padre è italiano. (mijn)", "antwoord": "Mio" },
+    { "zin": "I ___ genitori abitano a Utrecht. (mijn)", "antwoord": "miei" },
+    { "zin": "___ figlio ha dieci anni. (ons)", "antwoord": "Nostro" },
+    { "zin": "La ___ figlia studia a Roma. (hun)", "antwoord": "loro" },
+    { "zin": "Sono ___ tardi a casa. (terugkeren, mannelijk)", "antwoord": "tornato" }
+  ],
+  "meerkeuzevragen": [
+    {
+      "vraag": "Hoe zeg je 'Ik vind muziek leuk'?",
+      "opties": ["Mi piace la musica.", "Io piaccio la musica.", "Mi piaccio la musica.", "Piace mi la musica."],
+      "antwoord": "Mi piace la musica.",
+      "uitleg": "Piacere werkt andersom dan in het Nederlands: het onderwerp is wat je leuk vindt. Mi piace la musica = de muziek bevalt mij."
+    },
+    {
+      "vraag": "Hoe zeg je 'Ik vind films leuk' (meervoud)?",
+      "opties": ["Mi piacciono i film.", "Mi piace i film.", "Mi piaccio i film.", "Io piacciono i film."],
+      "antwoord": "Mi piacciono i film.",
+      "uitleg": "Bij meervoud: mi piacciono. Mi piace + enkelvoud, mi piacciono + meervoud. Mi piacciono i film, mi piacciono le pizze."
+    },
+    {
+      "vraag": "Welk hulpwerkwoord gebruik je bij 'andare' in de passato prossimo?",
+      "opties": ["essere", "avere", "stare", "fare"],
+      "antwoord": "essere",
+      "uitleg": "Werkwoorden van beweging/verandering gebruiken 'essere': sono andato, sono venuto, sono partito, sono tornato, sono nato."
+    },
+    {
+      "vraag": "Wat is de passato prossimo van 'andare' (io, mannelijk)?",
+      "opties": ["sono andato", "ho andato", "sono andando", "ho andare"],
+      "antwoord": "sono andato",
+      "uitleg": "Andare gebruikt essere: sono andato (m), sono andata (v). Het voltooid deelwoord past zich aan bij essere."
+    },
+    {
+      "vraag": "Wat is het onregelmatige voltooid deelwoord van 'fare'?",
+      "opties": ["fatto", "farito", "fato", "facciuto"],
+      "antwoord": "fatto",
+      "uitleg": "Fare → fatto. Ho fatto la spesa, Ho fatto colazione. Onregelmatig voltooid deelwoord."
+    },
+    {
+      "vraag": "Wat is het onregelmatige voltooid deelwoord van 'vedere'?",
+      "opties": ["visto", "veduto", "viduto", "vedere"],
+      "antwoord": "visto",
+      "uitleg": "Vedere → visto. Ho visto un film. (Veduto bestaat ook maar is minder gebruikelijk.)"
+    },
+    {
+      "vraag": "Wat is het onregelmatige voltooid deelwoord van 'leggere'?",
+      "opties": ["letto", "leggito", "leggiuto", "lessuto"],
+      "antwoord": "letto",
+      "uitleg": "Leggere → letto. Ho letto un libro. Let op: 'il letto' betekent ook 'het bed'."
+    },
+    {
+      "vraag": "Wat is het onregelmatige voltooid deelwoord van 'scrivere'?",
+      "opties": ["scritto", "scrivito", "scrisso", "scriviuto"],
+      "antwoord": "scritto",
+      "uitleg": "Scrivere → scritto. Ho scritto una lettera, Ho scritto un'e-mail."
+    },
+    {
+      "vraag": "Waarom zeg je 'sono andata' en niet 'sono andato' (vrouw)?",
+      "opties": ["Bij essere past het voltooid deelwoord zich aan aan het onderwerp", "Het is altijd -a bij vrouwen", "Er is geen verschil", "Andare is altijd vrouwelijk"],
+      "antwoord": "Bij essere past het voltooid deelwoord zich aan aan het onderwerp",
+      "uitleg": "Met essere: sono andato (m), sono andata (v), siamo andati (m.mv), siamo andate (v.mv). Met avere verandert het niet: ho fatto (m én v)."
+    },
+    {
+      "vraag": "Welke zin is correct voor een vrouw? 'Ik ben geboren in Rome.'",
+      "opties": ["Sono nata a Roma.", "Sono nato a Roma.", "Ho nata a Roma.", "Ho nato a Roma."],
+      "antwoord": "Sono nata a Roma.",
+      "uitleg": "Nascere gebruikt essere: sono nata (v), sono nato (m). Het deelwoord past zich aan."
+    },
+    {
+      "vraag": "Hoe zeg je 'Bevalt het jou?' (formeel, enkelvoud)?",
+      "opties": ["Le piace?", "Ti piace?", "Vi piace?", "Gli piace?"],
+      "antwoord": "Le piace?",
+      "uitleg": "Mi piace (mij), ti piace (jou informeel), Le piace (u formeel), gli piace (hem), le piace (haar), ci piace (ons), vi piace (jullie)."
+    },
+    {
+      "vraag": "Welk bezittelijk voornaamwoord past? 'I ___ fratelli abitano a Roma.' (mijn)",
+      "opties": ["miei", "mio", "mie", "mia"],
+      "antwoord": "miei",
+      "uitleg": "Meervoud mannelijk: i miei fratelli, i tuoi amici, i suoi libri. Bij familieleden meervoud wél met lidwoord."
+    },
+    {
+      "vraag": "Wanneer gebruik je GEEN lidwoord bij bezittelijk voornaamwoord + familielid?",
+      "opties": ["Bij enkelvoud: mio padre, mia sorella", "Altijd zonder lidwoord", "Nooit zonder lidwoord", "Alleen bij loro"],
+      "antwoord": "Bij enkelvoud: mio padre, mia sorella",
+      "uitleg": "Enkelvoud zonder lidwoord: mio padre, tua madre, sua sorella. Meervoud mét: i miei fratelli. Uitzondering: 'loro' altijd met lidwoord: il loro figlio."
+    },
+    {
+      "vraag": "Welk bezittelijk voornaamwoord past? 'Il ___ figlio studia.' (hun)",
+      "opties": ["loro", "suo", "nostro", "vostro"],
+      "antwoord": "loro",
+      "uitleg": "'Loro' is onveranderlijk en altijd met lidwoord: il loro figlio, la loro figlia, i loro figli, le loro figlie."
+    },
+    {
+      "vraag": "Wat is de passato prossimo van 'stare' (io, vrouwelijk)?",
+      "opties": ["sono stata", "ho stata", "sono stato", "ho stato"],
+      "antwoord": "sono stata",
+      "uitleg": "Stare gebruikt essere: sono stato (m), sono stata (v). Sono stata a casa = ik ben thuis gebleven."
+    },
+    {
+      "vraag": "Wat is het onregelmatige voltooid deelwoord van 'essere'?",
+      "opties": ["stato", "essuto", "essito", "suto"],
+      "antwoord": "stato",
+      "uitleg": "Essere → stato/stata. È stato bello = het was mooi. È stata una bella giornata = het was een mooie dag."
+    },
+    {
+      "vraag": "Welke werkwoorden gebruiken 'essere' in de passato prossimo?",
+      "opties": ["Beweging en verandering: andare, venire, partire, nascere", "Alle werkwoorden", "Alleen 'essere' zelf", "Alleen wederkerende werkwoorden"],
+      "antwoord": "Beweging en verandering: andare, venire, partire, nascere",
+      "uitleg": "Essere bij: andare, venire, partire, tornare, arrivare, uscire, entrare, nascere, morire, stare, essere, restare, diventare."
+    },
+    {
+      "vraag": "Hoe zeg je 'Wij zijn naar het strand gegaan' (gemengde groep)?",
+      "opties": ["Siamo andati alla spiaggia.", "Siamo andate alla spiaggia.", "Abbiamo andato alla spiaggia.", "Siamo andato alla spiaggia."],
+      "antwoord": "Siamo andati alla spiaggia.",
+      "uitleg": "Bij een gemengde groep (mannen + vrouwen) gebruik je de mannelijke meervoudsvorm: siamo andati."
+    },
+    {
+      "vraag": "Hoe zeg je 'Mijn oma is geboren in 1940'?",
+      "opties": ["Mia nonna è nata nel 1940.", "Mia nonna ha nato nel 1940.", "Mia nonna è nato nel 1940.", "La mia nonna è nata nel 1940."],
+      "antwoord": "Mia nonna è nata nel 1940.",
+      "uitleg": "Nascere + essere: è nata (vrouwelijk). Familielid enkelvoud zonder lidwoord: mia nonna. Nel = in + il (voor jaartallen)."
+    },
+    {
+      "vraag": "Wat is het onregelmatige voltooid deelwoord van 'nascere'?",
+      "opties": ["nato", "nascito", "nasciuto", "nasso"],
+      "antwoord": "nato",
+      "uitleg": "Nascere → nato/nata. Sono nato nel 1990 (m), Sono nata nel 1990 (v)."
+    }
+  ],
+  "grammatica": [
+    { "titel": "Piacere", "uitleg": "Piacere werkt andersom: het onderwerp is wat je leuk vindt. Mi piace il caffè (de koffie bevalt mij). Mi piacciono i film (de films bevallen mij). Persoonlijke voornaamwoorden: mi (mij), ti (jou), gli (hem), le (haar), Le (u), ci (ons), vi (jullie)." },
+    { "titel": "Passato prossimo met essere", "uitleg": "Werkwoorden van beweging/verandering gebruiken essere + voltooid deelwoord: sono andato/a, sei venuto/a, è partito/a, siamo tornati/e. Het deelwoord past zich aan aan het onderwerp (geslacht en getal). Werkwoorden: andare, venire, partire, tornare, arrivare, uscire, entrare, nascere, morire, stare, restare, essere." },
+    { "titel": "Passato prossimo: essere vs. avere", "uitleg": "Avere: de meeste werkwoorden → ho mangiato, ho lavorato, ho dormito. Essere: beweging/verandering → sono andato, sono nato, sono stato. Met avere verandert het deelwoord niet. Met essere past het zich aan: sono andato (m), sono andata (v), siamo andati (m.mv), siamo andate (v.mv)." },
+    { "titel": "Voltooid deelwoord: onregelmatig", "uitleg": "Veel gebruikte onregelmatige deelwoorden: fare → fatto, vedere → visto, leggere → letto, scrivere → scritto, essere → stato, nascere → nato, prendere → preso, aprire → aperto, dire → detto, venire → venuto, rimanere → rimasto, mettere → messo." },
+    { "titel": "Familiebanden", "uitleg": "il padre/la madre (vader/moeder), il fratello/la sorella (broer/zus), il figlio/la figlia (zoon/dochter), il marito/la moglie (echtgenoot/echtgenote), il nonno/la nonna (opa/oma), lo zio/la zia (oom/tante), il cugino/la cugina (neef/nicht), i genitori (ouders)." },
+    { "titel": "Bezittelijk voornaamwoord: alle vormen", "uitleg": "Enkelvoud: mio/mia, tuo/tua, suo/sua, nostro/nostra, vostro/vostra, loro (onveranderlijk). Meervoud: miei/mie, tuoi/tue, suoi/sue, nostri/nostre, vostri/vostre, loro. Normaal met lidwoord: il mio libro, la tua casa. Familieleden enkelvoud zonder: mio padre. 'Loro' altijd met lidwoord: il loro figlio." }
+  ],
+  "luisteroefeningen": [],
+  "schrijfopdrachten": []
+}
